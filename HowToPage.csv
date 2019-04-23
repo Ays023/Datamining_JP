@@ -7338,8 +7338,26 @@ HUD上に表示されたアクションを
 たくさんの青魔法修得を目指しましょう！
 
 　　　　　　　　　　　次のページへ》","",""
-2506,0,0,"ui/icon/000000/000000.tex",0,"","",""
-2507,0,0,"ui/icon/000000/000000.tex",0,"","",""
+2506,1,0,"ui/icon/152000/ja/152761.tex",0,"FFXIVの世界には、あなたがいる
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ホームワールド」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以外にも、
+たくさんのワールドが存在しています。
+特定の街のエーテライトを使えば、
+他のワールドへ遊びにいけます！
+
+ワールドを越えてフレンドと遊んだり、
+異なる文化を楽しみたい時は、
+別のワールドへ旅をしてみましょう。
+　　　　　　　　　　　次のページへ》","",""
+2507,1,0,"ui/icon/152000/ja/152762.tex",0,"旅先のワールドからホームワールドへ
+戻ってきたい場合にも、旅先のワールドの
+エーテライトから自由に移動が可能です。
+
+他のワールド訪問中には、
+いくつかの機能に制限が加わります。
+
+詳しくはエーテライトから参照できる
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ワールド間テレポ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の注意事項を
+ご確認ください。","",""
 2508,1,0,"ui/icon/152000/ja/152775.tex",0,"青魔道士の持つ武器<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「青魔器」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>は、
 通常の装備品とは異なり、
 キャラクターを強化するパラメータが、
