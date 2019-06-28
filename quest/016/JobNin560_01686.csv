@@ -120,7 +120,7 @@ int32,str,str
 73,"TEXT_JOBNIN560_01686_REDWAY_000_202","そして、ユキ・ヤツルギが雇っている忍びがふたり。
 ひとりは隠れ里の上忍……名は、オボロ。
 いわゆる優等生……要注意だ、ウン。"
-74,"TEXT_JOBNIN560_01686_REDWAY_000_203","もうひとりは、<Switch(PlayerParameter(71))><Case(1)>ヒューラン族</Case><Case(2)>エレゼン族</Case><Case(3)>ララフェル族</Case><Case(4)>ミコッテ族</Case><Case(5)>ルガディン族</Case><Case(6)>アウラ族</Case></Switch>の<If(PlayerParameter(4))>女<Else/>男</If>……。
+74,"TEXT_JOBNIN560_01686_REDWAY_000_203","もうひとりは、<Switch(PlayerParameter(71))><Case(1)>ヒューラン族</Case><Case(2)>エレゼン族</Case><Case(3)>ララフェル族</Case><Case(4)>ミコッテ族</Case><Case(5)>ルガディン族</Case><Case(6)>アウラ族</Case><Case(7)>ロスガル族</Case><Case(8)>ヴィエラ族</Case></Switch>の<If(PlayerParameter(4))>女<Else/>男</If>……。
 おそらく、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>という冒険者……ウン。
 名前は知ってる、一応注意。"
 75,"TEXT_JOBNIN560_01686_REDWAY_000_204","かつての師は、このふたりに倒されている……。

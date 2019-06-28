@@ -63,7 +63,7 @@ int32,str,str
 奴らから戦いの意欲を奪ってやれ！　フスィーッ！"
 52,"TEXT_BANSAH104_01382_POPMESSAGE_000_010","敵の気配を感じた！！"
 53,"TEXT_BANSAH104_01382_POPMESSAGE_000_011","その行動は出現した敵を倒さないと実行できません"
-54,"TEXT_BANSAH104_01382_BALLOON_000_012","フスィーッ…<Switch(PlayerParameter(71))><Case(1)>盗人</Case><Case(2)>盗人</Case><Case(3)>盗人</Case><Case(4)>泥棒猫</Case><Case(5)>盗人</Case><Case(6)>盗人</Case></Switch>めッ！"
+54,"TEXT_BANSAH104_01382_BALLOON_000_012","フスィーッ…<Switch(PlayerParameter(71))><Case(1)>盗人</Case><Case(2)>盗人</Case><Case(3)>盗人</Case><Case(4)>泥棒猫</Case><Case(5)>盗人</Case><Case(6)>盗人</Case><Case(7)>盗人</Case><Case(8)>盗人</Case></Switch>めッ！"
 55,"TEXT_BANSAH104_01382_BALLOON_000_013","フスィーッ…
 勝手に触んじゃねぇ！"
 56,"TEXT_BANSAH104_01382_BALLOON_000_014","フスィーッ…

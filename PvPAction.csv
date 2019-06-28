@@ -28,7 +28,7 @@ int32,Action,byte,uint16,uint16,uint16,bool,bool,bool,byte
 24,"エーテルバースト",0,0,0,0,True,True,True,0
 25,"集中",0,0,0,0,True,True,True,0
 26,"魔気",0,0,0,0,True,True,True,0
-27,"浄化",0,0,0,0,True,True,True,0
+27,"",0,0,0,0,True,True,True,0
 28,"堅守",0,0,0,0,True,True,True,0
 29,"強襲撃",0,0,0,0,True,True,True,0
 30,"辻風",0,0,0,0,True,True,True,0

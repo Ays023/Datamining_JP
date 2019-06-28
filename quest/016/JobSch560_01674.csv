@@ -93,7 +93,7 @@ int32,str,str
 お前のような「微笑みメガネ」が海兵だと？
 ハッハッハッハッ……笑わせるな！！"
 62,"TEXT_JOBSCH560_01674_HALGATOLGA_000_021","それに、こっちが軍学を継承した「次代の学者」だと？
-お前のような「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」が！？
+お前のような「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case><Case(7)>ケダラケ</Case><Case(8)>デカミミ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」が！？
 ふたりして、俺を笑い死にさせるつもりか！！"
 63,"TEXT_JOBSCH560_01674_HALGATOLGA_000_022","だが、俺の訓練を乗り越えれば、
 貴様らお笑い「珍兵団」も、いっぱしの戦力になるだろう！
@@ -118,7 +118,7 @@ int32,str,str
 71,"TEXT_JOBSCH560_01674_ALKAZOLKA_000_027","海兵魂ぃぃぃぃぃぃぃぃ！！"
 72,"TEXT_JOBSCH560_01674_HALGATOLGA_000_028","そうだ、そうだ、その「海兵魂」を忘れるな！
 よし、今回は貴様らに別々の課題をあたえてやるぞ！！"
-73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","おい、「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」！
+73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","おい、「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case><Case(7)>ケダラケ</Case><Case(8)>デカミミ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」！
 そこらでイキがってる「マムージャ傭兵隊長」を見つけて、
 「大笑い」してバカにしてやれ！"
 74,"TEXT_JOBSCH560_01674_HALGATOLGA_000_030","奴らは、ワンダラーパレスを狙うクズ野郎だ！
@@ -134,7 +134,7 @@ int32,str,str
 我ら、を、「光鱗戦闘団」の一員と知、り、
 声をかけているの、か？"
 78,"TEXT_JOBSCH560_01674_HALGATOLGA_000_040","ふたりとも、どうにかこうにか課題を達成したようだな！！
-「微笑みメガネ」と「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」にしては、
+「微笑みメガネ」と「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case><Case(7)>ケダラケ</Case><Case(8)>デカミミ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」にしては、
 上出来だと褒めてやる……"
 79,"TEXT_JOBSCH560_01674_HALGATOLGA_000_041","……とでも、思ったか！
 この程度の課題であれば、もっと早くできたはずだ！
@@ -148,7 +148,7 @@ int32,str,str
 最強軍団に、仲間の命を脅かす足手まといは不要だ！！
 最低限の「個の力」が必要なのだ！！"
 83,"TEXT_JOBSCH560_01674_HALGATOLGA_000_045","「微笑みメガネ」は、あの肉体を見て何も感じなかったのか？
-「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」は、多数の敵との戦いで、
+「<Switch(PlayerParameter(71))><Case(1)>アホヅラ</Case><Case(2)>ガリヒョロ</Case><Case(3)>クソチビ</Case><Case(4)>ドブネコ</Case><Case(5)>クソデカ</Case><Case(6)>ウロコ</Case><Case(7)>ケダラケ</Case><Case(8)>デカミミ</Case></Switch><If(PlayerParameter(4))>娘<Else/>野郎</If>」は、多数の敵との戦いで、
 何も得るものがなかったとでも……！？"
 84,"TEXT_JOBSCH560_01674_HALGATOLGA_000_046","それぞれ、今日の訓練を思い出し、修行し直してこい！
 貴様らが強くならねば、「消えた妖異」をブチのめし、

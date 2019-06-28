@@ -11,9 +11,9 @@ int32,str,str
 
 星芒祭の飾りを盗んでいた犯人は、トレントだった。現れた流れの聖人によると、犯人と思しきトレントらは南へと向かっているらしい。先行して情報収集に向かった、中央森林のガルヴァンス監視哨にいる「ベーンフェールド」と合流しよう。"
 2,"TEXT_FESXMS302_03010_SEQ_02","ベーンフェールドと合流した。飾りを盗んだ犯トレントは、鏡池桟橋付近に集まっているらしい。中央森林の鏡池桟橋にいる「熊好きの星芒祭実行委員」と話そう。"
-3,"TEXT_FESXMS302_03010_SEQ_03","熊好きの星芒祭実行委員と話し、<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>に騎乗した。彼らの「プレゼントクラッカー」なら、犯トレントを無力化できるはずだ。鏡池桟橋付近で発生しているF.A.T.E.『星芒祭「森の盗人」』に参加し、犯トレントの無力化に貢献しよう。
+3,"TEXT_FESXMS302_03010_SEQ_03","熊好きの星芒祭実行委員と話し、<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>に騎乗した。彼らの「プレゼントクラッカー」なら、犯トレントを無力化できるはずだ。鏡池桟橋付近で発生しているF.A.T.E.『星芒祭「森の盗人」』に参加し、犯トレントの無力化に貢献しよう。
 
-※鏡池桟橋付近にいる「熊好きの星芒祭実行委員」に話しかけると「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>」に騎乗できます。"
+※鏡池桟橋付近にいる「熊好きの星芒祭実行委員」に話しかけると「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>」に騎乗できます。"
 4,"TEXT_FESXMS302_03010_SEQ_04","犯トレントの無力化に貢献した。ベントブランチ牧場の「タッフ」と話そう。"
 5,"TEXT_FESXMS302_03010_SEQ_05","タッフと話した。後からやって来たベーンフェールドによれば、犯トレントの大半を確保し、盗まれた飾りを取り戻すことができたそうだ。星芒祭の盗難事件はこれで解決を迎えたが、まだ逃げている犯トレントもいるそうなので、また無力化に貢献するのもよいだろう。"
 6,"TEXT_FESXMS302_03010_SEQ_06",""
@@ -60,7 +60,7 @@ int32,str,str
 47,"TEXT_FESXMS302_03010_TODO_23",""
 48,"TEXT_FESXMS302_03010_TAFF_000_000","<If(PlayerParameter(4))>お姉さん<Else/>お兄さん</If>、星芒祭の飾りを取り戻してくれるの！？
 うわーい、ありがとう！"
-49,"TEXT_FESXMS302_03010_BAENFAELD_000_001","帰ってきた<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>が「ついてこい」と騒ぐんで、
+49,"TEXT_FESXMS302_03010_BAENFAELD_000_001","帰ってきた<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>が「ついてこい」と騒ぐんで、
 捜査を中断して来てみたんだが……。
 なんかあったのか？"
 50,"TEXT_FESXMS302_03010_BAENFAELD_000_002","なんだって！？
@@ -115,7 +115,7 @@ int32,str,str
 74,"TEXT_FESXMS302_03010_BAENFAELD_000_048","あとは犯トレントの居場所だが……。
 南下してるなら、「ガルヴァンス監視哨」の奴が、
 目撃しているかもしれん。"
-75,"TEXT_FESXMS302_03010_BAENFAELD_000_049","俺と<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>たちは、先に行って情報を集めておく。
+75,"TEXT_FESXMS302_03010_BAENFAELD_000_049","俺と<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>たちは、先に行って情報を集めておく。
 お前さんも、追って「ガルヴァンス監視哨」まで来てくれ。"
 76,"TEXT_FESXMS302_03010_GODBERT_000_050","ホッホッホウ、事態は解決に向けて動き出した様子。
 子どもたちのため、冒険者殿、よろしくお願いしますぞ！"
@@ -124,21 +124,21 @@ int32,str,str
 78,"TEXT_FESXMS302_03010_BAENFAELD_000_060","よう、情報はバッチリ得られたぜ。
 飾りを盗んだ犯トレントたちは、
 「鏡池桟橋」付近に集まっているらしい。"
-79,"TEXT_FESXMS302_03010_BAENFAELD_000_061","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>たちは、すでに向かってる。
+79,"TEXT_FESXMS302_03010_BAENFAELD_000_061","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>たちは、すでに向かってる。
 犯トレントが現れたら、「熊好きの星芒祭実行委員」に声をかけ、
-<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>に騎乗して、「プレゼントクラッカー」を投げるんだ！"
+<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>に騎乗して、「プレゼントクラッカー」を投げるんだ！"
 80,"TEXT_FESXMS302_03010_BAENFAELD_000_062","無力化した犯トレントの確保は、俺たち実行委員がやる。
 それと、ほかの冒険者たちにも応援を頼んでおこう。
 是が非でも、飾りと子どもたちの笑顔を取り戻すぞ！"
 81,"TEXT_FESXMS302_03010_TAFF_000_063","僕は邪魔になるだろうし、帰ってくるの待ってるから！
 <If(PlayerParameter(4))>お姉さん<Else/>お兄さん</If>、頑張ってね！"
 82,"TEXT_FESXMS302_03010_COMMITTEE00439_100_065","ベーンフェールドさんから、話は聞いています。
-<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>の準備は、万端ですよ。
+<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>の準備は、万端ですよ。
 騎乗して、犯トレントの無力化をお願いします！"
 83,"TEXT_FESXMS302_03010_SYSTEM_110_065","F.A.T.E.『星芒祭「森の盗人」』は、
 「熊好きの星芒祭実行委員」に話しかけて騎乗する、
-「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>」でのみ貢献することができます。"
-84,"TEXT_FESXMS302_03010_COMMITTEE00439_110_065","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>なら、戻ってきてますよ！
+「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>」でのみ貢献することができます。"
+84,"TEXT_FESXMS302_03010_COMMITTEE00439_110_065","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>なら、戻ってきてますよ！
 すぐに呼んできますので、
 犯トレントの無力化を、よろしくお願いします！"
 85,"TEXT_FESXMS302_03010_TAFF_000_070","<If(PlayerParameter(4))>お姉さん<Else/>お兄さん</If>、お帰りなさい！

@@ -228,13 +228,13 @@ int32,str,str
 そのグランドカンパニーの管理担当官へ話しかけてください。"
 100,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_96","前回の移籍からあまり時間が経っていないようですね。
 しばらく経ってから、またお越しください。"
-101,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97","前回の移籍から7日（地球時間）が経過しないと
+101,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97","前回の移籍から24時間（地球時間）が経過しないと
 次の移籍をすることができません。"
 102,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_98","移籍をすると元のグランドカンパニーへの
 友好度が下がっていきますが、その他のパラメーター、
 資産、権利、状態は維持されます。"
 103,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_99","一度移籍をすると、
-7日（地球時間）経過するまで移籍できなくなります。"
+24時間（地球時間）経過するまで移籍できなくなります。"
 104,"TEXT_COMDEFFREECOMPANY_00076_Q5_01","移籍費用15,000ギルを支払い、
 <Switch(IntegerParameter(1))><Case(1)>黒渦団</Case><Case(2)>双蛇党</Case><Case(3)>不滅隊</Case></Switch>に移籍しますか？"
 105,"TEXT_COMDEFFREECOMPANY_00076_A5_01","はい"

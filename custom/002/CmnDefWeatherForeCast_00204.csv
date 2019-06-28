@@ -7,3 +7,5 @@ int32,str,str
 1,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050","<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>の現在の天気は<Sheet(Weather,IntegerParameter(2),1)/>。
 このあと、<If(Equal(IntegerParameter(3),IntegerParameter(4)))>しばらく<Sheet(Weather,IntegerParameter(3),1)/>が続き、<Else/><Sheet(Weather,IntegerParameter(3),1)/>から<Sheet(Weather,IntegerParameter(4),1)/>と続き、</If>
 明日のこの時間は、<Sheet(Weather,IntegerParameter(5),1)/>となるでしょう。"
+2,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100","現在、<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>は乾季の真っ只中……。
+しばらく雨もなく、空を覆うのは、無尽光ばかりでしょう。"

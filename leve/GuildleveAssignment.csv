@@ -58,7 +58,8 @@ int32,str,str
 42,"TEXT_GUILDLEVEASSIGNMENT_TALK_BATTLE_LEVE_00","傭兵稼業の任務はジャーナルから開始することができます。
 任務に必要な情報は同じくジャーナルや、
 目的リストから確認できます。"
-43,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_00","園芸師、採掘師の任務は傭兵稼業と同様、
+43,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_00","園芸師、採掘師の任務は、
+ジャーナルから開始することができます。
 漁師の任務は、製作稼業と同様の流れで進行します。"
 44,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_01","なお、園芸師、採掘師の任務は、
 採集道具を装備しており、

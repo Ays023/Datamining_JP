@@ -238,8 +238,7 @@ int32,str,str
 146,"TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_02","くっ……生意気な弓使いどもがっ！"
 147,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_02","敵に回復魔法の使い手が……
 この戦い、下手すると長引くぞ"
-148,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_03","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>
-ミザリーエンドで、幻術士をさっさと片付けてしまえ！"
+148,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_03","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、幻術士をさっさと片付けてしまえ！"
 149,"TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_03","このっ……調子に乗りやがって！"
 150,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_04","クイックノックだと……ふんっ、敵にも腕の立つやつがいるらしい。"
 151,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_05","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>

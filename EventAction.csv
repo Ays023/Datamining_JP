@@ -73,3 +73,5 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 69,"実行","ui/icon/061000/061103.tex",1,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 70,"剥ぎ取り","ui/icon/061000/061103.tex",5,"normal/searchaction_start","normal/searchaction_loop","normal/searchaction_end"
 71,"召喚","ui/icon/061000/061103.tex",2,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
+72,"介抱","ui/icon/061000/061103.tex",5,"normal/opeaction_start","normal/opeaction_loop","normal/opeaction_end"
+73,"治癒魔法","ui/icon/061000/061173.tex",5,"","",""

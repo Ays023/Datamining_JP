@@ -8,7 +8,7 @@ int32,Image,PlaceName,bit&01
 4,"ui/icon/060000/060434.tex","修理",True
 5,"ui/icon/060000/060551.tex","モグレター",True
 6,"ui/icon/060000/060425.tex","呼び鈴",True
-7,"ui/icon/060000/060426.tex","リテイナー雇用",True
+7,"ui/icon/060000/060426.tex","リテイナー手続き",True
 8,"ui/icon/060000/060427.tex","リンクシェル発行",True
 9,"ui/icon/060000/060460.tex","カンパニーチェスト",True
 10,"ui/icon/060000/060560.tex","呼び鈴（宿屋内）",True
@@ -80,3 +80,5 @@ int32,Image,PlaceName,bit&01
 76,"ui/icon/060000/060971.tex","コンテンツ退出口",True
 77,"ui/icon/061000/061751.tex","旅のモーグリ",True
 78,"ui/icon/060000/060983.tex","青魔道士",True
+79,"ui/icon/060000/060988.tex","居室 (宿屋)",True
+80,"ui/icon/060000/060986.tex","ミーン工芸館取引",True

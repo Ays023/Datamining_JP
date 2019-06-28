@@ -166,15 +166,12 @@ int32,str,str
 98,"TEXT_CLSACN150_00458_QIB_002_TODO_1","モーニングスター号の水夫を倒せ！"
 99,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_01","敵陣の状況を確認！
 皆さん、「強行突破戦術」へ移行します！"
-100,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_02","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>は、
-カーバンクル・トパーズを召喚してください！"
-101,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_03","敵の攻撃をカーバンクルに引きつけ、
-敵陣に突破口を作り出します！"
-102,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_05","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>！
-カーバンクルでガイスフリンへの攻撃を受け止めてください！"
-103,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_06","カーバンクルには、癒し手を最優先で守らせてください！"
-104,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_10","注意すべきは、斧術のオーバーパワー！
-カーバンクルで、仲間を守ってください！"
+100,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_02","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>は、カーバンクルの召喚を。
+総力を上げ、敵陣に突破口を作り出すのです！"
+101,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_03","（★未使用／削除予定★）"
+102,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_05","（★未使用／削除予定★）"
+103,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_06","癒し手のガイスフリンを最優先で守ってください！"
+104,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_10","（★未使用／削除予定★）"
 105,"TEXT_CLSACN150_00458_QIB_AERSTHOTA_BATTLETALK_DEAD","みんな、すまない……！"
 106,"TEXT_CLSACN150_00458_QIB_GEISSFRYN_BATTLETALK_DEAD","くっ、癒し手が倒れるとは……。"
 107,"TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_DEAD","想定のなかで、最悪の状況です……。"

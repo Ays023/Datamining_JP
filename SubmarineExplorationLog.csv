@@ -32,3 +32,4 @@ int32,str
 28,"全目的地の探索完了！　帰還します！［探索完了］"
 29,"<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>航行中に「<Sheet(SubmarineExploration,IntegerParameter(1),0)/>」を発見しました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>探索の成果が認められ、新たに潜水艦を登録する資格を得ました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+31,""

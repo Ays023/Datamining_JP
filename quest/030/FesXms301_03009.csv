@@ -11,12 +11,12 @@ int32,str,str
 
 アム・ガランジから、星芒祭を成功させるために力を貸してほしいと頼まれた。詳しい話を聞くため、中央森林のベントブランチ牧場にいる「ベーンフェールド」と話そう。"
 2,"TEXT_FESXMS301_03009_SEQ_02","ベーンフェールドから話を聞いた。星芒祭の飾りが盗まれる事件によって落ち込む子どもたちを励ますため、熊に騎乗して芸を見せてほしいと依頼された。騎乗する個体を選ぶため、体格に合った熊と話そう。"
-3,"TEXT_FESXMS301_03009_SEQ_03","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>に騎乗した。子どもたちに芸を見せるため、<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>に騎乗した状態で、ベントブランチ牧場の「<Sheet(EObj,2008623,0)/>」に「プレゼントクラッカー」を使おう。
+3,"TEXT_FESXMS301_03009_SEQ_03","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>に騎乗した。子どもたちに芸を見せるため、<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>に騎乗した状態で、ベントブランチ牧場の「<Sheet(EObj,2008623,0)/>」に「プレゼントクラッカー」を使おう。
 
-※ベントブランチ牧場にいる「熊好きの星芒祭実行委員」に話しかけると「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>」に騎乗できます。"
-4,"TEXT_FESXMS301_03009_SEQ_04","子どもたちに芸を見せた。タッフに芸を見せるため、<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>に騎乗した状態で、ベントブランチ牧場の2箇所目の「<Sheet(EObj,2008624,0)/>」に「プレゼントクラッカー」を使おう。
+※ベントブランチ牧場にいる「熊好きの星芒祭実行委員」に話しかけると「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>」に騎乗できます。"
+4,"TEXT_FESXMS301_03009_SEQ_04","子どもたちに芸を見せた。タッフに芸を見せるため、<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>に騎乗した状態で、ベントブランチ牧場の2箇所目の「<Sheet(EObj,2008624,0)/>」に「プレゼントクラッカー」を使おう。
 
-※ベントブランチ牧場にいる「熊好きの星芒祭実行委員」に話しかけると「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>」に騎乗できます。"
+※ベントブランチ牧場にいる「熊好きの星芒祭実行委員」に話しかけると「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>」に騎乗できます。"
 5,"TEXT_FESXMS301_03009_SEQ_05","タッフに芸を見せた。彼は冒険者に話したいことがあるらしい。ベントブランチ牧場の「タッフ」と話そう。"
 6,"TEXT_FESXMS301_03009_SEQ_06","なんとタッフは星芒祭の飾りを盗んだ犯人を目撃したという。彼の話を聞いて、犯人を捕まえ、盗まれた飾りを取り戻そう。"
 7,"TEXT_FESXMS301_03009_SEQ_07",""
@@ -38,9 +38,9 @@ int32,str,str
 23,"TEXT_FESXMS301_03009_SEQ_23",""
 24,"TEXT_FESXMS301_03009_TODO_00","ベントブランチ牧場のベーンフェールドと話す"
 25,"TEXT_FESXMS301_03009_TODO_01","体格に合った熊と話す"
-26,"TEXT_FESXMS301_03009_TODO_02","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>に騎乗して
+26,"TEXT_FESXMS301_03009_TODO_02","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>に騎乗して
 <Sheet(EObj,2008623,0)/>にプレゼントクラッカーを使う"
-27,"TEXT_FESXMS301_03009_TODO_03","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>に騎乗して
+27,"TEXT_FESXMS301_03009_TODO_03","<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>に騎乗して
 2箇所目の<Sheet(EObj,2008624,0)/>にプレゼントクラッカーを使う"
 28,"TEXT_FESXMS301_03009_TODO_04","タッフと話す"
 29,"TEXT_FESXMS301_03009_TODO_05",""
@@ -141,7 +141,7 @@ int32,str,str
 「プレゼントクラッカー」を、子どもたちの前に投げて、
 笑顔にしてやってくれ！"
 83,"TEXT_FESXMS301_03009_COMMITTEE03009_000_145","ベーンフェールドさんから話は聞いてます。
-はぐれた<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>なら帰ってきているので、
+はぐれた<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>なら帰ってきているので、
 いま呼びますね。"
 84,"TEXT_FESXMS301_03009_SYSTEM_000_146","この地点に向かって「プレゼントクラッカー」を投げれば、
 子どもにしっかり見てもらえそうだ。"

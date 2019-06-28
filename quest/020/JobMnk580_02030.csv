@@ -96,7 +96,7 @@ int32,str,str
 ウィダルゲルトを殺し、陰の第七のチャクラを開きなさい。"
 68,"TEXT_JOBMNK580_02030_HRAHATIA_000_107","そして、我が「陰の流派」に帰ってくるのです。
 そうすれば、ゼンツァの命は救ってやろうではありませんか。"
-69,"TEXT_JOBMNK580_02030_HRAHATIA_000_108","陽の「第七のチャクラ」を開きし<Switch(PlayerParameter(71))><Case(1)>ヒューラン族</Case><Case(2)>エレゼン族</Case><Case(3)>ララフェル族</Case><Case(4)>ミコッテ族</Case><Case(5)>ルガディン族</Case><Case(6)>アウラ族</Case></Switch>の冒険者……。
+69,"TEXT_JOBMNK580_02030_HRAHATIA_000_108","陽の「第七のチャクラ」を開きし<Switch(PlayerParameter(71))><Case(1)>ヒューラン族</Case><Case(2)>エレゼン族</Case><Case(3)>ララフェル族</Case><Case(4)>ミコッテ族</Case><Case(5)>ルガディン族</Case><Case(6)>アウラ族</Case><Case(7)>ロスガル族</Case><Case(8)>ヴィエラ族</Case></Switch>の冒険者……。
 あなたが我が支配下に入れば、彼女たちを解放しましょう。
 ……どうです、魅力的な取引でしょう？"
 70,"TEXT_JOBMNK580_02030_HRAHATIA_000_109","私は、リトルアラミゴの南の遺跡で待ちます。

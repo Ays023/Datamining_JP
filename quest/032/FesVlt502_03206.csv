@@ -307,14 +307,14 @@ int32,str,str
 134,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_410","ふたりは運命共同体に相応しい、最高の相性だね。
 ツレにとって、お前さんは<Switch(PlayerParameter(79))><Case(1)>頼りになる</Case><Case(2)>甘えられる</Case><Case(3)>背中を預けられる</Case><Case(4)>可愛すぎる</Case><Case(5)>痺れる</Case><Case(6)>寝顔を見せられる</Case><Case(7)>油断できる</Case><Case(8)>拳で語り合える</Case><Case(9)>本心を語れる</Case><Case(10)>双子のような</Case><Case(11)>相棒と呼べる</Case><Case(12)>食べたいくらいの</Case></Switch>相手だ。
 ただし、それにかまけて相手を雑に扱うんじゃないよ？"
-135,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_411","<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case></Switch>の<If(PlayerParameter(4))>女<Else/>男</If>として似合う服を披露して、
+135,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_411","<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case><Case(7)>ロスガル</Case><Case(8)>ヴィエラ</Case></Switch>の<If(PlayerParameter(4))>女<Else/>男</If>として似合う服を披露して、
 相手を喜ばせてやるくらいの心遣いが必要なのさ。
 大切なパートナーなんだ、逃すんじゃないよ！"
 136,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_420","ふたりは運命共同体に相応しい、最高の相性だね。
 ツレにとって、お前さんは<Switch(PlayerParameter(79))><Case(1)>可愛すぎる</Case><Case(2)>痺れる</Case><Case(3)>寝顔を見せられる</Case><Case(4)>油断できる</Case><Case(5)>拳で語り合える</Case><Case(6)>本心を語れる</Case><Case(7)>双子のような</Case><Case(8)>相棒と呼べる</Case><Case(9)>食べたいくらいの</Case><Case(10)>頼りになる</Case><Case(11)>甘えられる</Case><Case(12)>背中を預けられる</Case></Switch>相手だ。
 ただし、それにかまけて相手を雑に扱うんじゃないよ？"
-137,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_421","たまには、<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case></Switch>のお前さんにとっての定番料理、
-<Switch(PlayerParameter(71))><Case(1)>ハニーマフィン</Case><Case(2)>トマトパイ</Case><Case(3)>プレッツェル</Case><Case(4)>ミコッテ風山の幸串焼</Case><Case(5)>パイクのキャベツ巻き</Case><Case(6)>ドードーのグリル</Case></Switch>でも相手に振る舞ってやりな！
+137,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_421","たまには、<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case><Case(7)>ロスガル</Case><Case(8)>ヴィエラ</Case></Switch>のお前さんにとっての定番料理、
+<Switch(PlayerParameter(71))><Case(1)>ハニーマフィン</Case><Case(2)>トマトパイ</Case><Case(3)>プレッツェル</Case><Case(4)>ミコッテ風山の幸串焼</Case><Case(5)>パイクのキャベツ巻き</Case><Case(6)>ドードーのグリル</Case><Case(7)>大山羊ステーキ</Case><Case(8)>キノコのソテー</Case></Switch>でも相手に振る舞ってやりな！
 大切なパートナーなんだ、逃すんじゃないよ！"
 138,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_430","ふたりは運命共同体に相応しい、最高の相性だね。
 ツレにとって、お前さんは<Switch(PlayerParameter(79))><Case(1)>油断できる</Case><Case(2)>拳で語り合える</Case><Case(3)>本心を語れる</Case><Case(4)>双子のような</Case><Case(5)>相棒と呼べる</Case><Case(6)>食べたいくらいの</Case><Case(7)>頼りになる</Case><Case(8)>甘えられる</Case><Case(9)>背中を預けられる</Case><Case(10)>可愛すぎる</Case><Case(11)>痺れる</Case><Case(12)>寝顔を見せられる</Case></Switch>相手だ。
@@ -337,7 +337,7 @@ int32,str,str
 144,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_460","ふたりは可もなく不可もない相性だね。
 ツレにとって、お前さんは<Switch(PlayerParameter(79))><Case(1)>同僚程度の</Case><Case(2)>少し気兼ねする</Case><Case(3)>相談しづらい</Case><Case(4)>心の扉は開いていない</Case><Case(5)>来る者拒まず程度な</Case><Case(6)>お隣さん程度の</Case><Case(7)>かしこまってしまう</Case><Case(8)>顔色をうかがう</Case><Case(9)>そこそこの仲な</Case><Case(10)>特別な魅力は感じない</Case><Case(11)>顔なじみ程度の</Case><Case(12)>認知はしている</Case></Switch>相手だ。
 焦らずに、いたわりあうところから始めることだね！"
-145,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_461","<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case></Switch>の<If(PlayerParameter(4))>女<Else/>男</If>として、
+145,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_461","<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case><Case(7)>ロスガル</Case><Case(8)>ヴィエラ</Case></Switch>の<If(PlayerParameter(4))>女<Else/>男</If>として、
 相手に見合うだけの器を備える努力をしないとダメさ。
 より深い関係になりたければ、とにかく頑張ることだよ！"
 146,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_470","ふたりは可もなく不可もない相性だね。
@@ -367,7 +367,7 @@ int32,str,str
 154,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_510","ふたりは稀に見る最悪の相性だよ……。
 ツレにとって、お前さんは<Switch(PlayerParameter(79))><Case(1)>犬猿の</Case><Case(2)>油断大敵な</Case><Case(3)>存在を脅かす</Case><Case(4)>隙を見せられない</Case><Case(5)>嫌悪感を抱く</Case><Case(6)>居合わせたくない</Case><Case(7)>顔も見たくない</Case><Case(8)>一緒にいて疲れる</Case><Case(9)>全く魅力的でない</Case><Case(10)>そりが合わない</Case><Case(11)>冷戦状態の</Case><Case(12)>反目する</Case></Switch>相手だ。
 だが、相性を好転させる方法がない訳じゃない。"
-155,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_511","<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case></Switch>としての自分の生き方を、
+155,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_511","<Switch(PlayerParameter(71))><Case(1)>ヒューラン</Case><Case(2)>エレゼン</Case><Case(3)>ララフェル</Case><Case(4)>ミコッテ</Case><Case(5)>ルガディン</Case><Case(6)>アウラ</Case><Case(7)>ロスガル</Case><Case(8)>ヴィエラ</Case></Switch>としての自分の生き方を、
 押しつけていないか、しっかり見つめなおしてごらんよ。
 相手の立場や意見も尊重することだね。"
 156,"TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_520","ふたりは稀に見る最悪の相性だよ……。

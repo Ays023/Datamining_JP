@@ -148,7 +148,7 @@ int32,str,str
 そいつは先に仕留めたほうがいいわ！"
 90,"TEXT_CLSPGL250_00566_QIB_001_RURUKUTA_BATTLETALK_03","チッ……こうなったらバステト！　<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>を殺せ！！"
 91,"TEXT_CLSPGL250_00566_QIB_001_CHUCHUTO_BATTLETALK_03","バステト！？　アンタ、なんてもん連れてくんのよ！！"
-92,"TEXT_CLSPGL250_00566_QIB_001_CHUCHUTO_BATTLETALK_04","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、そいつのカオティックアイはスタミナを奪うわ！
+92,"TEXT_CLSPGL250_00566_QIB_001_CHUCHUTO_BATTLETALK_04","そいつのカオティックアイは、こちらの力を奪うわ！
 目を合わせないように気をつけてっ！"
 93,"TEXT_CLSPGL250_00566_QIB_001_CHUCHUTO_BATTLETALK_05","くっ……ルルクタ、腕を上げたわね……！"
 94,"TEXT_CLSPGL250_00566_QIB_001_CHUCHUTO_BATTLETALK_06","ごめん、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>……私……守れなかった……。"

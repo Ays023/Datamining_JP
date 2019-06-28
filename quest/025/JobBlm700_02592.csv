@@ -8,7 +8,13 @@ int32,str,str
 4,"TEXT_JOBBLM700_02592_SEQ_04","「<Sheet(BNpcName,5649,0)/>」を倒し、「星降りの刻」を乗り越えることができた。高地ドラヴァニアに戻ろう。"
 5,"TEXT_JOBBLM700_02592_SEQ_05","シャトトは、黒魔道士の未来を冒険者たちに託し、霊峰の空に消えていった。不浄の三塔の入口で「カザグ・チャー」と話そう。"
 6,"TEXT_JOBBLM700_02592_SEQ_06","ゴーレムとの戦いに関わった者には、ザイ・ア・ネルハーが謝辞を伝えてくれるらしい。ミルバネス礼拝堂の「ラライ」と話そう。"
-7,"TEXT_JOBBLM700_02592_SEQ_07","ラライは、シャトトとの出会いを通して、黒魔法を後世に残す意義を強く意識するようになったようだ。そのために冒険者の戦いをまとめるという決意を語る彼女は、新たな使命への意欲に燃えるのだった。"
+7,"TEXT_JOBBLM700_02592_SEQ_07","ラライは、シャトトとの出会いを通して、黒魔法を後世に残す意義を強く意識するようになったようだ。そのために冒険者の戦いをまとめるという決意を語る彼女は、新たな使命への意欲に燃えるのだった。
+
+※以下の条件を満たすと、ミルバネス礼拝堂のラライから、新たなジョブクエストを受注することができます。
+1.「漆黒のヴィランズ」のプレイ権を所有している。
+2.「メインクエスト：漆黒のヴィランズ」の、
+　「漆黒のヴィランズ」を完了する。
+3.ソーサラー系DPSロールの「ロールクエスト」を完了する。"
 8,"TEXT_JOBBLM700_02592_SEQ_08",""
 9,"TEXT_JOBBLM700_02592_SEQ_09",""
 10,"TEXT_JOBBLM700_02592_SEQ_10",""
@@ -205,35 +211,45 @@ int32,str,str
 111,"TEXT_JOBBLM700_02592_LALAI_000_346","……それに、偉大なる黒魔道士の開祖様と、
 その意志を受け継いだ偉大な冒険者のことも、書いておかねば！
 ふふふ、やり甲斐のある使命になりそうです！"
-112,"TEXT_JOBBLM700_02592_QIB_001_TODO_1","ジェムビーストを倒せ"
-113,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_001_001","さぁ、欠片ひとつ残さず、破壊し尽くしますよ！
+112,"TEXT_JOBBLM700_02592_SYSTEM_000_500","「黒魔道士」の物語が、ひとつの区切りを迎えました！
+次の「黒魔道士」のジョブクエストを開始するためには、
+以下の条件を満たす必要があります。"
+113,"TEXT_JOBBLM700_02592_SYSTEM_000_501","1.「漆黒のヴィランズ」のプレイ権を所有している。
+2.「メインクエスト：漆黒のヴィランズ」の、
+　「漆黒のヴィランズ」を完了する。"
+114,"TEXT_JOBBLM700_02592_SYSTEM_000_502","3.ソーサラー系DPSロールの、
+　「ロールクエスト」を完了する。"
+115,"TEXT_JOBBLM700_02592_SYSTEM_000_503","条件を満たし、ミルバネス礼拝堂の「ラライ」に話しかけ、
+新たなジョブクエストを開始しましょう！"
+116,"TEXT_JOBBLM700_02592_QIB_001_TODO_1","ジェムビーストを倒せ"
+117,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_001_001","さぁ、欠片ひとつ残さず、破壊し尽くしますよ！
 <Sheet(BNpcName,5649,0)/>は、私が引きつけましょう！！"
-114,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_001_002","君たちの怪我は、僕が癒やす……！
+118,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_001_002","君たちの怪我は、僕が癒やす……！
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、敵への攻撃は任せたぞ！"
-115,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_002","上からなにか……気を付けろ！
+119,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_002","上からなにか……気を付けろ！
 大きな物体がいくつか、こちらに向かってくるぞ！！"
-116,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_003","くっ、いったい何が起こったんだ……。
+120,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_003","くっ、いったい何が起こったんだ……。
 あれは岩……いや、魔力を含んだ「<Sheet(BNpcName,6656)/>」か！"
-117,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_004","こいつ、私を無視してどこへ……！？
+121,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_004","こいつ、私を無視してどこへ……！？
 ……まさか「<Sheet(BNpcName,6656)/>」の魔力を取り込む気ですか！？"
-118,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_002","空からまた、騒がしいものが降ってくるぞ！"
-119,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_003_003","とにかく破壊するのです……全部まとめて！！"
-120,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_004_001","くそっ、またか！　もう一生分の岩を見たような気がするよ！"
-121,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_004_002","なら、そろそろ終焉といたしましょう！
+122,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_002","空からまた、騒がしいものが降ってくるぞ！"
+123,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_003_003","とにかく破壊するのです……全部まとめて！！"
+124,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_004_001","くそっ、またか！　もう一生分の岩を見たような気がするよ！"
+125,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_004_002","なら、そろそろ終焉といたしましょう！
 破壊して、破壊して……破壊し尽くすのです！"
-122,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_001","あの「<Sheet(BNpcName,6656)/>」をどうにかしないと……！"
-123,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_002","<Sheet(BNpcName,5649,0)/>の魔力が増幅しているだと！？"
-124,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_003","くっ、「<Sheet(BNpcName,6656)/>」の魔力を吸収されましたね……。
+126,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_001","あの「<Sheet(BNpcName,6656)/>」をどうにかしないと……！"
+127,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_002","<Sheet(BNpcName,5649,0)/>の魔力が増幅しているだと！？"
+128,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_003","くっ、「<Sheet(BNpcName,6656)/>」の魔力を吸収されましたね……。
 このままでは、まずい状況になるかもしれません！"
-125,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_004","これ以上、やつに餌を与えるのは危険だ……！"
-126,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_005","「<Sheet(BNpcName,6656)/>」は、もう見たくありませんっ……。
+129,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_004","これ以上、やつに餌を与えるのは危険だ……！"
+130,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_005","「<Sheet(BNpcName,6656)/>」は、もう見たくありませんっ……。
 急いで、破壊を……！"
-127,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_006","「<Sheet(BNpcName,6656)/>」の魔力を、吸収しているぞ！
+131,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_006","「<Sheet(BNpcName,6656)/>」の魔力を、吸収しているぞ！
 こうも、魔力を吸収されては……！"
-128,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_DEAD","これ以上の戦いは、無理のようです……。
+132,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_DEAD","これ以上の戦いは、無理のようです……。
 どうか、すべてを……破壊して……！"
-129,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_DEAD","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、シャトト……！
+133,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_DEAD","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、シャトト……！
 すまない、後を頼む……。"
-130,"TEXT_JOBBLM700_02592_ZHAIANELHAH_000_053","（★未使用／削除予定★）"
-131,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_001","（★未使用／削除予定★）"
-132,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_001","（★未使用／削除予定★）"
+134,"TEXT_JOBBLM700_02592_ZHAIANELHAH_000_053","（★未使用／削除予定★）"
+135,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_001","（★未使用／削除予定★）"
+136,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_001","（★未使用／削除予定★）"

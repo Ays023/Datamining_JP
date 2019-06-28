@@ -151,7 +151,7 @@ int32,byte,Image,str,str,byte,ContentFinderCondition,Quest,Quest
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻撃属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ランク：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
 ","ギガントードが得意とする青魔法。
-本来は粘着性の高い舌を伸ばし、離れた場所にいる得物を絡め取り、捕食する技である。その能力を幻影の舌を創ることで模倣したのが、この青魔法だ。",1,"集団戦訓練をくぐり抜けろ！",,
+本来は粘着性の高い舌を伸ばし、離れた場所にいる獲物を絡め取り、捕食する技である。その能力を幻影の舌を創ることで模倣したのが、この青魔法だ。",1,"集団戦訓練をくぐり抜けろ！",,
 31,40,"ui/icon/063000/063831.tex","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻撃タイプ：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻撃属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ランク：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★

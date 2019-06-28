@@ -119,7 +119,7 @@ int32,str,str
 ここはじっくり「待機」して、
 敵が再び出現するのを待つぞ。"
 81,"TEXT_CLSGLA101_00288_BRUCE_000_AFTER","よくやった！
-お前の「フラッシュ」のお陰で命拾いしたぜ。
+お前が敵を引きつけてくれたおかげで命拾いしたぜ。
 さぁ、早く帰って、お褒めの言葉を頂こうぜ。へへ。"
 82,"TEXT_CLSGLA101_00288_MYLLA_000_120","見事だ。<Highlight>ObjectParameter(1)</Highlight>。
 お前の戦いぶり、ブルースの報告により
@@ -151,7 +151,7 @@ int32,str,str
 98,"TEXT_CLSGLA101_00288_GUILDMEMBER_A_BATTLETALK_PLAYER_HP50","その調子だ。敵の攻撃を引き受けてくれ！"
 99,"TEXT_CLSGLA101_00288_GUILDMEMBER_A_BATTLETALK_PLAYER_HP40","槍の特殊攻撃に気をつけろ！
 動きを読んで避けるんだ！"
-100,"TEXT_CLSGLA101_00288_GUILDMEMBER_A_BATTLETALK_GILMEN_HP80","「フラッシュ」で敵を引きつけてくれ！
+100,"TEXT_CLSGLA101_00288_GUILDMEMBER_A_BATTLETALK_GILMEN_HP80","敵を引きつけてくれ！
 受けた傷は、俺が回復してやる！"
 101,"TEXT_CLSGLA101_00288_GUILDMEMBER_A_BATTLETALK_GILMEN_HP40","くっ！　こいつはちょっとキツいぜ……。"
 102,"TEXT_CLSGLA101_00288_GUILDMEMBER_A_BATTLETALK_GILMEN_HP0","そんな……バカなッ……。"

@@ -644,7 +644,7 @@ int32,byte,byte,Image,byte,str,str,str
 149,0,0,"ui/icon/000000/000000.tex",0,"","",""
 150,1,0,"ui/icon/150000/ja/150931.tex",0,"敵を攻撃したい場合、攻撃したい対象を<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「右クリック」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>すると<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「オートアタック」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が開始されます。
 
-オートアタックは、対象との<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>距離と方向<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が適切な場合に、自動で攻撃を行います。
+オートアタックは、対象との<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>距離<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が適切な場合に、自動で攻撃を行います。
 
 オートアタック中はターゲット上に
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「オートアタックサイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されます。
@@ -660,7 +660,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 　　　　　　　　　　　次のページヘ》","",""
 152,1,0,"ui/icon/150000/ja/150083.tex",0,"アクションの実行には
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「MP」「TP」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などのコストが必要です。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「MP」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などのコストが必要です。
 さらに、再実行する場合にも、
 一定時間（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>リキャストタイム<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）が
 必要となります。
@@ -817,7 +817,7 @@ EXPバー上に黄色か青の
 選択して、ターゲット中に決定操作で
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「オートアタック」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を開始します。
 
-オートアタックは、対象との距離と方向が
+オートアタックは、対象との距離が
 適切な場合に自動で攻撃を行います。
 
 オートアタック中はターゲット上に
@@ -843,13 +843,13 @@ EXPバー上に黄色か青の
 
 　　　　　　　　　　　次のページヘ》","",""
 193,1,0,"ui/icon/150000/ja/150934.tex",0,"アクションの実行には
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「MP」「TP」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などのコストが必要です。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「MP」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などのコストが必要です。
 さらに、再実行する場合にも、
 一定時間（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>リキャストタイム<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）が
 必要となります。
 
-大事な局面でTP不足、という状態に
-ならないように注意しましょう。
+
+
 
 　　　　　　　　　　　次のページヘ》","",""
 194,0,0,"ui/icon/000000/000000.tex",0,"","",""
@@ -1946,7 +1946,7 @@ HQアイテムを納品すると、
 577,0,0,"ui/icon/000000/000000.tex",0,"","",""
 578,0,0,"ui/icon/000000/000000.tex",0,"","",""
 579,0,0,"ui/icon/000000/000000.tex",0,"","",""
-580,1,0,"ui/icon/150000/ja/150691.tex",0,"園芸師、採掘師が受諾できる
+580,1,0,"ui/icon/150000/ja/150691.tex",0,"園芸師、採掘師が受注できる
 採集稼業リーヴは、傭兵稼業リーヴと
 同様の流れで進行します。
 
@@ -1956,7 +1956,7 @@ HQアイテムを納品すると、
 パーティを組んでいると開始できません。
 
 　　　　　　　　　　　次のページヘ》","",""
-581,1,0,"ui/icon/150000/ja/150692.tex",0,"漁師が受諾できる採集稼業のリーヴは、
+581,1,0,"ui/icon/150000/ja/150692.tex",0,"漁師が受注できる採集稼業のリーヴは、
 製作稼業リーヴと同じ流れで進行します。
 
 依頼人に話しかけた後、
@@ -2095,7 +2095,7 @@ F.A.T.E.終了時に金・銀・銅の
 満たしていると任務を開始できます。
 
 　　　　　　　　　　　次のページヘ》","",""
-631,1,0,"ui/icon/150000/ja/150712.tex",0,"受諾可能な任務は、任務を達成したり、
+631,1,0,"ui/icon/150000/ja/150712.tex",0,"受注可能な任務は、任務を達成したり、
 あなたの成長と共に増えていきます。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「コンテンツファインダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を利用すれば、
@@ -2382,21 +2382,8 @@ HQ率は、製作中に<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow
 737,0,0,"ui/icon/000000/000000.tex",0,"","",""
 738,0,0,"ui/icon/000000/000000.tex",0,"","",""
 739,0,0,"ui/icon/000000/000000.tex",0,"","",""
-740,1,0,"ui/icon/150000/ja/150591.tex",0,"レシピの中には
-火・水・雷・風・土・氷の
-属性の力を帯びた
-「属性レシピ」があります。
-
-属性レシピは、
-属性の力に守られているために
-作業の進みが悪くなります。
-
-　　　　　　　　　　　次のページヘ》","",""
-741,1,0,"ui/icon/150000/ja/150592.tex",0,"「ブランド・オブ・ウィンド」や
-「ブランド・オブ・アース」などの
-属性レシピに効くアクションを使えば
-作業の進みを良くすることができます。
-","",""
+740,0,0,"ui/icon/000000/000000.tex",0,"","",""
+741,0,0,"ui/icon/000000/000000.tex",0,"","",""
 742,0,0,"ui/icon/000000/000000.tex",0,"","",""
 743,0,0,"ui/icon/000000/000000.tex",0,"","",""
 744,0,0,"ui/icon/000000/000000.tex",0,"","",""
@@ -3680,7 +3667,7 @@ NPCやオブジェクトにアクセスするか、
 1207,0,0,"ui/icon/000000/000000.tex",0,"","",""
 1208,0,0,"ui/icon/000000/000000.tex",0,"","",""
 1209,0,0,"ui/icon/000000/000000.tex",0,"","",""
-1210,1,0,"ui/icon/151000/ja/151401.tex",0,"近接物理攻撃クラスには、
+1210,1,0,"ui/icon/151000/ja/151401.tex",0,"一部のクラス・ジョブには、
 特定のウェポンスキルをつなげることで
 ダメージボーナスや追加効果を得られる
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「コンボ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>という仕組みが存在します。
@@ -3704,8 +3691,8 @@ NPCやオブジェクトにアクセスするか、
 ウェポンスキルの場合は注意が必要です。
 
 この場合は、指定された方向から攻撃を
-命中させた場合のみコンボが成立します。
-
+命中させた場合のみ、威力を上昇させる
+ことができます。
 
 
 
@@ -3746,11 +3733,11 @@ NPCやオブジェクトにアクセスするか、
 　　　　　　　　　　　次のページヘ》","",""
 1222,1,0,"ui/icon/151000/ja/151413.tex",0,"氷属性魔法を使用することで、
 アンブラルブリザード状態となり、
+氷属性魔法の消費ＭＰが減少し、
 ＭＰの自然回復速度が大きく上昇します。
 
 さらに火属性魔法を使った際の威力と
 消費ＭＰが低下します。
-
 
 
 　　　　　　　　　　　次のページヘ》","",""
@@ -3845,23 +3832,11 @@ EXホットバーに設定された
 ペットを帰還させることができます。
 
 　　　　　　　　　　　次のページヘ》","",""
-1243,1,0,"ui/icon/151000/ja/151434.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「フリーファイト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の命令を与えると、
-ペットはすべての行動を自動で行います。
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「セミオーダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を命令した場合には、
-一部のペットアクションをプレイヤーが
-直接指示して実行することが可能です。
-
-
-
-　　　　　　　　　　　次のページヘ》","",""
+1243,0,0,"ui/icon/000000/000000.tex",0,"","",""
 1244,1,0,"ui/icon/151000/ja/151435.tex",0,"ペットのアクションは、
 アクションリストの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「PETS」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から
 通常のホットバーに
-設定することができます。
-
-ペットのアクションや特性を学び、
-自在にペットを操りましょう！","",""
+設定することができます。","",""
 1245,1,0,"ui/icon/151000/ja/151436.tex",0,"ペットを召喚すると
 「<CommandIcon(13)/>ボタン」でペット専用の
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>EXクロスホットバー<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が
@@ -5968,63 +5943,14 @@ MGPと交換できる多数の景品を、
 　飛行中は<CommandIcon(12)/>＋<CommandIcon(13)/>ボタンで
 　その場から急降下することができます。","",""
 1983,0,0,"ui/icon/000000/000000.tex",0,"","",""
-1990,1,0,"ui/icon/152000/ja/152181.tex",0,"占星術師は、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「カード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を扱い、
-味方を支援しながら戦うジョブです。
-カードには以下の6種類が存在します。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「アーゼマの均衡」「世界樹の幹」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「オシュオンの矢」「ハルオーネの槍」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「サリャクの水瓶」「ビエルゴの塔」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-カードアクションは4種類が存在します。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ドロー」「キープ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「リドロー」「ロイヤルロード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　　　　　　　　　　　次のページへ》","",""
-1991,1,0,"ui/icon/152000/ja/152182.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ドロー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>によりカードを引き、
-ドローを再使用することでカードの効果を
-発動させることができます。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「キープ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>によりカードを1枚だけ
-保持することができます。
-キープしたカードはキープを再使用する
-ことで発動させることができます。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「リドロー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行することで、
-もう一度カードを引くことができます。
-　　　　　　　　　　　次のページへ》","",""
-1992,1,0,"ui/icon/152000/ja/152183.tex",0,"ドローによりカードを引いた状態で
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ロイヤルロード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行することで、
-次に発動させるカードの効果を
-変化させることができます。
-効果は3種類が存在し、ロイヤルロードを
-実行するカードごとに異なります。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「効果量増加」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「効果時間延長」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「効果の範囲化」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　　　　　　　　　　　次のページへ》","",""
-1993,1,0,"ui/icon/152000/ja/152184.tex",0,"カードの効果はアクションリストの
-それぞれのカードアクションのヘルプに
-記載されています。
-
-効果を覚えて占星術師を使いこなしましょう！","",""
-2000,1,0,"ui/icon/152000/ja/152191.tex",0,"機工士は、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「タレット」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>という
-兵器を扱って戦うジョブです。
-タレットには以下の2種類が存在します。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「オートタレット・ルーク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「オートタレット・ビショップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-タレットはそれぞれの設置用アクション
-を実行することで、設置することができます。
-　　　　　　　　　　　次のページへ》","",""
-2001,1,0,"ui/icon/152000/ja/152192.tex",0,"タレットを設置した状態で
-敵にウェポンスキルを実行すると、
-タレットがその対象に攻撃を開始します。
-
-設置したタレットは、その場から動かすことはできません。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「タレット回収」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行すると、
-設置したタレットを帰還させることができます。
-　　　　　　　　　　　次のページへ》","",""
+1990,0,0,"ui/icon/000000/000000.tex",0,"","",""
+1991,0,0,"ui/icon/000000/000000.tex",0,"","",""
+1992,0,0,"ui/icon/000000/000000.tex",0,"","",""
+1993,0,0,"ui/icon/000000/000000.tex",0,"","",""
+2000,0,0,"ui/icon/000000/000000.tex",0,"","",""
+2001,0,0,"ui/icon/000000/000000.tex",0,"","",""
 2002,0,0,"ui/icon/000000/000000.tex",0,"","",""
-2003,1,0,"ui/icon/152000/ja/152194.tex",0,"タレット設置用アクションのヘルプには、
-タレットの攻撃方法が記載されています。
-
-タレットを活用して機工士をマスターしましょう！","",""
+2003,0,0,"ui/icon/000000/000000.tex",0,"","",""
 2010,1,0,"ui/icon/152000/ja/152391.tex",0,"あなたの実績により<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「メンター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>として
 活動できるようになりました！
 
@@ -6439,7 +6365,7 @@ RPは他の冒険者と対戦した時のみ、
 　再起動しません。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2200,1,0,"ui/icon/152000/ja/152371.tex",0,"特定のクエストには、<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> が付いている、
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「レベルアジャスト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が設定されており、
-受注時のキャラクターのレベルに合わせ、
+キャラクターのレベルに合わせ、
 クエストバトルの難易度が変動します。
 
 また、クエストコンプリート時も、
@@ -6447,14 +6373,14 @@ RPは他の冒険者と対戦した時のみ、
 経験値を取得します。
 
 　　　　　　　　　　　次のページヘ》","",""
-2201,1,0,"ui/icon/152000/ja/152372.tex",0,"ただし、これらの設定されたクエストは、
+2201,1,0,"ui/icon/152000/ja/152372.tex",0,"一部のクエストでは、
 受注時のクラス・ジョブのみで、
-クエストの進行が可能です。
+クエストが進行可能となる
+制限が付きます。
 
 該当クエストの攻略途中に、
 クラスやジョブを変更した場合、
 進行できなくなるので注意しましょう。
-
 
 ","",""
 2210,1,0,"ui/icon/152000/ja/152381.tex",0,"特定のクエストには、<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> が付いている、
@@ -6866,45 +6792,16 @@ HUD上に表示されたアクションを
 また、同じロールに属するクラスでは
 同じロールアクションを修得します。
 　　　　　　　　　　　次のページヘ》","",""
-2371,1,0,"ui/icon/152000/ja/152552.tex",0,"「アクションリスト」の項目のひとつに
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ROLE」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>があります。
-この項目では、修得したロールアクションを
-確認することができます。
-
-メインコマンドの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「マイキャラクター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から
+2371,1,0,"ui/icon/152000/ja/152552.tex",0,"メインコマンドの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「マイキャラクター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「アクションリスト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を選択します。
 
-
-　　　　　　　　　　　次のページヘ》","",""
-2372,1,0,"ui/icon/152000/ja/152553.tex",0,"ロールアクションを設定できるスロット数は
-現在のクラスレベルによって制限されて
-います。
-初めはひとつですが、レベル8以降
-特定のレベルに達する度に1スロットずつ、最大10スロットまで増加します。
-追加したいアクションのチェックボックスを
-オンにすると、「ロールアクション」として
-設定することが可能です。
-　　　　　　　　　　　次のページヘ》","",""
-2373,1,0,"ui/icon/152000/ja/152554.tex",0,"設定した「ロールアクション」は
-アクションリスト下部に表示されます。
-表示されたアイコンをホットバーに
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>ドラッグ＆ドロップ<UIGlow>01</UIGlow><UIForeground>01</UIForeground>することで、
-利用可能になります。
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ロールアクションを実行して
-　リキャストタイムが発生している間は
-　チェックボックスをオフにすることは
-　できないので、注意しましょう<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-2374,1,0,"ui/icon/152000/ja/152555.tex",0,"ロールアクションを選択すると、
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ホットバー登録モード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に遷移します。
-アクションを使用する時と同じように、
-登録したいスロットを指定すると、
-アクションとして利用可能になります。
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ロールアクションを実行して
-　リキャストタイムが発生している間は
-　チェックボックスをオフにすることは
-　できないので、注意しましょう<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+「アクションリスト」の項目のひとつに
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ROLE」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>があります。
+この項目にて、修得したロールアクションを
+確認することができます。","",""
+2372,0,0,"ui/icon/000000/000000.tex",0,"","",""
+2373,0,0,"ui/icon/000000/000000.tex",0,"","",""
+2374,0,0,"ui/icon/000000/000000.tex",0,"","",""
 2380,1,0,"ui/icon/152000/ja/152571.tex",0,"楽器を使い音を奏でる
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「楽器演奏」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が開放されました。
 
@@ -7378,3 +7275,39 @@ HUD上に表示されたアクションを
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「マイキャラクター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「青魔道書」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
 選択することで開くことができます。
 　　　　　　　　　　　次のページへ》","",""
+2510,1,0,"ui/icon/152000/ja/152781.tex",0,"「バイカラージェム」とは、特定の地域の
+Full Active Time Eventを
+(F.A.T.E.)
+クリアすると得ることができる輝石です。
+
+価値のあるこの輝石は、
+広域交易商と呼ばれる人々の間で、
+通貨として利用されています。
+
+　　　　　　　　　　　次のページへ》","",""
+2511,1,0,"ui/icon/152000/ja/152782.tex",0,"各地域に存在する「広域交易商」は、
+バイカラージェムと様々なアイテムを、
+交換してくれます。
+
+なお、広域交易商がいる地域の
+F.A.T.E.を最高評価で達成すると
+「F.A.T.E.達成度」が上昇し、
+商品ラインナップが充実していきます。
+
+　　　　　　　　　　　次のページへ》","",""
+2512,1,0,"ui/icon/152000/ja/152783.tex",0,"現在のF.A.T.E.達成度は、
+メインコマンド「F.A.T.E.達成度」から、
+確認することができます。
+
+広域交易商からしか入手できない、
+稀少なアイテムも存在しているため、
+F.A.T.E.を見つけたら、
+積極的に参加してみましょう！","",""
+2513,1,0,"ui/icon/152000/ja/152784.tex",0,"現在のF.A.T.E.達成度は、
+メインコマンド「F.A.T.E.達成度」から、
+確認することができます。
+
+広域交易商からしか入手できない、
+稀少なアイテムも存在しているため、
+F.A.T.E.を見つけたら、
+積極的に参加してみましょう！","",""

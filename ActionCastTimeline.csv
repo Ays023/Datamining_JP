@@ -72,3 +72,8 @@ int32,ActionTimeline,VFX
 68,"battle/magic_aoz_start",""
 69,"battle/magic_sum_start","cmsm_alf_castx0f"
 70,"eureka/magic_erk_start",""
+71,"battle/mon_sp_i_start",""
+72,"limitbreak/lbk_dancer_start",""
+73,"human_sp/human_sp_a_start",""
+74,"human_sp/human_sp_b_start",""
+75,"",""

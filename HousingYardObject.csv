@@ -139,6 +139,7 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131210,138,17,0,0,0,,"ラージガーデンポンド",False,False,True,0,0,0,False
 131211,139,17,0,0,0,,"オリエンタルウッドブリッジ",False,False,True,0,0,0,False
 131212,140,17,0,0,0,,"オリエンタルベランダ",False,False,True,0,0,0,False
+131213,141,17,0,0,0,,"パンプキンキャリッジ",False,False,True,5,0,0,False
 131214,142,17,0,0,62,"CmnDefHousingObject_00141","蛍籠",False,False,True,5,0,0,False
 131215,143,17,0,0,0,,"オータムナル・メープルツリー",False,False,True,0,0,0,False
 131216,144,17,0,0,0,,"オータムナル・ギンキョウツリー",False,False,True,0,0,0,False
@@ -184,6 +185,7 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131257,179,17,18,0,77,"HouFurVisitNote_00477","ドードー・メッセージブックスタンド",False,False,True,0,0,0,True
 131258,172,17,0,0,0,,"ピクニックセット",False,False,True,0,0,0,False
 131259,173,17,0,0,0,,"ミニチュア・アメノミハシラ",False,False,True,0,0,0,False
+131261,175,17,0,0,0,,"フォーレンツリー",False,False,True,0,0,0,False
 131262,176,17,0,0,0,,"シンプルツリーハウス",False,False,True,0,0,0,False
 131263,177,17,0,0,0,,"ウソウソ行燈",False,False,True,0,0,0,False
 131264,178,17,0,0,0,"CmnDefHousingObject_00141","肉焼きセット",False,False,True,5,0,0,False
@@ -193,3 +195,8 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131268,187,17,0,0,0,,"ラウンドブリック",False,False,True,0,0,0,False
 131269,184,17,0,0,0,,"園芸師の菜園",False,False,True,0,0,0,False
 131270,185,17,0,0,0,,"大鯰山車",False,False,True,5,0,0,False
+131278,193,17,20,0,30,,"クリスタリウムダミー",False,False,True,0,0,0,False
+131279,194,17,0,0,0,,"灯火草",False,False,True,5,0,0,False
+131280,195,17,0,0,0,,"シーストーンブレイザー",False,False,True,5,0,0,False
+131281,196,17,0,0,0,,"ポータブルプール",False,False,True,5,0,0,False
+131282,197,17,0,0,0,,"風鈴売りの屋台",False,False,True,5,0,0,False

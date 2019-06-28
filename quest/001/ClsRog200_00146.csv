@@ -362,12 +362,10 @@ int32,str,str
 連中は、まだ俺たちに気付いてないみたいだ。"
 181,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_02","俺は船首の方から不意打ちをかける。
 お前たちは、船尾の2人を倒してから合流してくれ。"
-182,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_03","そのクァールの攻撃、妙だぞ……！？
-まるで、気力を削がれるような……。"
+182,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_03","（★未使用／削除予定★）"
 183,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_04","くそっ……負けるわけには……いかねぇのに……！"
 184,"TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_01","行くよ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>……ついてきて……！"
-185,"TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_02","しっかりして、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>……！
-どんな技を使われたって、私たちは負けない……！"
+185,"TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_02","（★未使用／削除予定★）"
 186,"TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_03","どうして……力が入らない……ッ…………。"
 187,"TEXT_CLSROG200_00146_PIRATE_BATTLETALK_01","な、なんだお前ら！？　いったいどこから！？"
 188,"TEXT_CLSROG200_00146_PIRATEBOSS_BATTLETALK_01","双剣士……よくぞ嗅ぎつけてきたね……！
