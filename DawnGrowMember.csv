@@ -1,9 +1,9 @@
 ﻿key,0,1,2,3,4,5,6
-#,,,,,,,
-int32,uint32,uint32,uint32,uint32,uint32,uint32,byte
-0,1030660,180061,82061,82070,82081,82090,1
-1,1030661,180062,82062,82071,82082,82091,2
-2,1030662,180063,82063,82072,82083,82092,3
-3,1030664,180065,82065,82073,82085,82093,5
-4,1030665,180066,82066,82074,82086,82094,6
-5,1030666,180067,82067,82075,82087,82095,7
+#,Member,Image{Name},BigImage{Old},BigImage{New},SmallImage{Old},SmallImage{New},Class
+int32,ENpcResident,Image,Image,Image,Image,Image,DawnMemberUIParam
+0,アルフィノ,,ui/icon/082000/082061.tex,ui/icon/082000/082070.tex,ui/icon/082000/082081.tex,ui/icon/082000/082090.tex,Academician
+1,アリゼー,,ui/icon/082000/082062.tex,ui/icon/082000/082071.tex,ui/icon/082000/082082.tex,ui/icon/082000/082091.tex,Red Mage
+2,サンクレッド,,ui/icon/082000/082063.tex,ui/icon/082000/082072.tex,ui/icon/082000/082083.tex,ui/icon/082000/082092.tex,Gunbreaker
+3,ウリエンジェ,,ui/icon/082000/082065.tex,ui/icon/082000/082073.tex,ui/icon/082000/082085.tex,ui/icon/082000/082093.tex,Astrologian
+4,ヤ・シュトラ,,ui/icon/082000/082066.tex,ui/icon/082000/082074.tex,ui/icon/082000/082086.tex,ui/icon/082000/082094.tex,Sorceress
+5,リーン,,ui/icon/082000/082067.tex,ui/icon/082000/082075.tex,ui/icon/082000/082087.tex,ui/icon/082000/082095.tex,Oracle of Light

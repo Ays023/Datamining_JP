@@ -1,6 +1,6 @@
 ﻿key,0,1
-#,,
-int32,str,uint32
-0,"",0
-1,"溺没海",63191
-2,"",0
+#,Name,Image
+int32,str,Image
+0,,
+1,溺没海,ui/icon/063000/063191.tex
+2,,
