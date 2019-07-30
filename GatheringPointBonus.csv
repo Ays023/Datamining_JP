@@ -1,820 +1,820 @@
 ﻿key,0,1,2,3,4,5
 #,Condition,ConditionValue,,BonusType,BonusValue,
 int32,GatheringCondition,uint16,uint16,GatheringPointBonusType,uint16,uint16
-0,,0,0,,0,0
-1,DEX <Value>IntegerParameter(1)</Value>以上,30,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-2,チェイン数 <Value>IntegerParameter(1)</Value>以上,2,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-3,DEX <Value>IntegerParameter(1)</Value>以上,20,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,15,0
-4,DEX <Value>IntegerParameter(1)</Value>以上,30,0,自レベル以下のアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,20,0
-5,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-6,DEX <Value>IntegerParameter(1)</Value>以上,23,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-7,識質力 <Value>IntegerParameter(1)</Value>以上,42,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-8,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-9,識質力 <Value>IntegerParameter(1)</Value>以上,42,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-10,DEX <Value>IntegerParameter(1)</Value>以上,23,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-11,DEX <Value>IntegerParameter(1)</Value>以上,23,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-12,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-13,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-14,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-15,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-16,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-17,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-18,DEX <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-19,DEX <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-20,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-21,INT <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-22,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-23,INT <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-24,MND <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-25,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-26,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-27,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-28,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-29,INT <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-30,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-31,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-32,DEX <Value>IntegerParameter(1)</Value>以上,75,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-33,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-34,DEX <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-35,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-36,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-37,識質力 <Value>IntegerParameter(1)</Value>以上,126,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-38,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-39,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-40,DEX <Value>IntegerParameter(1)</Value>以上,94,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-41,DEX <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-42,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-43,INT <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-44,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-45,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-46,INT <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-47,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-48,INT <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-49,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-50,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-51,INT <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-52,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-53,INT <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-54,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-55,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-56,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-57,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-58,識質力 <Value>IntegerParameter(1)</Value>以上,42,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-59,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-60,INT <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-61,,0,0,,0,0
-62,DEX <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-63,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-64,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-65,DEX <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-66,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-67,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-68,DEX <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-69,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-70,DEX <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-71,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-72,INT <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-73,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-74,STR <Value>IntegerParameter(1)</Value>以上,75,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-75,識質力 <Value>IntegerParameter(1)</Value>以上,98,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-76,識質力 <Value>IntegerParameter(1)</Value>以上,98,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-77,MND <Value>IntegerParameter(1)</Value>以上,75,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-78,識質力 <Value>IntegerParameter(1)</Value>以上,182,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-79,STR <Value>IntegerParameter(1)</Value>以上,141,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-80,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-81,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-82,INT <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-83,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-84,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-85,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-86,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-87,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-88,INT <Value>IntegerParameter(1)</Value>以上,75,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-89,識質力 <Value>IntegerParameter(1)</Value>以上,98,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-90,識質力 <Value>IntegerParameter(1)</Value>以上,98,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-91,INT <Value>IntegerParameter(1)</Value>以上,75,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-92,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-93,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-94,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-95,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-96,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-97,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-98,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-99,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-100,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-101,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-102,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-103,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-104,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-105,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-106,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-107,DEX <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-108,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-109,DEX <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-110,,0,0,,0,0
-111,識質力 <Value>IntegerParameter(1)</Value>以上,98,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-112,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-113,INT <Value>IntegerParameter(1)</Value>以上,94,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-114,識質力 <Value>IntegerParameter(1)</Value>以上,126,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-115,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-116,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-117,,0,0,,0,0
-118,,0,0,,0,0
-119,,0,0,,0,0
-120,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-121,INT <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-122,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-123,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-124,INT <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-125,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-126,DEX <Value>IntegerParameter(1)</Value>以上,121,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-127,,0,0,,0,0
-128,,0,0,,0,0
-129,,0,0,,0,0
-130,,0,0,,0,0
-131,,0,0,,0,0
-132,DEX <Value>IntegerParameter(1)</Value>以上,121,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-133,,0,0,,0,0
-134,識質力 <Value>IntegerParameter(1)</Value>以上,182,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-135,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-136,DEX <Value>IntegerParameter(1)</Value>以上,141,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-137,,0,0,,0,0
-138,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-139,識質力 <Value>IntegerParameter(1)</Value>以上,182,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-140,INT <Value>IntegerParameter(1)</Value>以上,141,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-141,INT <Value>IntegerParameter(1)</Value>以上,141,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-142,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-143,識質力 <Value>IntegerParameter(1)</Value>以上,182,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-144,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-145,識質力 <Value>IntegerParameter(1)</Value>以上,198,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-146,DEX <Value>IntegerParameter(1)</Value>以上,168,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-147,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-148,INT <Value>IntegerParameter(1)</Value>以上,168,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-149,識質力 <Value>IntegerParameter(1)</Value>以上,198,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-150,,0,0,,0,0
-151,DEX <Value>IntegerParameter(1)</Value>以上,121,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-152,,0,0,,0,0
-153,,0,0,,0,0
-154,識質力 <Value>IntegerParameter(1)</Value>以上,214,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-155,DEX <Value>IntegerParameter(1)</Value>以上,199,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-156,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-157,DEX <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-158,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-159,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-160,INT <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-161,識質力 <Value>IntegerParameter(1)</Value>以上,214,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-162,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-163,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-164,識質力 <Value>IntegerParameter(1)</Value>以上,198,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-165,MND <Value>IntegerParameter(1)</Value>以上,168,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-166,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-167,STR <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-168,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-169,STR <Value>IntegerParameter(1)</Value>以上,23,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-170,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-171,識質力 <Value>IntegerParameter(1)</Value>以上,42,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-172,識質力 <Value>IntegerParameter(1)</Value>以上,42,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-173,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-174,STR <Value>IntegerParameter(1)</Value>以上,23,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-175,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-176,STR <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-177,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-178,STR <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-179,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-180,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-181,識質力 <Value>IntegerParameter(1)</Value>以上,42,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-182,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-183,STR <Value>IntegerParameter(1)</Value>以上,23,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-184,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-185,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-186,STR <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-187,MND <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-188,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-189,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-190,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-191,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-192,STR <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-193,STR <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-194,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-195,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-196,,0,0,,0,0
-197,MND <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-198,MND <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-199,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-200,MND <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-201,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-202,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-203,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-204,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-205,MND <Value>IntegerParameter(1)</Value>以上,75,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-206,識質力 <Value>IntegerParameter(1)</Value>以上,98,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-207,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-208,STR <Value>IntegerParameter(1)</Value>以上,94,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-209,識質力 <Value>IntegerParameter(1)</Value>以上,126,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-210,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-211,識質力 <Value>IntegerParameter(1)</Value>以上,126,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-212,MND <Value>IntegerParameter(1)</Value>以上,94,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-213,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-214,,0,0,,0,0
-215,,0,0,,0,0
-216,,0,0,,0,0
-217,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-218,識質力 <Value>IntegerParameter(1)</Value>以上,126,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-219,MND <Value>IntegerParameter(1)</Value>以上,94,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-220,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-221,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-222,STR <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-223,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-224,STR <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-225,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-226,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-227,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-228,STR <Value>IntegerParameter(1)</Value>以上,116,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-229,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-230,STR <Value>IntegerParameter(1)</Value>以上,141,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-231,識質力 <Value>IntegerParameter(1)</Value>以上,182,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-232,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-233,,0,0,,0,0
-234,,0,0,,0,0
-235,,0,0,,0,0
-236,MND <Value>IntegerParameter(1)</Value>以上,121,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-237,,0,0,,0,0
-238,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-239,STR <Value>IntegerParameter(1)</Value>以上,168,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-240,識質力 <Value>IntegerParameter(1)</Value>以上,198,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-241,STR <Value>IntegerParameter(1)</Value>以上,168,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-242,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-243,識質力 <Value>IntegerParameter(1)</Value>以上,198,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-244,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-245,STR <Value>IntegerParameter(1)</Value>以上,32,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-246,識質力 <Value>IntegerParameter(1)</Value>以上,52,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-247,識質力 <Value>IntegerParameter(1)</Value>以上,182,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-248,MND <Value>IntegerParameter(1)</Value>以上,141,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-249,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-250,識質力 <Value>IntegerParameter(1)</Value>以上,214,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-251,STR <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-252,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-253,識質力 <Value>IntegerParameter(1)</Value>以上,81,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-254,STR <Value>IntegerParameter(1)</Value>以上,57,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-255,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-256,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-257,識質力 <Value>IntegerParameter(1)</Value>以上,62,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-258,MND <Value>IntegerParameter(1)</Value>以上,43,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-259,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-260,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-261,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-262,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-263,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-264,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-265,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-266,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-267,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-268,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-269,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-270,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-271,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-272,獲得力 <Value>IntegerParameter(1)</Value>以上,42,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-273,獲得力 <Value>IntegerParameter(1)</Value>以上,54,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-274,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-275,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-276,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-277,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-278,獲得力 <Value>IntegerParameter(1)</Value>以上,69,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-279,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-280,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-281,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-282,獲得力 <Value>IntegerParameter(1)</Value>以上,90,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-283,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-284,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-285,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-286,獲得力 <Value>IntegerParameter(1)</Value>以上,112,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-287,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-288,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-289,獲得力 <Value>IntegerParameter(1)</Value>以上,138,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-290,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-291,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-292,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-293,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-294,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-295,獲得力 <Value>IntegerParameter(1)</Value>以上,187,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-296,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-297,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-298,獲得力 <Value>IntegerParameter(1)</Value>以上,204,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-299,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-300,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-301,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-302,,0,0,,0,0
-303,識質力 <Value>IntegerParameter(1)</Value>以上,153,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-304,獲得力 <Value>IntegerParameter(1)</Value>以上,165,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-305,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-306,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-307,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-308,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-309,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-310,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-311,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-312,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-313,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-314,獲得力 <Value>IntegerParameter(1)</Value>未満,353,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-315,獲得力 <Value>IntegerParameter(1)</Value>未満,353,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-316,獲得力 <Value>IntegerParameter(1)</Value>未満,353,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-317,獲得力 <Value>IntegerParameter(1)</Value>未満,353,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-318,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-319,獲得力 <Value>IntegerParameter(1)</Value>未満,408,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-320,獲得力 <Value>IntegerParameter(1)</Value>未満,420,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-321,獲得力 <Value>IntegerParameter(1)</Value>未満,420,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-322,獲得力 <Value>IntegerParameter(1)</Value>未満,420,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-323,獲得力 <Value>IntegerParameter(1)</Value>未満,420,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-324,獲得力 <Value>IntegerParameter(1)</Value>未満,450,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-325,獲得力 <Value>IntegerParameter(1)</Value>未満,450,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-326,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-327,獲得力 <Value>IntegerParameter(1)</Value>以上,444,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-328,獲得力 <Value>IntegerParameter(1)</Value>以上,451,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-329,獲得力 <Value>IntegerParameter(1)</Value>以上,455,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-330,獲得力 <Value>IntegerParameter(1)</Value>以上,457,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-331,獲得力 <Value>IntegerParameter(1)</Value>以上,498,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-332,獲得力 <Value>IntegerParameter(1)</Value>以上,510,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-333,識質力 <Value>IntegerParameter(1)</Value>以上,214,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-334,識質力 <Value>IntegerParameter(1)</Value>以上,444,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-335,識質力 <Value>IntegerParameter(1)</Value>以上,451,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-336,識質力 <Value>IntegerParameter(1)</Value>以上,455,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-337,識質力 <Value>IntegerParameter(1)</Value>以上,457,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-338,識質力 <Value>IntegerParameter(1)</Value>以上,498,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-339,識質力 <Value>IntegerParameter(1)</Value>以上,510,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-340,STR <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-341,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-342,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-343,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-344,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-345,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-346,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-347,MND <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-348,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-349,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-350,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-351,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-352,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-353,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-354,DEX <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-355,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-356,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-357,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-358,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-359,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-360,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-361,INT <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-362,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-363,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-364,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-365,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-366,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-367,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-368,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-369,獲得力 <Value>IntegerParameter(1)</Value>以上,444,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-370,獲得力 <Value>IntegerParameter(1)</Value>以上,451,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-371,獲得力 <Value>IntegerParameter(1)</Value>以上,455,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-372,獲得力 <Value>IntegerParameter(1)</Value>以上,457,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-373,獲得力 <Value>IntegerParameter(1)</Value>以上,498,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-374,獲得力 <Value>IntegerParameter(1)</Value>以上,510,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-375,識質力 <Value>IntegerParameter(1)</Value>以上,214,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-376,識質力 <Value>IntegerParameter(1)</Value>以上,444,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-377,識質力 <Value>IntegerParameter(1)</Value>以上,451,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-378,識質力 <Value>IntegerParameter(1)</Value>以上,455,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-379,識質力 <Value>IntegerParameter(1)</Value>以上,457,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-380,識質力 <Value>IntegerParameter(1)</Value>以上,498,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-381,識質力 <Value>IntegerParameter(1)</Value>以上,510,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-382,STR <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-383,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-384,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-385,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-386,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-387,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-388,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-389,MND <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-390,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-391,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-392,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-393,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-394,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-395,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-396,DEX <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-397,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-398,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-399,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-400,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-401,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-402,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-403,INT <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-404,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-405,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-406,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-407,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-408,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-409,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-410,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-411,獲得力 <Value>IntegerParameter(1)</Value>以上,444,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-412,獲得力 <Value>IntegerParameter(1)</Value>以上,451,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-413,獲得力 <Value>IntegerParameter(1)</Value>以上,455,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-414,獲得力 <Value>IntegerParameter(1)</Value>以上,457,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-415,獲得力 <Value>IntegerParameter(1)</Value>以上,498,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-416,獲得力 <Value>IntegerParameter(1)</Value>以上,510,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-417,識質力 <Value>IntegerParameter(1)</Value>以上,214,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-418,識質力 <Value>IntegerParameter(1)</Value>以上,444,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-419,識質力 <Value>IntegerParameter(1)</Value>以上,451,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-420,識質力 <Value>IntegerParameter(1)</Value>以上,455,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-421,識質力 <Value>IntegerParameter(1)</Value>以上,457,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-422,識質力 <Value>IntegerParameter(1)</Value>以上,498,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-423,識質力 <Value>IntegerParameter(1)</Value>以上,510,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-424,STR <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-425,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-426,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-427,STR <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-428,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-429,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-430,STR <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-431,MND <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-432,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-433,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-434,MND <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-435,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-436,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-437,MND <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-438,DEX <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-439,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-440,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-441,DEX <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-442,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-443,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-444,DEX <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-445,INT <Value>IntegerParameter(1)</Value>以上,202,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-446,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-447,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-448,INT <Value>IntegerParameter(1)</Value>以上,207,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-449,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-450,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-451,INT <Value>IntegerParameter(1)</Value>以上,215,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-452,,0,0,,0,0
-453,,0,0,,0,0
-454,,0,0,,0,0
-455,,0,0,,0,0
-456,,0,0,,0,0
-457,,0,0,,0,0
-458,,0,0,,0,0
-459,,0,0,,0,0
-460,,0,0,,0,0
-461,,0,0,,0,0
-462,,0,0,,0,0
-463,,0,0,,0,0
-464,,0,0,,0,0
-465,,0,0,,0,0
-466,,0,0,,0,0
-467,,0,0,,0,0
-468,,0,0,,0,0
-469,,0,0,,0,0
-470,,0,0,,0,0
-471,,0,0,,0,0
-472,,0,0,,0,0
-473,,0,0,,0,0
-474,,0,0,,0,0
-475,,0,0,,0,0
-476,,0,0,,0,0
-477,,0,0,,0,0
-478,,0,0,,0,0
-479,,0,0,,0,0
-480,,0,0,,0,0
-481,,0,0,,0,0
-482,,0,0,,0,0
-483,,0,0,,0,0
-484,,0,0,,0,0
-485,,0,0,,0,0
-486,,0,0,,0,0
-487,,0,0,,0,0
-488,,0,0,,0,0
-489,,0,0,,0,0
-490,,0,0,,0,0
-491,,0,0,,0,0
-492,,0,0,,0,0
-493,,0,0,,0,0
-494,獲得力 <Value>IntegerParameter(1)</Value>以上,221,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-495,獲得力 <Value>IntegerParameter(1)</Value>以上,448,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-496,獲得力 <Value>IntegerParameter(1)</Value>以上,453,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-497,獲得力 <Value>IntegerParameter(1)</Value>以上,457,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-498,獲得力 <Value>IntegerParameter(1)</Value>以上,498,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-499,獲得力 <Value>IntegerParameter(1)</Value>未満,600,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-500,識質力 <Value>IntegerParameter(1)</Value>未満,645,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-501,識質力 <Value>IntegerParameter(1)</Value>未満,304,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-502,識質力 <Value>IntegerParameter(1)</Value>未満,348,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-503,識質力 <Value>IntegerParameter(1)</Value>未満,377,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-504,識質力 <Value>IntegerParameter(1)</Value>未満,445,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-505,識質力 <Value>IntegerParameter(1)</Value>未満,457,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-506,識質力 <Value>IntegerParameter(1)</Value>未満,486,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-507,識質力 <Value>IntegerParameter(1)</Value>未満,489,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-508,識質力 <Value>IntegerParameter(1)</Value>未満,493,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-509,識質力 <Value>IntegerParameter(1)</Value>未満,513,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-510,識質力 <Value>IntegerParameter(1)</Value>未満,532,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-511,識質力 <Value>IntegerParameter(1)</Value>未満,565,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-512,獲得力 <Value>IntegerParameter(1)</Value>未満,720,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-513,識質力 <Value>IntegerParameter(1)</Value>未満,740,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-514,獲得力 <Value>IntegerParameter(1)</Value>以上,600,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-515,獲得力 <Value>IntegerParameter(1)</Value>以上,690,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-516,獲得力 <Value>IntegerParameter(1)</Value>以上,700,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-517,獲得力 <Value>IntegerParameter(1)</Value>以上,790,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-518,獲得力 <Value>IntegerParameter(1)</Value>未満,860,0,獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-519,識質力 <Value>IntegerParameter(1)</Value>以上,870,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,15,0
-520,識質力 <Value>IntegerParameter(1)</Value>以上,890,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,35,0
-521,獲得力 <Value>IntegerParameter(1)</Value>以上,910,0,個数＋<Value>IntegerParameter(1)</Value>個,1,0
-522,獲得力 <Value>IntegerParameter(1)</Value>以上,930,0,個数＋<Value>IntegerParameter(1)</Value>個,2,0
-523,獲得力 <Value>IntegerParameter(1)</Value>以上,800,0,個数＋<Value>IntegerParameter(1)</Value>個,1,0
-524,獲得力 <Value>IntegerParameter(1)</Value>以上,860,0,個数＋<Value>IntegerParameter(1)</Value>個,2,0
-525,識質力 <Value>IntegerParameter(1)</Value>以上,860,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,45,0
-526,獲得力 <Value>IntegerParameter(1)</Value>以上,860,0,採集回数＋<Value>IntegerParameter(1)</Value>回,3,0
-527,獲得力 <Value>IntegerParameter(1)</Value>以上,860,0,個数＋<Value>IntegerParameter(1)</Value>個,3,0
-528,識質力 <Value>IntegerParameter(1)</Value>以上,700,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,35,0
-529,識質力 <Value>IntegerParameter(1)</Value>以上,860,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,85,0
-530,獲得力 <Value>IntegerParameter(1)</Value>以上,700,0,採集回数＋<Value>IntegerParameter(1)</Value>回,2,0
-531,獲得力 <Value>IntegerParameter(1)</Value>以上,860,0,採集回数＋<Value>IntegerParameter(1)</Value>回,3,0
-532,獲得力 <Value>IntegerParameter(1)</Value>以上,700,0,個数＋<Value>IntegerParameter(1)</Value>個,1,0
-533,獲得力 <Value>IntegerParameter(1)</Value>以上,860,0,個数＋<Value>IntegerParameter(1)</Value>個,2,0
-534,獲得力 <Value>IntegerParameter(1)</Value>以上,602,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-535,獲得力 <Value>IntegerParameter(1)</Value>以上,714,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-536,獲得力 <Value>IntegerParameter(1)</Value>以上,733,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-537,獲得力 <Value>IntegerParameter(1)</Value>以上,743,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-538,獲得力 <Value>IntegerParameter(1)</Value>以上,774,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-539,獲得力 <Value>IntegerParameter(1)</Value>以上,602,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-540,獲得力 <Value>IntegerParameter(1)</Value>以上,700,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-541,獲得力 <Value>IntegerParameter(1)</Value>以上,728,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-542,獲得力 <Value>IntegerParameter(1)</Value>以上,738,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-543,獲得力 <Value>IntegerParameter(1)</Value>以上,743,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-544,獲得力 <Value>IntegerParameter(1)</Value>以上,774,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-545,獲得力 <Value>IntegerParameter(1)</Value>以上,862,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-546,識質力 <Value>IntegerParameter(1)</Value>以上,645,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-547,識質力 <Value>IntegerParameter(1)</Value>以上,700,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-548,識質力 <Value>IntegerParameter(1)</Value>以上,728,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-549,識質力 <Value>IntegerParameter(1)</Value>以上,738,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-550,識質力 <Value>IntegerParameter(1)</Value>以上,743,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-551,識質力 <Value>IntegerParameter(1)</Value>以上,774,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-552,識質力 <Value>IntegerParameter(1)</Value>以上,805,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-553,GPmax <Value>IntegerParameter(1)</Value>以上,600,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-554,GPmax <Value>IntegerParameter(1)</Value>以上,605,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-555,GPmax <Value>IntegerParameter(1)</Value>以上,610,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-556,GPmax <Value>IntegerParameter(1)</Value>以上,620,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-557,GPmax <Value>IntegerParameter(1)</Value>以上,625,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-558,GPmax <Value>IntegerParameter(1)</Value>以上,635,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-559,GPmax <Value>IntegerParameter(1)</Value>以上,645,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-560,獲得力 <Value>IntegerParameter(1)</Value>以上,602,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-561,獲得力 <Value>IntegerParameter(1)</Value>以上,700,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-562,獲得力 <Value>IntegerParameter(1)</Value>以上,728,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-563,獲得力 <Value>IntegerParameter(1)</Value>以上,738,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-564,獲得力 <Value>IntegerParameter(1)</Value>以上,743,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-565,獲得力 <Value>IntegerParameter(1)</Value>以上,774,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-566,獲得力 <Value>IntegerParameter(1)</Value>以上,862,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-567,識質力 <Value>IntegerParameter(1)</Value>以上,688,1032,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-568,識質力 <Value>IntegerParameter(1)</Value>以上,800,1200,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-569,識質力 <Value>IntegerParameter(1)</Value>以上,832,1248,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-570,識質力 <Value>IntegerParameter(1)</Value>以上,844,1266,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-571,識質力 <Value>IntegerParameter(1)</Value>以上,849,1274,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-572,識質力 <Value>IntegerParameter(1)</Value>以上,884,1326,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-573,識質力 <Value>IntegerParameter(1)</Value>以上,920,1380,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-574,GPmax <Value>IntegerParameter(1)</Value>以上,600,630,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-575,GPmax <Value>IntegerParameter(1)</Value>以上,605,635,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-576,GPmax <Value>IntegerParameter(1)</Value>以上,610,640,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-577,GPmax <Value>IntegerParameter(1)</Value>以上,620,650,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-578,GPmax <Value>IntegerParameter(1)</Value>以上,625,655,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-579,GPmax <Value>IntegerParameter(1)</Value>以上,635,665,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-580,GPmax <Value>IntegerParameter(1)</Value>以上,645,675,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-581,獲得力 <Value>IntegerParameter(1)</Value>以上,722,866,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-582,獲得力 <Value>IntegerParameter(1)</Value>以上,840,1008,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-583,獲得力 <Value>IntegerParameter(1)</Value>以上,873,1048,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-584,獲得力 <Value>IntegerParameter(1)</Value>以上,886,1063,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-585,獲得力 <Value>IntegerParameter(1)</Value>以上,892,1070,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-586,獲得力 <Value>IntegerParameter(1)</Value>以上,929,1115,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-587,獲得力 <Value>IntegerParameter(1)</Value>以上,966,1159,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-588,獲得力 <Value>IntegerParameter(1)</Value>以上,947,1136,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-589,獲得力 <Value>IntegerParameter(1)</Value>以上,1000,1200,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-590,識質力 <Value>IntegerParameter(1)</Value>未満,645,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-591,識質力 <Value>IntegerParameter(1)</Value>未満,780,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-592,識質力 <Value>IntegerParameter(1)</Value>未満,796,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-593,識質力 <Value>IntegerParameter(1)</Value>未満,829,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-594,識質力 <Value>IntegerParameter(1)</Value>未満,846,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-595,識質力 <Value>IntegerParameter(1)</Value>未満,862,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-596,識質力 <Value>IntegerParameter(1)</Value>未満,1200,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-597,識質力 <Value>IntegerParameter(1)</Value>未満,846,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-598,識質力 <Value>IntegerParameter(1)</Value>未満,1200,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-599,識質力 <Value>IntegerParameter(1)</Value>未満,1200,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-600,識質力 <Value>IntegerParameter(1)</Value>以上,688,1032,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-601,識質力 <Value>IntegerParameter(1)</Value>以上,832,1248,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-602,識質力 <Value>IntegerParameter(1)</Value>以上,849,1274,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-603,識質力 <Value>IntegerParameter(1)</Value>以上,884,1326,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-604,識質力 <Value>IntegerParameter(1)</Value>以上,902,1353,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-605,識質力 <Value>IntegerParameter(1)</Value>以上,920,1380,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-606,識質力 <Value>IntegerParameter(1)</Value>以上,1200,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-607,識質力 <Value>IntegerParameter(1)</Value>以上,902,1353,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-608,識質力 <Value>IntegerParameter(1)</Value>以上,1200,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-609,GPmax <Value>IntegerParameter(1)</Value>以上,600,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-610,GPmax <Value>IntegerParameter(1)</Value>以上,610,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-611,GPmax <Value>IntegerParameter(1)</Value>以上,625,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-612,GPmax <Value>IntegerParameter(1)</Value>以上,635,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-613,GPmax <Value>IntegerParameter(1)</Value>以上,640,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-614,GPmax <Value>IntegerParameter(1)</Value>以上,645,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-615,GPmax <Value>IntegerParameter(1)</Value>以上,670,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-616,GPmax <Value>IntegerParameter(1)</Value>以上,640,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-617,GPmax <Value>IntegerParameter(1)</Value>以上,670,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-618,GPmax <Value>IntegerParameter(1)</Value>以上,625,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-619,GPmax <Value>IntegerParameter(1)</Value>以上,670,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-620,,0,0,,0,0
-621,獲得力 <Value>IntegerParameter(1)</Value>以上,580,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-622,獲得力 <Value>IntegerParameter(1)</Value>以上,599,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-623,獲得力 <Value>IntegerParameter(1)</Value>以上,594,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-624,獲得力 <Value>IntegerParameter(1)</Value>以上,620,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-625,獲得力 <Value>IntegerParameter(1)</Value>以上,690,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-626,識質力 <Value>IntegerParameter(1)</Value>以上,472,810,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-627,識質力 <Value>IntegerParameter(1)</Value>以上,492,845,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-628,識質力 <Value>IntegerParameter(1)</Value>以上,483,830,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-629,識質力 <Value>IntegerParameter(1)</Value>以上,505,866,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-630,識質力 <Value>IntegerParameter(1)</Value>以上,526,903,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-631,GPmax <Value>IntegerParameter(1)</Value>以上,644,676,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-632,GPmax <Value>IntegerParameter(1)</Value>以上,654,687,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-633,GPmax <Value>IntegerParameter(1)</Value>以上,660,692,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-634,GPmax <Value>IntegerParameter(1)</Value>以上,669,702,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-635,GPmax <Value>IntegerParameter(1)</Value>以上,676,712,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-636,獲得力 <Value>IntegerParameter(1)</Value>以上,580,837,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-637,獲得力 <Value>IntegerParameter(1)</Value>以上,599,864,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-638,獲得力 <Value>IntegerParameter(1)</Value>以上,594,857,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-639,獲得力 <Value>IntegerParameter(1)</Value>以上,620,894,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-640,獲得力 <Value>IntegerParameter(1)</Value>以上,690,930,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-641,GPmax <Value>IntegerParameter(1)</Value>以上,669,702,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-642,GPmax <Value>IntegerParameter(1)</Value>以上,669,702,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-643,GPmax <Value>IntegerParameter(1)</Value>以上,676,712,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-644,識質力 <Value>IntegerParameter(1)</Value>以上,505,866,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-645,識質力 <Value>IntegerParameter(1)</Value>以上,505,866,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-646,識質力 <Value>IntegerParameter(1)</Value>以上,526,903,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-647,獲得力 <Value>IntegerParameter(1)</Value>以上,620,894,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-648,獲得力 <Value>IntegerParameter(1)</Value>以上,620,894,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-649,獲得力 <Value>IntegerParameter(1)</Value>以上,690,930,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-650,GPmax <Value>IntegerParameter(1)</Value>以上,600,630,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-651,GPmax <Value>IntegerParameter(1)</Value>以上,610,640,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-652,GPmax <Value>IntegerParameter(1)</Value>以上,625,655,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-653,GPmax <Value>IntegerParameter(1)</Value>以上,635,665,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-654,GPmax <Value>IntegerParameter(1)</Value>以上,640,670,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-655,GPmax <Value>IntegerParameter(1)</Value>以上,645,675,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-656,GPmax <Value>IntegerParameter(1)</Value>以上,670,700,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-657,GPmax <Value>IntegerParameter(1)</Value>以上,640,670,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-658,GPmax <Value>IntegerParameter(1)</Value>以上,670,700,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-659,GPmax <Value>IntegerParameter(1)</Value>以上,625,655,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-660,GPmax <Value>IntegerParameter(1)</Value>以上,670,700,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-661,GPmax <Value>IntegerParameter(1)</Value>以上,483,0,個数＋<Value>IntegerParameter(1)</Value>個,1,0
-662,GPmax <Value>IntegerParameter(1)</Value>以上,529,0,個数＋<Value>IntegerParameter(1)</Value>個,1,0
-663,GPmax <Value>IntegerParameter(1)</Value>以上,547,0,個数＋<Value>IntegerParameter(1)</Value>個,1,0
-664,GPmax <Value>IntegerParameter(1)</Value>以上,565,0,個数＋<Value>IntegerParameter(1)</Value>個,1,0
-665,識質力 <Value>IntegerParameter(1)</Value>未満,1350,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-666,識質力 <Value>IntegerParameter(1)</Value>以上,1350,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-667,識質力 <Value>IntegerParameter(1)</Value>未満,1550,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-668,識質力 <Value>IntegerParameter(1)</Value>以上,1550,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-669,GPmax <Value>IntegerParameter(1)</Value>以上,720,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-670,GPmax <Value>IntegerParameter(1)</Value>以上,720,750,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-671,獲得力 <Value>IntegerParameter(1)</Value>以上,1015,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-672,獲得力 <Value>IntegerParameter(1)</Value>以上,1225,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-673,獲得力 <Value>IntegerParameter(1)</Value>以上,1260,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-674,獲得力 <Value>IntegerParameter(1)</Value>以上,1326,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-675,獲得力 <Value>IntegerParameter(1)</Value>以上,1392,0,格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-676,獲得力 <Value>IntegerParameter(1)</Value>以上,1015,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-677,獲得力 <Value>IntegerParameter(1)</Value>以上,1190,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-678,獲得力 <Value>IntegerParameter(1)</Value>以上,1225,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-679,獲得力 <Value>IntegerParameter(1)</Value>以上,1260,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-680,獲得力 <Value>IntegerParameter(1)</Value>以上,1293,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-681,獲得力 <Value>IntegerParameter(1)</Value>以上,1326,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-682,獲得力 <Value>IntegerParameter(1)</Value>以上,1359,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-683,獲得力 <Value>IntegerParameter(1)</Value>以上,1562,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-684,識質力 <Value>IntegerParameter(1)</Value>以上,1015,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-685,識質力 <Value>IntegerParameter(1)</Value>以上,1190,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-686,識質力 <Value>IntegerParameter(1)</Value>以上,1225,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-687,識質力 <Value>IntegerParameter(1)</Value>以上,1260,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-688,識質力 <Value>IntegerParameter(1)</Value>以上,1293,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-689,識質力 <Value>IntegerParameter(1)</Value>以上,1326,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-690,識質力 <Value>IntegerParameter(1)</Value>以上,1359,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-691,識質力 <Value>IntegerParameter(1)</Value>以上,1458,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,5,0
-692,GPmax <Value>IntegerParameter(1)</Value>以上,680,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-693,GPmax <Value>IntegerParameter(1)</Value>以上,680,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-694,GPmax <Value>IntegerParameter(1)</Value>以上,685,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-695,GPmax <Value>IntegerParameter(1)</Value>以上,695,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-696,GPmax <Value>IntegerParameter(1)</Value>以上,700,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-697,GPmax <Value>IntegerParameter(1)</Value>以上,705,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-698,GPmax <Value>IntegerParameter(1)</Value>以上,710,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-699,GPmax <Value>IntegerParameter(1)</Value>以上,725,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-700,獲得力 <Value>IntegerParameter(1)</Value>以上,1015,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-701,獲得力 <Value>IntegerParameter(1)</Value>以上,1190,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-702,獲得力 <Value>IntegerParameter(1)</Value>以上,1225,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-703,獲得力 <Value>IntegerParameter(1)</Value>以上,1260,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-704,獲得力 <Value>IntegerParameter(1)</Value>以上,1293,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-705,獲得力 <Value>IntegerParameter(1)</Value>以上,1326,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-706,獲得力 <Value>IntegerParameter(1)</Value>以上,1359,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-707,獲得力 <Value>IntegerParameter(1)</Value>以上,1562,0,獲得率＋<Value>IntegerParameter(1)</Value>％,25,0
-708,識質力 <Value>IntegerParameter(1)</Value>以上,1350,2025,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-709,識質力 <Value>IntegerParameter(1)</Value>以上,1360,2040,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-710,識質力 <Value>IntegerParameter(1)</Value>以上,1400,2100,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-711,識質力 <Value>IntegerParameter(1)</Value>以上,1440,2160,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-712,識質力 <Value>IntegerParameter(1)</Value>以上,1478,2217,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-713,識質力 <Value>IntegerParameter(1)</Value>以上,1516,2274,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-714,識質力 <Value>IntegerParameter(1)</Value>以上,1553,2330,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-715,識質力 <Value>IntegerParameter(1)</Value>以上,1666,2499,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-716,GPmax <Value>IntegerParameter(1)</Value>以上,680,710,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-717,GPmax <Value>IntegerParameter(1)</Value>以上,680,710,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-718,GPmax <Value>IntegerParameter(1)</Value>以上,685,715,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-719,GPmax <Value>IntegerParameter(1)</Value>以上,695,725,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-720,GPmax <Value>IntegerParameter(1)</Value>以上,700,730,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-721,GPmax <Value>IntegerParameter(1)</Value>以上,705,735,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-722,GPmax <Value>IntegerParameter(1)</Value>以上,710,740,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-723,GPmax <Value>IntegerParameter(1)</Value>以上,725,755,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-724,獲得力 <Value>IntegerParameter(1)</Value>以上,1218,1462,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-725,獲得力 <Value>IntegerParameter(1)</Value>以上,1428,1714,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-726,獲得力 <Value>IntegerParameter(1)</Value>以上,1470,1764,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-727,獲得力 <Value>IntegerParameter(1)</Value>以上,1512,1814,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-728,獲得力 <Value>IntegerParameter(1)</Value>以上,1552,1862,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-729,獲得力 <Value>IntegerParameter(1)</Value>以上,1591,1909,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-730,獲得力 <Value>IntegerParameter(1)</Value>以上,1631,1957,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-731,獲得力 <Value>IntegerParameter(1)</Value>以上,1749,2099,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-732,獲得力 <Value>IntegerParameter(1)</Value>以上,1670,2004,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-733,獲得力 <Value>IntegerParameter(1)</Value>以上,1749,2099,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-734,獲得力 <Value>IntegerParameter(1)</Value>以上,1832,2198,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,3
-735,識質力 <Value>IntegerParameter(1)</Value>未満,1350,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-736,識質力 <Value>IntegerParameter(1)</Value>未満,1312,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-737,識質力 <Value>IntegerParameter(1)</Value>未満,1350,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-738,識質力 <Value>IntegerParameter(1)</Value>未満,1421,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-739,識質力 <Value>IntegerParameter(1)</Value>未満,1491,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-740,識質力 <Value>IntegerParameter(1)</Value>未満,1562,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-741,識質力 <Value>IntegerParameter(1)</Value>未満,1840,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-742,識質力 <Value>IntegerParameter(1)</Value>未満,1491,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-743,識質力 <Value>IntegerParameter(1)</Value>未満,1562,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-744,識質力 <Value>IntegerParameter(1)</Value>未満,1840,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-745,識質力 <Value>IntegerParameter(1)</Value>未満,1840,0,HQ獲得率 <Value>IntegerParameter(1)</Value>％,0,0
-746,識質力 <Value>IntegerParameter(1)</Value>以上,1400,2100,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-747,識質力 <Value>IntegerParameter(1)</Value>以上,1440,2160,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-748,識質力 <Value>IntegerParameter(1)</Value>以上,1516,2274,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-749,識質力 <Value>IntegerParameter(1)</Value>以上,1591,2387,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-750,識質力 <Value>IntegerParameter(1)</Value>以上,1666,2499,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-751,識質力 <Value>IntegerParameter(1)</Value>以上,1840,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-752,識質力 <Value>IntegerParameter(1)</Value>以上,1591,2387,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-753,識質力 <Value>IntegerParameter(1)</Value>以上,1666,2499,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,100
-754,識質力 <Value>IntegerParameter(1)</Value>以上,1840,0,HQ獲得率＋<Value>IntegerParameter(1)</Value>％,30,0
-755,GPmax <Value>IntegerParameter(1)</Value>以上,680,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-756,GPmax <Value>IntegerParameter(1)</Value>以上,685,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-757,GPmax <Value>IntegerParameter(1)</Value>以上,695,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-758,GPmax <Value>IntegerParameter(1)</Value>以上,705,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-759,GPmax <Value>IntegerParameter(1)</Value>以上,715,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-760,GPmax <Value>IntegerParameter(1)</Value>以上,725,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-761,GPmax <Value>IntegerParameter(1)</Value>以上,740,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-762,GPmax <Value>IntegerParameter(1)</Value>以上,715,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-763,GPmax <Value>IntegerParameter(1)</Value>以上,725,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-764,GPmax <Value>IntegerParameter(1)</Value>以上,740,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-765,GPmax <Value>IntegerParameter(1)</Value>以上,705,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-766,GPmax <Value>IntegerParameter(1)</Value>以上,740,0,採集回数＋<Value>IntegerParameter(1)</Value>回,1,0
-767,GPmax <Value>IntegerParameter(1)</Value>以上,680,710,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-768,GPmax <Value>IntegerParameter(1)</Value>以上,685,715,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-769,GPmax <Value>IntegerParameter(1)</Value>以上,695,725,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-770,GPmax <Value>IntegerParameter(1)</Value>以上,705,735,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-771,GPmax <Value>IntegerParameter(1)</Value>以上,715,745,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-772,GPmax <Value>IntegerParameter(1)</Value>以上,725,755,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-773,GPmax <Value>IntegerParameter(1)</Value>以上,740,770,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-774,GPmax <Value>IntegerParameter(1)</Value>以上,715,745,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-775,GPmax <Value>IntegerParameter(1)</Value>以上,725,755,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-776,GPmax <Value>IntegerParameter(1)</Value>以上,740,770,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-777,GPmax <Value>IntegerParameter(1)</Value>以上,705,735,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-778,GPmax <Value>IntegerParameter(1)</Value>以上,740,770,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-779,獲得力 <Value>IntegerParameter(1)</Value>以上,987,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-780,獲得力 <Value>IntegerParameter(1)</Value>以上,1034,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-781,獲得力 <Value>IntegerParameter(1)</Value>以上,1061,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-782,獲得力 <Value>IntegerParameter(1)</Value>以上,1113,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-783,獲得力 <Value>IntegerParameter(1)</Value>以上,1166,0,獲得率＋<Value>IntegerParameter(1)</Value>％,10,0
-784,識質力 <Value>IntegerParameter(1)</Value>以上,793,1364,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-785,識質力 <Value>IntegerParameter(1)</Value>以上,831,1429,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-786,識質力 <Value>IntegerParameter(1)</Value>以上,852,1465,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-787,識質力 <Value>IntegerParameter(1)</Value>以上,895,1539,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-788,識質力 <Value>IntegerParameter(1)</Value>以上,937,1612,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-789,GPmax <Value>IntegerParameter(1)</Value>以上,710,746,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-790,GPmax <Value>IntegerParameter(1)</Value>以上,710,746,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-791,GPmax <Value>IntegerParameter(1)</Value>以上,710,746,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-792,GPmax <Value>IntegerParameter(1)</Value>以上,720,756,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-793,GPmax <Value>IntegerParameter(1)</Value>以上,730,767,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-794,獲得力 <Value>IntegerParameter(1)</Value>以上,987,1421,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-795,獲得力 <Value>IntegerParameter(1)</Value>以上,1034,1489,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-796,獲得力 <Value>IntegerParameter(1)</Value>以上,1061,1528,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-797,獲得力 <Value>IntegerParameter(1)</Value>以上,1113,1603,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-798,獲得力 <Value>IntegerParameter(1)</Value>以上,1166,1574,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-799,GPmax <Value>IntegerParameter(1)</Value>以上,710,746,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-800,GPmax <Value>IntegerParameter(1)</Value>以上,710,746,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-801,GPmax <Value>IntegerParameter(1)</Value>以上,710,746,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-802,識質力 <Value>IntegerParameter(1)</Value>以上,793,1356,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-803,識質力 <Value>IntegerParameter(1)</Value>以上,810,1385,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-804,識質力 <Value>IntegerParameter(1)</Value>以上,831,1429,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-805,獲得力 <Value>IntegerParameter(1)</Value>以上,987,1421,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-806,獲得力 <Value>IntegerParameter(1)</Value>以上,1008,1452,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-807,獲得力 <Value>IntegerParameter(1)</Value>以上,1034,1396,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-808,GPmax <Value>IntegerParameter(1)</Value>以上,720,756,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-809,GPmax <Value>IntegerParameter(1)</Value>以上,730,767,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-810,GPmax <Value>IntegerParameter(1)</Value>以上,730,767,採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）,1,2
-811,識質力 <Value>IntegerParameter(1)</Value>以上,895,1530,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-812,識質力 <Value>IntegerParameter(1)</Value>以上,916,1566,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-813,識質力 <Value>IntegerParameter(1)</Value>以上,937,1612,HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）,30,60
-814,獲得力 <Value>IntegerParameter(1)</Value>以上,1113,1603,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-815,獲得力 <Value>IntegerParameter(1)</Value>以上,1140,1642,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
-816,獲得力 <Value>IntegerParameter(1)</Value>以上,1166,1574,個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）,1,2
+0,"",0,0,"",0,0
+1,"DEX <Value>IntegerParameter(1)</Value>以上",30,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+2,"チェイン数 <Value>IntegerParameter(1)</Value>以上",2,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+3,"DEX <Value>IntegerParameter(1)</Value>以上",20,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",15,0
+4,"DEX <Value>IntegerParameter(1)</Value>以上",30,0,"自レベル以下のアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",20,0
+5,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+6,"DEX <Value>IntegerParameter(1)</Value>以上",23,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+7,"識質力 <Value>IntegerParameter(1)</Value>以上",42,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+8,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+9,"識質力 <Value>IntegerParameter(1)</Value>以上",42,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+10,"DEX <Value>IntegerParameter(1)</Value>以上",23,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+11,"DEX <Value>IntegerParameter(1)</Value>以上",23,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+12,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+13,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+14,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+15,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+16,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+17,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+18,"DEX <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+19,"DEX <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+20,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+21,"INT <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+22,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+23,"INT <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+24,"MND <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+25,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+26,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+27,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+28,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+29,"INT <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+30,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+31,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+32,"DEX <Value>IntegerParameter(1)</Value>以上",75,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+33,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+34,"DEX <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+35,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+36,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+37,"識質力 <Value>IntegerParameter(1)</Value>以上",126,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+38,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+39,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+40,"DEX <Value>IntegerParameter(1)</Value>以上",94,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+41,"DEX <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+42,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+43,"INT <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+44,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+45,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+46,"INT <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+47,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+48,"INT <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+49,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+50,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+51,"INT <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+52,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+53,"INT <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+54,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+55,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+56,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+57,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+58,"識質力 <Value>IntegerParameter(1)</Value>以上",42,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+59,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+60,"INT <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+61,"",0,0,"",0,0
+62,"DEX <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+63,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+64,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+65,"DEX <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+66,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+67,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+68,"DEX <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+69,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+70,"DEX <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+71,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+72,"INT <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+73,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+74,"STR <Value>IntegerParameter(1)</Value>以上",75,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+75,"識質力 <Value>IntegerParameter(1)</Value>以上",98,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+76,"識質力 <Value>IntegerParameter(1)</Value>以上",98,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+77,"MND <Value>IntegerParameter(1)</Value>以上",75,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+78,"識質力 <Value>IntegerParameter(1)</Value>以上",182,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+79,"STR <Value>IntegerParameter(1)</Value>以上",141,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+80,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+81,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+82,"INT <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+83,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+84,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+85,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+86,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+87,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+88,"INT <Value>IntegerParameter(1)</Value>以上",75,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+89,"識質力 <Value>IntegerParameter(1)</Value>以上",98,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+90,"識質力 <Value>IntegerParameter(1)</Value>以上",98,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+91,"INT <Value>IntegerParameter(1)</Value>以上",75,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+92,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+93,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+94,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+95,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+96,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+97,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+98,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+99,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+100,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+101,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+102,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+103,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+104,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+105,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+106,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+107,"DEX <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+108,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+109,"DEX <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+110,"",0,0,"",0,0
+111,"識質力 <Value>IntegerParameter(1)</Value>以上",98,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+112,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+113,"INT <Value>IntegerParameter(1)</Value>以上",94,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+114,"識質力 <Value>IntegerParameter(1)</Value>以上",126,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+115,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+116,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+117,"",0,0,"",0,0
+118,"",0,0,"",0,0
+119,"",0,0,"",0,0
+120,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+121,"INT <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+122,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+123,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+124,"INT <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+125,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+126,"DEX <Value>IntegerParameter(1)</Value>以上",121,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+127,"",0,0,"",0,0
+128,"",0,0,"",0,0
+129,"",0,0,"",0,0
+130,"",0,0,"",0,0
+131,"",0,0,"",0,0
+132,"DEX <Value>IntegerParameter(1)</Value>以上",121,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+133,"",0,0,"",0,0
+134,"識質力 <Value>IntegerParameter(1)</Value>以上",182,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+135,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+136,"DEX <Value>IntegerParameter(1)</Value>以上",141,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+137,"",0,0,"",0,0
+138,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+139,"識質力 <Value>IntegerParameter(1)</Value>以上",182,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+140,"INT <Value>IntegerParameter(1)</Value>以上",141,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+141,"INT <Value>IntegerParameter(1)</Value>以上",141,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+142,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+143,"識質力 <Value>IntegerParameter(1)</Value>以上",182,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+144,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+145,"識質力 <Value>IntegerParameter(1)</Value>以上",198,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+146,"DEX <Value>IntegerParameter(1)</Value>以上",168,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+147,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+148,"INT <Value>IntegerParameter(1)</Value>以上",168,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+149,"識質力 <Value>IntegerParameter(1)</Value>以上",198,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+150,"",0,0,"",0,0
+151,"DEX <Value>IntegerParameter(1)</Value>以上",121,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+152,"",0,0,"",0,0
+153,"",0,0,"",0,0
+154,"識質力 <Value>IntegerParameter(1)</Value>以上",214,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+155,"DEX <Value>IntegerParameter(1)</Value>以上",199,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+156,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+157,"DEX <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+158,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+159,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+160,"INT <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+161,"識質力 <Value>IntegerParameter(1)</Value>以上",214,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+162,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+163,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+164,"識質力 <Value>IntegerParameter(1)</Value>以上",198,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+165,"MND <Value>IntegerParameter(1)</Value>以上",168,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+166,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+167,"STR <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+168,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+169,"STR <Value>IntegerParameter(1)</Value>以上",23,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+170,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+171,"識質力 <Value>IntegerParameter(1)</Value>以上",42,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+172,"識質力 <Value>IntegerParameter(1)</Value>以上",42,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+173,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+174,"STR <Value>IntegerParameter(1)</Value>以上",23,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+175,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+176,"STR <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+177,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+178,"STR <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+179,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+180,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+181,"識質力 <Value>IntegerParameter(1)</Value>以上",42,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+182,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+183,"STR <Value>IntegerParameter(1)</Value>以上",23,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+184,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+185,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+186,"STR <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+187,"MND <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+188,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+189,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+190,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+191,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+192,"STR <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+193,"STR <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+194,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+195,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+196,"",0,0,"",0,0
+197,"MND <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+198,"MND <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+199,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+200,"MND <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+201,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+202,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+203,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+204,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+205,"MND <Value>IntegerParameter(1)</Value>以上",75,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+206,"識質力 <Value>IntegerParameter(1)</Value>以上",98,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+207,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+208,"STR <Value>IntegerParameter(1)</Value>以上",94,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+209,"識質力 <Value>IntegerParameter(1)</Value>以上",126,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+210,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+211,"識質力 <Value>IntegerParameter(1)</Value>以上",126,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+212,"MND <Value>IntegerParameter(1)</Value>以上",94,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+213,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+214,"",0,0,"",0,0
+215,"",0,0,"",0,0
+216,"",0,0,"",0,0
+217,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+218,"識質力 <Value>IntegerParameter(1)</Value>以上",126,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+219,"MND <Value>IntegerParameter(1)</Value>以上",94,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+220,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+221,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+222,"STR <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+223,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+224,"STR <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+225,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+226,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+227,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+228,"STR <Value>IntegerParameter(1)</Value>以上",116,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+229,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+230,"STR <Value>IntegerParameter(1)</Value>以上",141,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+231,"識質力 <Value>IntegerParameter(1)</Value>以上",182,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+232,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+233,"",0,0,"",0,0
+234,"",0,0,"",0,0
+235,"",0,0,"",0,0
+236,"MND <Value>IntegerParameter(1)</Value>以上",121,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+237,"",0,0,"",0,0
+238,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+239,"STR <Value>IntegerParameter(1)</Value>以上",168,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+240,"識質力 <Value>IntegerParameter(1)</Value>以上",198,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+241,"STR <Value>IntegerParameter(1)</Value>以上",168,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+242,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+243,"識質力 <Value>IntegerParameter(1)</Value>以上",198,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+244,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+245,"STR <Value>IntegerParameter(1)</Value>以上",32,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+246,"識質力 <Value>IntegerParameter(1)</Value>以上",52,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+247,"識質力 <Value>IntegerParameter(1)</Value>以上",182,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+248,"MND <Value>IntegerParameter(1)</Value>以上",141,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+249,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+250,"識質力 <Value>IntegerParameter(1)</Value>以上",214,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+251,"STR <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+252,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+253,"識質力 <Value>IntegerParameter(1)</Value>以上",81,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+254,"STR <Value>IntegerParameter(1)</Value>以上",57,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+255,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+256,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+257,"識質力 <Value>IntegerParameter(1)</Value>以上",62,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+258,"MND <Value>IntegerParameter(1)</Value>以上",43,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+259,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+260,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+261,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+262,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+263,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+264,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+265,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+266,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+267,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+268,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+269,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+270,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+271,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+272,"獲得力 <Value>IntegerParameter(1)</Value>以上",42,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+273,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+274,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+275,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+276,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+277,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+278,"獲得力 <Value>IntegerParameter(1)</Value>以上",69,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+279,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+280,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+281,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+282,"獲得力 <Value>IntegerParameter(1)</Value>以上",90,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+283,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+284,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+285,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+286,"獲得力 <Value>IntegerParameter(1)</Value>以上",112,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+287,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+288,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+289,"獲得力 <Value>IntegerParameter(1)</Value>以上",138,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+290,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+291,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+292,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+293,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+294,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+295,"獲得力 <Value>IntegerParameter(1)</Value>以上",187,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+296,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+297,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+298,"獲得力 <Value>IntegerParameter(1)</Value>以上",204,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+299,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+300,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+301,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+302,"",0,0,"",0,0
+303,"識質力 <Value>IntegerParameter(1)</Value>以上",153,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+304,"獲得力 <Value>IntegerParameter(1)</Value>以上",165,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+305,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+306,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+307,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+308,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+309,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+310,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+311,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+312,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+313,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+314,"獲得力 <Value>IntegerParameter(1)</Value>未満",353,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+315,"獲得力 <Value>IntegerParameter(1)</Value>未満",353,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+316,"獲得力 <Value>IntegerParameter(1)</Value>未満",353,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+317,"獲得力 <Value>IntegerParameter(1)</Value>未満",353,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+318,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+319,"獲得力 <Value>IntegerParameter(1)</Value>未満",408,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+320,"獲得力 <Value>IntegerParameter(1)</Value>未満",420,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+321,"獲得力 <Value>IntegerParameter(1)</Value>未満",420,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+322,"獲得力 <Value>IntegerParameter(1)</Value>未満",420,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+323,"獲得力 <Value>IntegerParameter(1)</Value>未満",420,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+324,"獲得力 <Value>IntegerParameter(1)</Value>未満",450,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+325,"獲得力 <Value>IntegerParameter(1)</Value>未満",450,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+326,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+327,"獲得力 <Value>IntegerParameter(1)</Value>以上",444,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+328,"獲得力 <Value>IntegerParameter(1)</Value>以上",451,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+329,"獲得力 <Value>IntegerParameter(1)</Value>以上",455,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+330,"獲得力 <Value>IntegerParameter(1)</Value>以上",457,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+331,"獲得力 <Value>IntegerParameter(1)</Value>以上",498,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+332,"獲得力 <Value>IntegerParameter(1)</Value>以上",510,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+333,"識質力 <Value>IntegerParameter(1)</Value>以上",214,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+334,"識質力 <Value>IntegerParameter(1)</Value>以上",444,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+335,"識質力 <Value>IntegerParameter(1)</Value>以上",451,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+336,"識質力 <Value>IntegerParameter(1)</Value>以上",455,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+337,"識質力 <Value>IntegerParameter(1)</Value>以上",457,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+338,"識質力 <Value>IntegerParameter(1)</Value>以上",498,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+339,"識質力 <Value>IntegerParameter(1)</Value>以上",510,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+340,"STR <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+341,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+342,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+343,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+344,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+345,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+346,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+347,"MND <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+348,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+349,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+350,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+351,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+352,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+353,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+354,"DEX <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+355,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+356,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+357,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+358,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+359,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+360,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+361,"INT <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+362,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+363,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+364,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+365,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+366,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+367,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+368,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+369,"獲得力 <Value>IntegerParameter(1)</Value>以上",444,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+370,"獲得力 <Value>IntegerParameter(1)</Value>以上",451,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+371,"獲得力 <Value>IntegerParameter(1)</Value>以上",455,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+372,"獲得力 <Value>IntegerParameter(1)</Value>以上",457,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+373,"獲得力 <Value>IntegerParameter(1)</Value>以上",498,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+374,"獲得力 <Value>IntegerParameter(1)</Value>以上",510,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+375,"識質力 <Value>IntegerParameter(1)</Value>以上",214,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+376,"識質力 <Value>IntegerParameter(1)</Value>以上",444,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+377,"識質力 <Value>IntegerParameter(1)</Value>以上",451,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+378,"識質力 <Value>IntegerParameter(1)</Value>以上",455,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+379,"識質力 <Value>IntegerParameter(1)</Value>以上",457,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+380,"識質力 <Value>IntegerParameter(1)</Value>以上",498,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+381,"識質力 <Value>IntegerParameter(1)</Value>以上",510,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+382,"STR <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+383,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+384,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+385,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+386,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+387,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+388,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+389,"MND <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+390,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+391,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+392,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+393,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+394,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+395,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+396,"DEX <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+397,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+398,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+399,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+400,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+401,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+402,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+403,"INT <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+404,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+405,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+406,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+407,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+408,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+409,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+410,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+411,"獲得力 <Value>IntegerParameter(1)</Value>以上",444,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+412,"獲得力 <Value>IntegerParameter(1)</Value>以上",451,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+413,"獲得力 <Value>IntegerParameter(1)</Value>以上",455,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+414,"獲得力 <Value>IntegerParameter(1)</Value>以上",457,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+415,"獲得力 <Value>IntegerParameter(1)</Value>以上",498,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+416,"獲得力 <Value>IntegerParameter(1)</Value>以上",510,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+417,"識質力 <Value>IntegerParameter(1)</Value>以上",214,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+418,"識質力 <Value>IntegerParameter(1)</Value>以上",444,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+419,"識質力 <Value>IntegerParameter(1)</Value>以上",451,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+420,"識質力 <Value>IntegerParameter(1)</Value>以上",455,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+421,"識質力 <Value>IntegerParameter(1)</Value>以上",457,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+422,"識質力 <Value>IntegerParameter(1)</Value>以上",498,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+423,"識質力 <Value>IntegerParameter(1)</Value>以上",510,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+424,"STR <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+425,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+426,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+427,"STR <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+428,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+429,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+430,"STR <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+431,"MND <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+432,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+433,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+434,"MND <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+435,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+436,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+437,"MND <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+438,"DEX <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+439,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+440,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+441,"DEX <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+442,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+443,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+444,"DEX <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+445,"INT <Value>IntegerParameter(1)</Value>以上",202,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+446,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+447,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+448,"INT <Value>IntegerParameter(1)</Value>以上",207,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+449,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+450,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+451,"INT <Value>IntegerParameter(1)</Value>以上",215,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+452,"",0,0,"",0,0
+453,"",0,0,"",0,0
+454,"",0,0,"",0,0
+455,"",0,0,"",0,0
+456,"",0,0,"",0,0
+457,"",0,0,"",0,0
+458,"",0,0,"",0,0
+459,"",0,0,"",0,0
+460,"",0,0,"",0,0
+461,"",0,0,"",0,0
+462,"",0,0,"",0,0
+463,"",0,0,"",0,0
+464,"",0,0,"",0,0
+465,"",0,0,"",0,0
+466,"",0,0,"",0,0
+467,"",0,0,"",0,0
+468,"",0,0,"",0,0
+469,"",0,0,"",0,0
+470,"",0,0,"",0,0
+471,"",0,0,"",0,0
+472,"",0,0,"",0,0
+473,"",0,0,"",0,0
+474,"",0,0,"",0,0
+475,"",0,0,"",0,0
+476,"",0,0,"",0,0
+477,"",0,0,"",0,0
+478,"",0,0,"",0,0
+479,"",0,0,"",0,0
+480,"",0,0,"",0,0
+481,"",0,0,"",0,0
+482,"",0,0,"",0,0
+483,"",0,0,"",0,0
+484,"",0,0,"",0,0
+485,"",0,0,"",0,0
+486,"",0,0,"",0,0
+487,"",0,0,"",0,0
+488,"",0,0,"",0,0
+489,"",0,0,"",0,0
+490,"",0,0,"",0,0
+491,"",0,0,"",0,0
+492,"",0,0,"",0,0
+493,"",0,0,"",0,0
+494,"獲得力 <Value>IntegerParameter(1)</Value>以上",221,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+495,"獲得力 <Value>IntegerParameter(1)</Value>以上",448,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+496,"獲得力 <Value>IntegerParameter(1)</Value>以上",453,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+497,"獲得力 <Value>IntegerParameter(1)</Value>以上",457,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+498,"獲得力 <Value>IntegerParameter(1)</Value>以上",498,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+499,"獲得力 <Value>IntegerParameter(1)</Value>未満",600,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+500,"識質力 <Value>IntegerParameter(1)</Value>未満",645,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+501,"識質力 <Value>IntegerParameter(1)</Value>未満",304,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+502,"識質力 <Value>IntegerParameter(1)</Value>未満",348,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+503,"識質力 <Value>IntegerParameter(1)</Value>未満",377,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+504,"識質力 <Value>IntegerParameter(1)</Value>未満",445,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+505,"識質力 <Value>IntegerParameter(1)</Value>未満",457,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+506,"識質力 <Value>IntegerParameter(1)</Value>未満",486,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+507,"識質力 <Value>IntegerParameter(1)</Value>未満",489,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+508,"識質力 <Value>IntegerParameter(1)</Value>未満",493,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+509,"識質力 <Value>IntegerParameter(1)</Value>未満",513,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+510,"識質力 <Value>IntegerParameter(1)</Value>未満",532,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+511,"識質力 <Value>IntegerParameter(1)</Value>未満",565,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+512,"獲得力 <Value>IntegerParameter(1)</Value>未満",720,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+513,"識質力 <Value>IntegerParameter(1)</Value>未満",740,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+514,"獲得力 <Value>IntegerParameter(1)</Value>以上",600,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+515,"獲得力 <Value>IntegerParameter(1)</Value>以上",690,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+516,"獲得力 <Value>IntegerParameter(1)</Value>以上",700,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+517,"獲得力 <Value>IntegerParameter(1)</Value>以上",790,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+518,"獲得力 <Value>IntegerParameter(1)</Value>未満",860,0,"獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+519,"識質力 <Value>IntegerParameter(1)</Value>以上",870,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",15,0
+520,"識質力 <Value>IntegerParameter(1)</Value>以上",890,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",35,0
+521,"獲得力 <Value>IntegerParameter(1)</Value>以上",910,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+522,"獲得力 <Value>IntegerParameter(1)</Value>以上",930,0,"個数＋<Value>IntegerParameter(1)</Value>個",2,0
+523,"獲得力 <Value>IntegerParameter(1)</Value>以上",800,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+524,"獲得力 <Value>IntegerParameter(1)</Value>以上",860,0,"個数＋<Value>IntegerParameter(1)</Value>個",2,0
+525,"識質力 <Value>IntegerParameter(1)</Value>以上",860,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",45,0
+526,"獲得力 <Value>IntegerParameter(1)</Value>以上",860,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",3,0
+527,"獲得力 <Value>IntegerParameter(1)</Value>以上",860,0,"個数＋<Value>IntegerParameter(1)</Value>個",3,0
+528,"識質力 <Value>IntegerParameter(1)</Value>以上",700,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",35,0
+529,"識質力 <Value>IntegerParameter(1)</Value>以上",860,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",85,0
+530,"獲得力 <Value>IntegerParameter(1)</Value>以上",700,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",2,0
+531,"獲得力 <Value>IntegerParameter(1)</Value>以上",860,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",3,0
+532,"獲得力 <Value>IntegerParameter(1)</Value>以上",700,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+533,"獲得力 <Value>IntegerParameter(1)</Value>以上",860,0,"個数＋<Value>IntegerParameter(1)</Value>個",2,0
+534,"獲得力 <Value>IntegerParameter(1)</Value>以上",602,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+535,"獲得力 <Value>IntegerParameter(1)</Value>以上",714,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+536,"獲得力 <Value>IntegerParameter(1)</Value>以上",733,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+537,"獲得力 <Value>IntegerParameter(1)</Value>以上",743,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+538,"獲得力 <Value>IntegerParameter(1)</Value>以上",774,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+539,"獲得力 <Value>IntegerParameter(1)</Value>以上",602,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+540,"獲得力 <Value>IntegerParameter(1)</Value>以上",700,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+541,"獲得力 <Value>IntegerParameter(1)</Value>以上",728,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+542,"獲得力 <Value>IntegerParameter(1)</Value>以上",738,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+543,"獲得力 <Value>IntegerParameter(1)</Value>以上",743,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+544,"獲得力 <Value>IntegerParameter(1)</Value>以上",774,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+545,"獲得力 <Value>IntegerParameter(1)</Value>以上",862,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+546,"識質力 <Value>IntegerParameter(1)</Value>以上",645,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+547,"識質力 <Value>IntegerParameter(1)</Value>以上",700,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+548,"識質力 <Value>IntegerParameter(1)</Value>以上",728,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+549,"識質力 <Value>IntegerParameter(1)</Value>以上",738,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+550,"識質力 <Value>IntegerParameter(1)</Value>以上",743,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+551,"識質力 <Value>IntegerParameter(1)</Value>以上",774,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+552,"識質力 <Value>IntegerParameter(1)</Value>以上",805,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+553,"GPmax <Value>IntegerParameter(1)</Value>以上",600,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+554,"GPmax <Value>IntegerParameter(1)</Value>以上",605,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+555,"GPmax <Value>IntegerParameter(1)</Value>以上",610,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+556,"GPmax <Value>IntegerParameter(1)</Value>以上",620,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+557,"GPmax <Value>IntegerParameter(1)</Value>以上",625,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+558,"GPmax <Value>IntegerParameter(1)</Value>以上",635,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+559,"GPmax <Value>IntegerParameter(1)</Value>以上",645,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+560,"獲得力 <Value>IntegerParameter(1)</Value>以上",602,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+561,"獲得力 <Value>IntegerParameter(1)</Value>以上",700,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+562,"獲得力 <Value>IntegerParameter(1)</Value>以上",728,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+563,"獲得力 <Value>IntegerParameter(1)</Value>以上",738,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+564,"獲得力 <Value>IntegerParameter(1)</Value>以上",743,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+565,"獲得力 <Value>IntegerParameter(1)</Value>以上",774,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+566,"獲得力 <Value>IntegerParameter(1)</Value>以上",862,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+567,"識質力 <Value>IntegerParameter(1)</Value>以上",688,1032,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+568,"識質力 <Value>IntegerParameter(1)</Value>以上",800,1200,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+569,"識質力 <Value>IntegerParameter(1)</Value>以上",832,1248,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+570,"識質力 <Value>IntegerParameter(1)</Value>以上",844,1266,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+571,"識質力 <Value>IntegerParameter(1)</Value>以上",849,1274,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+572,"識質力 <Value>IntegerParameter(1)</Value>以上",884,1326,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+573,"識質力 <Value>IntegerParameter(1)</Value>以上",920,1380,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+574,"GPmax <Value>IntegerParameter(1)</Value>以上",600,630,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+575,"GPmax <Value>IntegerParameter(1)</Value>以上",605,635,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+576,"GPmax <Value>IntegerParameter(1)</Value>以上",610,640,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+577,"GPmax <Value>IntegerParameter(1)</Value>以上",620,650,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+578,"GPmax <Value>IntegerParameter(1)</Value>以上",625,655,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+579,"GPmax <Value>IntegerParameter(1)</Value>以上",635,665,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+580,"GPmax <Value>IntegerParameter(1)</Value>以上",645,675,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+581,"獲得力 <Value>IntegerParameter(1)</Value>以上",722,866,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+582,"獲得力 <Value>IntegerParameter(1)</Value>以上",840,1008,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+583,"獲得力 <Value>IntegerParameter(1)</Value>以上",873,1048,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+584,"獲得力 <Value>IntegerParameter(1)</Value>以上",886,1063,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+585,"獲得力 <Value>IntegerParameter(1)</Value>以上",892,1070,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+586,"獲得力 <Value>IntegerParameter(1)</Value>以上",929,1115,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+587,"獲得力 <Value>IntegerParameter(1)</Value>以上",966,1159,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+588,"獲得力 <Value>IntegerParameter(1)</Value>以上",947,1136,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+589,"獲得力 <Value>IntegerParameter(1)</Value>以上",1000,1200,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+590,"識質力 <Value>IntegerParameter(1)</Value>未満",645,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+591,"識質力 <Value>IntegerParameter(1)</Value>未満",780,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+592,"識質力 <Value>IntegerParameter(1)</Value>未満",796,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+593,"識質力 <Value>IntegerParameter(1)</Value>未満",829,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+594,"識質力 <Value>IntegerParameter(1)</Value>未満",846,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+595,"識質力 <Value>IntegerParameter(1)</Value>未満",862,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+596,"識質力 <Value>IntegerParameter(1)</Value>未満",1200,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+597,"識質力 <Value>IntegerParameter(1)</Value>未満",846,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+598,"識質力 <Value>IntegerParameter(1)</Value>未満",1200,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+599,"識質力 <Value>IntegerParameter(1)</Value>未満",1200,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+600,"識質力 <Value>IntegerParameter(1)</Value>以上",688,1032,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+601,"識質力 <Value>IntegerParameter(1)</Value>以上",832,1248,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+602,"識質力 <Value>IntegerParameter(1)</Value>以上",849,1274,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+603,"識質力 <Value>IntegerParameter(1)</Value>以上",884,1326,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+604,"識質力 <Value>IntegerParameter(1)</Value>以上",902,1353,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+605,"識質力 <Value>IntegerParameter(1)</Value>以上",920,1380,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+606,"識質力 <Value>IntegerParameter(1)</Value>以上",1200,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+607,"識質力 <Value>IntegerParameter(1)</Value>以上",902,1353,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+608,"識質力 <Value>IntegerParameter(1)</Value>以上",1200,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+609,"GPmax <Value>IntegerParameter(1)</Value>以上",600,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+610,"GPmax <Value>IntegerParameter(1)</Value>以上",610,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+611,"GPmax <Value>IntegerParameter(1)</Value>以上",625,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+612,"GPmax <Value>IntegerParameter(1)</Value>以上",635,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+613,"GPmax <Value>IntegerParameter(1)</Value>以上",640,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+614,"GPmax <Value>IntegerParameter(1)</Value>以上",645,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+615,"GPmax <Value>IntegerParameter(1)</Value>以上",670,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+616,"GPmax <Value>IntegerParameter(1)</Value>以上",640,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+617,"GPmax <Value>IntegerParameter(1)</Value>以上",670,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+618,"GPmax <Value>IntegerParameter(1)</Value>以上",625,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+619,"GPmax <Value>IntegerParameter(1)</Value>以上",670,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+620,"",0,0,"",0,0
+621,"獲得力 <Value>IntegerParameter(1)</Value>以上",580,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+622,"獲得力 <Value>IntegerParameter(1)</Value>以上",599,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+623,"獲得力 <Value>IntegerParameter(1)</Value>以上",594,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+624,"獲得力 <Value>IntegerParameter(1)</Value>以上",620,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+625,"獲得力 <Value>IntegerParameter(1)</Value>以上",690,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+626,"識質力 <Value>IntegerParameter(1)</Value>以上",472,810,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+627,"識質力 <Value>IntegerParameter(1)</Value>以上",492,845,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+628,"識質力 <Value>IntegerParameter(1)</Value>以上",483,830,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+629,"識質力 <Value>IntegerParameter(1)</Value>以上",505,866,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+630,"識質力 <Value>IntegerParameter(1)</Value>以上",526,903,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+631,"GPmax <Value>IntegerParameter(1)</Value>以上",644,676,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+632,"GPmax <Value>IntegerParameter(1)</Value>以上",654,687,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+633,"GPmax <Value>IntegerParameter(1)</Value>以上",660,692,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+634,"GPmax <Value>IntegerParameter(1)</Value>以上",669,702,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+635,"GPmax <Value>IntegerParameter(1)</Value>以上",676,712,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+636,"獲得力 <Value>IntegerParameter(1)</Value>以上",580,837,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+637,"獲得力 <Value>IntegerParameter(1)</Value>以上",599,864,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+638,"獲得力 <Value>IntegerParameter(1)</Value>以上",594,857,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+639,"獲得力 <Value>IntegerParameter(1)</Value>以上",620,894,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+640,"獲得力 <Value>IntegerParameter(1)</Value>以上",690,930,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+641,"GPmax <Value>IntegerParameter(1)</Value>以上",669,702,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+642,"GPmax <Value>IntegerParameter(1)</Value>以上",669,702,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+643,"GPmax <Value>IntegerParameter(1)</Value>以上",676,712,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+644,"識質力 <Value>IntegerParameter(1)</Value>以上",505,866,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+645,"識質力 <Value>IntegerParameter(1)</Value>以上",505,866,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+646,"識質力 <Value>IntegerParameter(1)</Value>以上",526,903,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+647,"獲得力 <Value>IntegerParameter(1)</Value>以上",620,894,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+648,"獲得力 <Value>IntegerParameter(1)</Value>以上",620,894,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+649,"獲得力 <Value>IntegerParameter(1)</Value>以上",690,930,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+650,"GPmax <Value>IntegerParameter(1)</Value>以上",600,630,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+651,"GPmax <Value>IntegerParameter(1)</Value>以上",610,640,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+652,"GPmax <Value>IntegerParameter(1)</Value>以上",625,655,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+653,"GPmax <Value>IntegerParameter(1)</Value>以上",635,665,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+654,"GPmax <Value>IntegerParameter(1)</Value>以上",640,670,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+655,"GPmax <Value>IntegerParameter(1)</Value>以上",645,675,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+656,"GPmax <Value>IntegerParameter(1)</Value>以上",670,700,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+657,"GPmax <Value>IntegerParameter(1)</Value>以上",640,670,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+658,"GPmax <Value>IntegerParameter(1)</Value>以上",670,700,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+659,"GPmax <Value>IntegerParameter(1)</Value>以上",625,655,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+660,"GPmax <Value>IntegerParameter(1)</Value>以上",670,700,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+661,"GPmax <Value>IntegerParameter(1)</Value>以上",483,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+662,"GPmax <Value>IntegerParameter(1)</Value>以上",529,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+663,"GPmax <Value>IntegerParameter(1)</Value>以上",547,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+664,"GPmax <Value>IntegerParameter(1)</Value>以上",565,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+665,"識質力 <Value>IntegerParameter(1)</Value>未満",1350,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+666,"識質力 <Value>IntegerParameter(1)</Value>以上",1350,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+667,"識質力 <Value>IntegerParameter(1)</Value>未満",1550,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+668,"識質力 <Value>IntegerParameter(1)</Value>以上",1550,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+669,"GPmax <Value>IntegerParameter(1)</Value>以上",720,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+670,"GPmax <Value>IntegerParameter(1)</Value>以上",720,750,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+671,"獲得力 <Value>IntegerParameter(1)</Value>以上",1015,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+672,"獲得力 <Value>IntegerParameter(1)</Value>以上",1225,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+673,"獲得力 <Value>IntegerParameter(1)</Value>以上",1260,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+674,"獲得力 <Value>IntegerParameter(1)</Value>以上",1326,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+675,"獲得力 <Value>IntegerParameter(1)</Value>以上",1392,0,"格上レベルアイテム獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+676,"獲得力 <Value>IntegerParameter(1)</Value>以上",1015,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+677,"獲得力 <Value>IntegerParameter(1)</Value>以上",1190,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+678,"獲得力 <Value>IntegerParameter(1)</Value>以上",1225,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+679,"獲得力 <Value>IntegerParameter(1)</Value>以上",1260,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+680,"獲得力 <Value>IntegerParameter(1)</Value>以上",1293,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+681,"獲得力 <Value>IntegerParameter(1)</Value>以上",1326,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+682,"獲得力 <Value>IntegerParameter(1)</Value>以上",1359,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+683,"獲得力 <Value>IntegerParameter(1)</Value>以上",1562,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+684,"識質力 <Value>IntegerParameter(1)</Value>以上",1015,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+685,"識質力 <Value>IntegerParameter(1)</Value>以上",1190,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+686,"識質力 <Value>IntegerParameter(1)</Value>以上",1225,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+687,"識質力 <Value>IntegerParameter(1)</Value>以上",1260,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+688,"識質力 <Value>IntegerParameter(1)</Value>以上",1293,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+689,"識質力 <Value>IntegerParameter(1)</Value>以上",1326,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+690,"識質力 <Value>IntegerParameter(1)</Value>以上",1359,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+691,"識質力 <Value>IntegerParameter(1)</Value>以上",1458,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",5,0
+692,"GPmax <Value>IntegerParameter(1)</Value>以上",680,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+693,"GPmax <Value>IntegerParameter(1)</Value>以上",680,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+694,"GPmax <Value>IntegerParameter(1)</Value>以上",685,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+695,"GPmax <Value>IntegerParameter(1)</Value>以上",695,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+696,"GPmax <Value>IntegerParameter(1)</Value>以上",700,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+697,"GPmax <Value>IntegerParameter(1)</Value>以上",705,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+698,"GPmax <Value>IntegerParameter(1)</Value>以上",710,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+699,"GPmax <Value>IntegerParameter(1)</Value>以上",725,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+700,"獲得力 <Value>IntegerParameter(1)</Value>以上",1015,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+701,"獲得力 <Value>IntegerParameter(1)</Value>以上",1190,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+702,"獲得力 <Value>IntegerParameter(1)</Value>以上",1225,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+703,"獲得力 <Value>IntegerParameter(1)</Value>以上",1260,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+704,"獲得力 <Value>IntegerParameter(1)</Value>以上",1293,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+705,"獲得力 <Value>IntegerParameter(1)</Value>以上",1326,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+706,"獲得力 <Value>IntegerParameter(1)</Value>以上",1359,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+707,"獲得力 <Value>IntegerParameter(1)</Value>以上",1562,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",25,0
+708,"識質力 <Value>IntegerParameter(1)</Value>以上",1350,2025,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+709,"識質力 <Value>IntegerParameter(1)</Value>以上",1360,2040,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+710,"識質力 <Value>IntegerParameter(1)</Value>以上",1400,2100,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+711,"識質力 <Value>IntegerParameter(1)</Value>以上",1440,2160,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+712,"識質力 <Value>IntegerParameter(1)</Value>以上",1478,2217,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+713,"識質力 <Value>IntegerParameter(1)</Value>以上",1516,2274,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+714,"識質力 <Value>IntegerParameter(1)</Value>以上",1553,2330,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+715,"識質力 <Value>IntegerParameter(1)</Value>以上",1666,2499,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+716,"GPmax <Value>IntegerParameter(1)</Value>以上",680,710,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+717,"GPmax <Value>IntegerParameter(1)</Value>以上",680,710,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+718,"GPmax <Value>IntegerParameter(1)</Value>以上",685,715,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+719,"GPmax <Value>IntegerParameter(1)</Value>以上",695,725,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+720,"GPmax <Value>IntegerParameter(1)</Value>以上",700,730,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+721,"GPmax <Value>IntegerParameter(1)</Value>以上",705,735,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+722,"GPmax <Value>IntegerParameter(1)</Value>以上",710,740,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+723,"GPmax <Value>IntegerParameter(1)</Value>以上",725,755,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+724,"獲得力 <Value>IntegerParameter(1)</Value>以上",1218,1462,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+725,"獲得力 <Value>IntegerParameter(1)</Value>以上",1428,1714,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+726,"獲得力 <Value>IntegerParameter(1)</Value>以上",1470,1764,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+727,"獲得力 <Value>IntegerParameter(1)</Value>以上",1512,1814,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+728,"獲得力 <Value>IntegerParameter(1)</Value>以上",1552,1862,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+729,"獲得力 <Value>IntegerParameter(1)</Value>以上",1591,1909,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+730,"獲得力 <Value>IntegerParameter(1)</Value>以上",1631,1957,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+731,"獲得力 <Value>IntegerParameter(1)</Value>以上",1749,2099,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+732,"獲得力 <Value>IntegerParameter(1)</Value>以上",1670,2004,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+733,"獲得力 <Value>IntegerParameter(1)</Value>以上",1749,2099,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+734,"獲得力 <Value>IntegerParameter(1)</Value>以上",1832,2198,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3
+735,"識質力 <Value>IntegerParameter(1)</Value>未満",1350,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+736,"識質力 <Value>IntegerParameter(1)</Value>未満",1312,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+737,"識質力 <Value>IntegerParameter(1)</Value>未満",1350,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+738,"識質力 <Value>IntegerParameter(1)</Value>未満",1421,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+739,"識質力 <Value>IntegerParameter(1)</Value>未満",1491,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+740,"識質力 <Value>IntegerParameter(1)</Value>未満",1562,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+741,"識質力 <Value>IntegerParameter(1)</Value>未満",1840,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+742,"識質力 <Value>IntegerParameter(1)</Value>未満",1491,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+743,"識質力 <Value>IntegerParameter(1)</Value>未満",1562,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+744,"識質力 <Value>IntegerParameter(1)</Value>未満",1840,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+745,"識質力 <Value>IntegerParameter(1)</Value>未満",1840,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+746,"識質力 <Value>IntegerParameter(1)</Value>以上",1400,2100,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+747,"識質力 <Value>IntegerParameter(1)</Value>以上",1440,2160,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+748,"識質力 <Value>IntegerParameter(1)</Value>以上",1516,2274,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+749,"識質力 <Value>IntegerParameter(1)</Value>以上",1591,2387,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+750,"識質力 <Value>IntegerParameter(1)</Value>以上",1666,2499,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+751,"識質力 <Value>IntegerParameter(1)</Value>以上",1840,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+752,"識質力 <Value>IntegerParameter(1)</Value>以上",1591,2387,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+753,"識質力 <Value>IntegerParameter(1)</Value>以上",1666,2499,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
+754,"識質力 <Value>IntegerParameter(1)</Value>以上",1840,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
+755,"GPmax <Value>IntegerParameter(1)</Value>以上",680,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+756,"GPmax <Value>IntegerParameter(1)</Value>以上",685,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+757,"GPmax <Value>IntegerParameter(1)</Value>以上",695,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+758,"GPmax <Value>IntegerParameter(1)</Value>以上",705,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+759,"GPmax <Value>IntegerParameter(1)</Value>以上",715,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+760,"GPmax <Value>IntegerParameter(1)</Value>以上",725,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+761,"GPmax <Value>IntegerParameter(1)</Value>以上",740,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+762,"GPmax <Value>IntegerParameter(1)</Value>以上",715,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+763,"GPmax <Value>IntegerParameter(1)</Value>以上",725,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+764,"GPmax <Value>IntegerParameter(1)</Value>以上",740,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+765,"GPmax <Value>IntegerParameter(1)</Value>以上",705,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+766,"GPmax <Value>IntegerParameter(1)</Value>以上",740,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",1,0
+767,"GPmax <Value>IntegerParameter(1)</Value>以上",680,710,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+768,"GPmax <Value>IntegerParameter(1)</Value>以上",685,715,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+769,"GPmax <Value>IntegerParameter(1)</Value>以上",695,725,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+770,"GPmax <Value>IntegerParameter(1)</Value>以上",705,735,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+771,"GPmax <Value>IntegerParameter(1)</Value>以上",715,745,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+772,"GPmax <Value>IntegerParameter(1)</Value>以上",725,755,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+773,"GPmax <Value>IntegerParameter(1)</Value>以上",740,770,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+774,"GPmax <Value>IntegerParameter(1)</Value>以上",715,745,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+775,"GPmax <Value>IntegerParameter(1)</Value>以上",725,755,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+776,"GPmax <Value>IntegerParameter(1)</Value>以上",740,770,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+777,"GPmax <Value>IntegerParameter(1)</Value>以上",705,735,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+778,"GPmax <Value>IntegerParameter(1)</Value>以上",740,770,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+779,"獲得力 <Value>IntegerParameter(1)</Value>以上",987,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+780,"獲得力 <Value>IntegerParameter(1)</Value>以上",1034,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+781,"獲得力 <Value>IntegerParameter(1)</Value>以上",1061,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+782,"獲得力 <Value>IntegerParameter(1)</Value>以上",1113,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+783,"獲得力 <Value>IntegerParameter(1)</Value>以上",1166,0,"獲得率＋<Value>IntegerParameter(1)</Value>％",10,0
+784,"識質力 <Value>IntegerParameter(1)</Value>以上",793,1364,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+785,"識質力 <Value>IntegerParameter(1)</Value>以上",831,1429,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+786,"識質力 <Value>IntegerParameter(1)</Value>以上",852,1465,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+787,"識質力 <Value>IntegerParameter(1)</Value>以上",895,1539,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+788,"識質力 <Value>IntegerParameter(1)</Value>以上",937,1612,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+789,"GPmax <Value>IntegerParameter(1)</Value>以上",710,746,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+790,"GPmax <Value>IntegerParameter(1)</Value>以上",710,746,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+791,"GPmax <Value>IntegerParameter(1)</Value>以上",710,746,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+792,"GPmax <Value>IntegerParameter(1)</Value>以上",720,756,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+793,"GPmax <Value>IntegerParameter(1)</Value>以上",730,767,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+794,"獲得力 <Value>IntegerParameter(1)</Value>以上",987,1421,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+795,"獲得力 <Value>IntegerParameter(1)</Value>以上",1034,1489,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+796,"獲得力 <Value>IntegerParameter(1)</Value>以上",1061,1528,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+797,"獲得力 <Value>IntegerParameter(1)</Value>以上",1113,1603,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+798,"獲得力 <Value>IntegerParameter(1)</Value>以上",1166,1574,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+799,"GPmax <Value>IntegerParameter(1)</Value>以上",710,746,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+800,"GPmax <Value>IntegerParameter(1)</Value>以上",710,746,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+801,"GPmax <Value>IntegerParameter(1)</Value>以上",710,746,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+802,"識質力 <Value>IntegerParameter(1)</Value>以上",793,1356,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+803,"識質力 <Value>IntegerParameter(1)</Value>以上",810,1385,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+804,"識質力 <Value>IntegerParameter(1)</Value>以上",831,1429,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+805,"獲得力 <Value>IntegerParameter(1)</Value>以上",987,1421,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+806,"獲得力 <Value>IntegerParameter(1)</Value>以上",1008,1452,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+807,"獲得力 <Value>IntegerParameter(1)</Value>以上",1034,1396,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+808,"GPmax <Value>IntegerParameter(1)</Value>以上",720,756,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+809,"GPmax <Value>IntegerParameter(1)</Value>以上",730,767,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+810,"GPmax <Value>IntegerParameter(1)</Value>以上",730,767,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+811,"識質力 <Value>IntegerParameter(1)</Value>以上",895,1530,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+812,"識質力 <Value>IntegerParameter(1)</Value>以上",916,1566,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+813,"識質力 <Value>IntegerParameter(1)</Value>以上",937,1612,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,60
+814,"獲得力 <Value>IntegerParameter(1)</Value>以上",1113,1603,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+815,"獲得力 <Value>IntegerParameter(1)</Value>以上",1140,1642,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+816,"獲得力 <Value>IntegerParameter(1)</Value>以上",1166,1574,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
