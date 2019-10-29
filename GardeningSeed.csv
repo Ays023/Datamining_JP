@@ -92,3 +92,4 @@ int32,Item,uint16,Image,bit&01,bit&02,byte
 88,"カラー:レッド",104,"ui/icon/066000/066502.tex",False,True,8
 89,"リリーオブバレー:レッド",108,"ui/icon/066000/066502.tex",False,True,9
 90,"ハイドレインジャ:レッド",110,"ui/icon/066000/066502.tex",False,True,10
+91,"カンパニュラ:レッド",112,"ui/icon/066000/066502.tex",False,True,11

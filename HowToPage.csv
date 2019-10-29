@@ -2873,16 +2873,16 @@ HQの獲得率に
 917,0,0,,0,"","",""
 918,0,0,,0,"","",""
 919,0,0,,0,"","",""
-920,1,0,"ui/icon/150000/ja/150261.tex",0,"アクション<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ステルス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行すると、
-モンスターに気づかれることがなくなり、
+920,1,0,"ui/icon/150000/ja/150261.tex",0,"アクション<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「スニーク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行すると、
+自分よりレベルが少し高いモンスターに、
+襲われることがなくなり、
 安全に採集することができます。
 
+ただし、モンスターに襲われている間は、
+スニークを使用できません。
 
-
-
-
-
-　　　　　　　　　　　次のページヘ》","",""
+モンスターが多い場所で採集を行う場合、
+スニークを使って安全を確保しましょう！","",""
 921,1,0,"ui/icon/150000/ja/150262.tex",0,"ただし、ステルス中は移動速度が
 遅くなるというデメリットがあります。
 
@@ -3163,27 +3163,36 @@ HQの獲得率に
 997,0,0,,0,"","",""
 998,0,0,,0,"","",""
 999,0,0,,0,"","",""
-1000,1,0,"ui/icon/151000/ja/151221.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「トゥルー・オブ・ミネラル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「トゥルー・オブ・フォレスト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の
-効果を得ていると、
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「未知の採集場所」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が出没した際に
-ナビマップに表示され、誘導が行われます。
+1000,1,0,"ui/icon/151000/ja/151221.tex",0,"採集場所には、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「未知の採集場所」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と
+呼ばれる場所があります。
 
-「ランドサーベイ」系や
-「アーバーコール」系では
-「未知の採集場所」は見つけられません。
-　　　　　　　　　　　次のページヘ》","",""
-1001,1,0,"ui/icon/151000/ja/151222.tex",0,"ただし、「未知の採集場所」は
+「未知の採集場所」は、
 常に見つかるわけではなく、
-その出没はまれです。
+出没時間が限られています。
 
-熟練のギャザラーの間では
-その出没には何かしらの法則性がある、
-とも噂されています。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※「未知の採集場所」は採集を中断すると
-　見失ってしまうので注意しましょう<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-1002,0,0,,0,"","",""
+
+　　　　　　　　　　　次のページヘ》","",""
+1001,1,0,"ui/icon/151000/ja/151222.tex",0,"「未知の採集場所」は、
+「ランドサーベイ」や
+「アーバーコール」では見つかりません。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「トゥルー・オブ・ミネラル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「トゥルー・オブ・フォレスト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の
+効果が発揮されていると、
+「未知の採集場所」が出没した際に
+ナビマップに自動表示されます。
+　　　　　　　　　　　次のページヘ》","",""
+1002,1,0,"ui/icon/151000/ja/151223.tex",0,"「未知の採集場所」で
+採集に成功したアイテムを、
+採集手帳で調べると、
+その出没時間を知ることができます。
+
+「未知の採集場所」が出没したら、
+積極的に採集を行うといいでしょう。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「未知の採集場所」は採集を中断すると
+見失ってしまうので注意しましょう。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1003,0,0,,0,"","",""
 1004,0,0,,0,"","",""
 1005,0,0,,0,"","",""
@@ -3834,8 +3843,10 @@ EXホットバーに設定された
 　　　　　　　　　　　次のページヘ》","",""
 1243,0,0,,0,"","",""
 1244,1,0,"ui/icon/151000/ja/151435.tex",0,"ペットのアクションは、
-アクションリストの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「PETS」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から
-通常のホットバーに
+アクションリストの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ORDERS」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ペット」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を選択すると表示されます。
+
+ペットアクションは通常のホットバーに
 設定することができます。","",""
 1245,1,0,"ui/icon/151000/ja/151436.tex",0,"ペットを召喚すると
 「<CommandIcon(13)/>ボタン」でペット専用の
@@ -5360,34 +5371,31 @@ BIND化されます。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 1747,0,0,,0,"","",""
 1748,0,0,,0,"","",""
 1749,0,0,,0,"","",""
-1750,1,0,"ui/icon/151000/ja/151951.tex",0,"装備品などのアイテムからさまざまな
-素材を取り出す「アイテム分解」が
+1750,1,0,"ui/icon/151000/ja/151951.tex",0,"装備品などのアイテムから、さまざまな
+素材を取り出す<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「アイテム分解」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が
 できるようになりました！
 
 分解したいアイテムに対応した
 クラフターのレベルが30以上であれば、
-サブコマンドから<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「アイテム分解」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
+サブコマンドから「アイテム分解」を
 選択することで分解が可能です。
 
 　　　　　　　　　　　次のページヘ》","",""
-1751,1,0,"ui/icon/151000/ja/151952.tex",0,"分解には各クラフターごとに専用の
-スキル値が設定されており、分解に
-成功すると少しずつ上昇していきます。
+1751,1,0,"ui/icon/151000/ja/151952.tex",0,"分解には各クラフターごとに
+スキル値が設定されており、分解を
+行うと、少しずつ上昇していきます。
 
-分解スキルが高いほど分解は成功
-しやすくなり、分解でしか手に入らない
-希少なアイテムが出現する可能性も
-アップします。
+分解スキルが、
+分解適正スキル以上だと、
+分解でしか手に入らない希少なアイテムを
+入手しやすくなります。
 
 　　　　　　　　　　　次のページヘ》","",""
-1752,1,0,"ui/icon/151000/ja/151953.tex",0,"分解スキルは下がることもあります。
+1752,1,0,"ui/icon/151000/ja/151953.tex",0,"アイテムの分解はスキル値に関わらず、
+必ず成功します。
 
-分解スキルの合計値には上限があり、
-すべてのスキルを最大値にすることは
-できません。
-
-どのクラフターに特化するのか、
-よく考えながらスキルを伸ばしましょう！","",""
+分解できる不要なアイテムは、
+どんどん分解してみましょう！","",""
 1753,0,0,,0,"","",""
 1754,0,0,,0,"","",""
 1755,0,0,,0,"","",""
@@ -5422,14 +5430,61 @@ BIND化されます。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 マイチョコボがどんな風に成長するか
 温かく見守ってあげましょう。","",""
 1763,0,0,,0,"","",""
-1764,0,0,,0,"","",""
-1765,0,0,,0,"","",""
+1764,1,0,"ui/icon/152000/ja/152791.tex",0,"魚の中には、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「伝承録」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を入手していないと、
+釣り上げられない魚がいます。
+
+「伝承録」とは、各地域に伝わる
+魚の伝承について記された書物です。
+
+
+
+　　　　　　　　　　　次のページヘ》","",""
+1765,1,0,"ui/icon/152000/ja/152792.tex",0,"釣り上げるために
+「伝承録」が必要な魚は、
+魚類図鑑・釣り手帳にて
+確認することができます。
+
+「伝承録」を入手して、
+貴重な魚を釣り上げましょう！","",""
 1766,0,0,,0,"","",""
-1767,0,0,,0,"","",""
-1768,0,0,,0,"","",""
+1767,1,0,"ui/icon/152000/ja/152801.tex",0,"刺突漁にて特定の魚を獲っていると、
+生態系のバランスが変わり、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「魚影」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と呼ばれる特殊な漁場が、
+出現することがあります。
+
+
+
+
+
+　　　　　　　　　　　次のページヘ》","",""
+1768,1,0,"ui/icon/152000/ja/152802.tex",0,"出現した「魚影」は、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「トゥルー・オブ・オーシャン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使うと、
+ナビマップに自動表示されます。
+
+「魚影」にひそむ、
+貴重な魚を狙いましょう！","",""
 1769,0,0,,0,"","",""
-1770,0,0,,0,"","",""
-1771,0,0,,0,"","",""
+1770,1,0,"ui/icon/152000/ja/152811.tex",0,"メインコマンドの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「だいじなもの」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が
+使えるようになりました。
+物語の中で手に入る、大切なものが
+ここに追加されていきます。
+
+物語の背景を知ることができるものも
+あれば、使うと効果を発揮するものも
+あるでしょう。
+新しく「だいじなもの」を手に入れたら
+是非使って確認してみましょう！","",""
+1771,1,0,"ui/icon/152000/ja/152812.tex",0,"メインコマンドの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「だいじなもの」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が
+使えるようになりました。
+物語の中で手に入る、大切なものが
+ここに追加されていきます。
+
+物語の背景を知ることができるものも
+あれば、使うと効果を発揮するものも
+あるでしょう。
+新しく「だいじなもの」を手に入れたら
+是非使って確認してみましょう！","",""
 1772,0,0,,0,"","",""
 1773,0,0,,0,"","",""
 1774,0,0,,0,"","",""
@@ -5904,14 +5959,14 @@ MGPと交換できる多数の景品を、
 週に3回までとなります。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1962,0,0,,0,"","",""
 1963,0,0,,0,"","",""
-1970,1,0,"ui/icon/152000/ja/152161.tex",0,"一部のNPCがプレイヤーに蒐集品の
+1970,1,0,"ui/icon/152000/ja/152161.tex",0,"一部のNPCがプレイヤーに収集品の
 納品を求めてくることがあります。
 
-この場合、蒐集品の「蒐集価値」が一定値
+この場合、収集品の「収集価値」が一定値
 以上でないと受け取ってくれません。
 
-納品物にどれだけの「蒐集価値」が必要か
-確認して、蒐集品を製作・採集しましょう！","",""
+納品物にどれだけの「収集価値」が必要か
+確認して、収集品を製作・採集しましょう！","",""
 1980,1,0,"ui/icon/152000/ja/152171.tex",0,"風脈の泉を巡り、風を知ったことで、
 空を飛ぶことができるようになりました。
 
@@ -5963,34 +6018,34 @@ MGPと交換できる多数の景品を、
 　　　　　　　　　　　次のページヘ》","",""
 2011,1,0,"ui/icon/152000/ja/152392.tex",0,"「メンター」に認定されると、
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>オンラインステータス<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
-<Gui(78)/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「メンター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に設定することが
-できるようになります。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>メンター専用のオンラインステータス<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に
+設定できるようになります。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※「メンター」に設定することで
-　他の冒険者は、あなたをメンターだと
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※設定を行うことで、他の冒険者は
+　あなたを「メンター」だと
 　認識できるようになります。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 　　　　　　　　　　　次のページヘ》","",""
-2012,1,0,"ui/icon/152000/ja/152393.tex",0,"また、あなたの得意分野に合わせて
-以下の3種類のオンラインステータスを
-使い分けて設定することもできます。
-
+2012,1,0,"ui/icon/152000/ja/152393.tex",0,"バトルメンターは以下を設定できます。
 　<Gui(79)/>バトルメンター
-　<Gui(80)/>製作採集メンター
 　<Gui(81)/>PvPメンター
- 
+製作採集メンターは以下を設定できます。
+　<Gui(80)/>製作採集メンター
 
+どちらの認定も受けている場合は加えて
+分野によらず幅広く活動できることを示す
+「<Gui(78)/>メンター」を設定できます。
 　　　　　　　　　　　次のページヘ》","",""
 2013,1,0,"ui/icon/152000/ja/152394.tex",0,"メンターとして活動している間は、
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ビギナーチャンネル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と呼ばれる
 特別なチャットにビギナーを招待し、
 冒険の手助けをすることができます。
 
-コンテンツを攻略することで
+バトルメンターであれば、
 特別な報酬を獲得できる
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「コンテンツルーレット：メンター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>も
-開放されるため、
-積極的に活動してみましょう！","",""
+開放されます。
+メンターとして積極的に活動しましょう！","",""
 2020,1,0,"ui/icon/152000/ja/152211.tex",0,"この世の中には、
 ある時間にしか見つからない
 「刻限の採集場所」が存在します。
@@ -6042,20 +6097,27 @@ MGPと交換できる多数の景品を、
 
 「精選」をしたアイテムは失いますが、
 時には貴重なアイテムが入手できます。
-「蒐集価値」が高いアイテムほど
+「収集価値」が高いアイテムほど
 貴重なアイテムが出やすいようです。
 
-「蒐集価値」の高い蒐集品を採集して
+「収集価値」の高い収集品を採集して
 どんどん「精選」を行ってみましょう！","",""
-2060,1,0,"ui/icon/152000/ja/152251.tex",0,"伝承録を入手しました！
+2060,1,0,"ui/icon/152000/ja/152251.tex",0,"「未知の採集場所」の中には、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「伝承録」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を入手することで
+見つけられるようになる、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「伝説の採集場所」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>があります。
 
-これまで見つけることができなかった
-採集場所や魚を
-見つけられるようになります。
+「伝承録」とは、各地域ごとの
+伝承について、記された書物です。
+使用すると、その内容が、採集手帳の
+「スペシャル」カテゴリに書き込まれます。
+　　　　　　　　　　　次のページヘ》","",""
+2061,1,0,"ui/icon/152000/ja/152252.tex",0,"まだ入手していない「伝承録」は、
+採集手帳で確認できます。
 
-一度使えば
-採集手帳や魚類図鑑に反映され、
-そのあとはずっと有効です。","",""
+「伝承録」を入手して、
+「伝説の採集場所」で、
+貴重なアイテムを採集しましょう！","",""
 2070,0,0,,0,"","",""
 2071,0,0,,0,"","",""
 2072,0,0,,0,"","",""
@@ -6144,48 +6206,60 @@ PASS　 ：必要ない。
 
 虫入りアンバーが集まったら、
 稀少琥珀商人の元に持っていきましょう。","",""
-2120,1,0,"ui/icon/152000/ja/152301.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「蒐集品（しゅうしゅうひん）」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
-手に入れました！
+2120,1,0,"ui/icon/152000/ja/152301.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>収集品<UIGlow>01</UIGlow><UIForeground>01</UIForeground>とは、
+特別な顧客に納品するための
+特注品です。
 
-蒐集品は特別な顧客に納品するための
-特注品で、どれだけその顧客の要望に
+どれだけその顧客の要望に
 沿っているのかの度合いを示す
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「蒐集価値」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>というパラメータを
+「収集価値」というパラメータを
 持ちます。
 
 　　　　　　　　　　　次のページヘ》","",""
-2121,1,0,"ui/icon/152000/ja/152302.tex",0,"蒐集品は他の同じアイテムと
+2121,1,0,"ui/icon/152000/ja/152302.tex",0,"収集品は他の同じアイテムと
 まとめることができず、ショップで
 売却することもできません。
 
 また、「使う」ことのできるアイテムは
-蒐集品でも使うことができますが、
+収集品でも使うことができますが、
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作素材としては使えない<UIGlow>01</UIGlow><UIForeground>01</UIForeground>など、
 通常のアイテムと扱いが異なるため
-注意が必要です。","",""
-2130,1,0,"ui/icon/152000/ja/152311.tex",0,"アクション<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「蒐集品製作」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用すると、
-バフステータス<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「蒐集品製作」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が
+注意が必要です。
+　　　　　　　　　　　次のページヘ》","",""
+2122,1,0,"ui/icon/152000/ja/152303.tex",0,"なお、製作において
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「収集品製作専用」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>であるアイテムは、
+完成時に必ず「収集品」になります。
+
+品質を高めることで
+収集価値も同時に高まります。
+
+できるだけ品質を高くして、
+収集価値の高いアイテムを
+納品しましょう！","",""
+2130,1,0,"ui/icon/152000/ja/152311.tex",0,"アクション<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「収集品製作」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用すると、
+バフステータス<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「収集品製作」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が
 付与されます。
 
-この状態で製作を完了させると、
-蒐集品として仕上げるかどうか
+この状態で、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「収集品製作可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>であるアイテムの
+製作を完了させると、
+収集品として仕上げるかどうか
 選択することができます。
-
-
 　　　　　　　　　　　次のページヘ》","",""
 2131,1,0,"ui/icon/152000/ja/152312.tex",0,"製作の進め方は
-「蒐集品製作」状態にかかわらず、
+「収集品製作」状態にかかわらず、
 通常の製作と同じです。
 
 品質を高めることで
-蒐集価値も同時に高まります。
+収集価値も同時に高まります。
 
-蒐集価値が目標に届かない場合、
+収集価値が目標に届かない場合、
 通常のアイテムとして
 完成させるのがよいでしょう。","",""
-2140,1,0,"ui/icon/152000/ja/152321.tex",0,"「蒐集品」を採集できるアクション、
-「蒐集品採集」の実行により
-ステータス「蒐集品採集」が
+2132,0,0,,0,"","",""
+2140,1,0,"ui/icon/152000/ja/152321.tex",0,"「収集品」を採集できるアクション、
+「収集品採集」の実行により
+ステータス「収集品採集」が
 付与されました。
 
 
@@ -6193,27 +6267,27 @@ PASS　 ：必要ない。
 
 
 　　　　　　　　　　　次のページヘ》","",""
-2141,1,0,"ui/icon/152000/ja/152322.tex",0,"「蒐集品採集」の状態になると、
+2141,1,0,"ui/icon/152000/ja/152322.tex",0,"「収集品採集」の状態になると、
 釣り上げた魚を、品質を保持した
-「蒐集品」として入手できます。
+「収集品」として入手できます。
 
-「蒐集品」の品質は、
+「収集品」の品質は、
 魚のサイズに依存します。
 なるべく大きな魚が入手できるよう
 道具などの準備を入念に行いましょう。","",""
-2150,1,0,"ui/icon/152000/ja/152261.tex",0,"ステータス「蒐集品採集」がついていると
-「蒐集品」として採集できるアイテムが
+2150,1,0,"ui/icon/152000/ja/152261.tex",0,"ステータス「収集品採集」がついていると
+「収集品」として採集できるアイテムが
 アクティブになります。
 
-「蒐集品」として採集したいアイテムを
+「収集品」として採集したいアイテムを
 選んでみましょう。","",""
-2160,1,0,"ui/icon/152000/ja/152201.tex",0,"アイテムを蒐集品として
+2160,1,0,"ui/icon/152000/ja/152201.tex",0,"アイテムを収集品として
 採集できる状態になりました。
 
 採集する前に、
 「選別」アクションを使用して
 アイテムの「稀少度」をあげましょう。
-蒐集品の「蒐集価値」が高くなります。
+収集品の「収集価値」が高くなります。
 
 
 　　　　　　　　　　　次のページへ》","",""
@@ -6225,7 +6299,7 @@ PASS　 ：必要ない。
 
 「負荷」に注意しながら、
 十分に「稀少度」をあげて、
-アイテムを蒐集品として採集しましょう。","",""
+アイテムを収集品として採集しましょう。","",""
 2170,1,0,"ui/icon/152000/ja/152341.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ロード・オブ・ヴァーミニオン(LoVM)」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 をプレイできるようになりました！
 
@@ -6363,7 +6437,7 @@ RPは他の冒険者と対戦した時のみ、
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※「アルカナストーン」は
 　再起動しません。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-2200,1,0,"ui/icon/152000/ja/152371.tex",0,"特定のクエストには、<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> が付いている、
+2200,1,0,"ui/icon/152000/ja/152371.tex",0,"特定のクエストには、<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> が付いている
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「レベルアジャスト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が設定されており、
 キャラクターのレベルに合わせ、
 クエストバトルの難易度が変動します。
@@ -6373,10 +6447,10 @@ RPは他の冒険者と対戦した時のみ、
 経験値を取得します。
 
 　　　　　　　　　　　次のページヘ》","",""
-2201,1,0,"ui/icon/152000/ja/152372.tex",0,"一部のクエストでは、
+2201,1,0,"ui/icon/152000/ja/152372.tex",0,"【受注クラス・ジョブ制限】と
+表記されているクエストは、
 受注時のクラス・ジョブのみで、
-クエストが進行可能となる
-制限が付きます。
+クエストの進行が可能です。
 
 該当クエストの攻略途中に、
 クラスやジョブを変更した場合、
@@ -7158,7 +7232,7 @@ HUD上に表示されたアクションを
 
 　　　　　　　　　　　次のページへ》","",""
 2497,1,0,"ui/icon/152000/ja/152732.tex",0,"入手したロゴスアクションは、
-マギアボードウィジェットの右側に
+マギアボードウィンドウの右側に
 抽出3回ぶん、ストックできます。
 ここから好みのアクションを使うことで、
 記憶を継承し、コンテンツアクションとして
@@ -7226,14 +7300,14 @@ HUD上に表示されたアクションを
 
 　　　　　　　　　　　次のページへ》","",""
 2505,1,0,"ui/icon/152000/ja/152774.tex",0,"青魔道書では、修得した青魔法の
-攻撃タイプや攻撃属性の他、
-解説文を確認することができます。
+効果詳細や解説文の他、
+主な修得場所を確認することができます。
 
-また、未修得の青魔法の欄には、
-主な修得場所が記載されています。
-それをヒントとして活用し、
-たくさんの青魔法修得を目指しましょう！
-
+また、コンテンツファインダー設定の
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「人数制限解除」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を利用せずに
+インスタンスコンテンツに参加すると、
+ラーニング成功確率が大きく上昇します。
+新しい青魔法修得の際に役立てましょう！
 　　　　　　　　　　　次のページへ》","",""
 2506,1,0,"ui/icon/152000/ja/152761.tex",0,"FFXIVの世界には、あなたがいる
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ホームワールド」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以外にも、

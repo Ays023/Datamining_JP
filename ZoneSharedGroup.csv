@@ -43,11 +43,11 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 8.4,6110199,1," 友好への宴",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 8.5,6110200,1," 畏敬されし者",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 8.6,6110201,1," 豪猛なる太陽の舞",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-9.0,6263675,1,"友を操る修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-9.1,6263676,1,"竜を動かす修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-9.2,6263677,1,"泉を造る修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-9.3,6263678,1,"像を手がける修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-9.4,6263679,1,"岩を砕く修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+9.0,6263675,1," 友を操る修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+9.1,6263676,1," 竜を動かす修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+9.2,6263677,1," 泉を造る修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+9.3,6263678,1," 像を手がける修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+9.4,6263679,1," 岩を砕く修復団！",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 10.0,6644799,2,"イシュガルド代表使節団",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 11.0,6700275,2,"終わりの始まり",255,False,2,"オメガ起動",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 12.0,6915108,2,"オメガの消息",2,False,2,"再び次元の狭間へ",1,False,1,"ハカイの妖星",0,False,2,"最後の闘い",255,False,0,,0,False,0,,0,False,0,0,0,False
@@ -85,11 +85,11 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 16.3,7242432,2,"さらなる暗雲",2,False,2,"暁光の刻",2,False,1,"ツユの行方",0,False,2,"十六夜の月",5,False,0,,0,False,0,,0,False,0,0,0,False
 16.4,7421344,2,"十六夜の月",1,False,2,"十六夜の月",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 17.0,6783897,2,"その赤に祈りをこめて",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-17.1,7340781,1,"祭れよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-17.2,7350184,1,"捧げよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-17.3,7350185,1,"担げよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-17.4,7345094,1,"競えよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-17.5,7350186,1,"燃えよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+17.1,7340781,1," 祭れよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+17.2,7350184,1," 捧げよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+17.3,7350185,1," 担げよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+17.4,7345094,1," 競えよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+17.5,7350186,1," 燃えよナマズ",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 18.0,6948697,1,"紅蓮のリベレーター",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 18.1,6949364,1,"紅蓮のリベレーター",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 18.2,6943258,2,"メッフリッドの任務",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -146,3 +146,9 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 31.2,8036278,1,"始まりの「楽園」",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 32.0,7980543,1,"エデンの支配者",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 33.0,7871397,2,"大罪喰い",255,False,1,"光をもたらす者",0,False,2,"漆黒のヴィランズ",11,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+34.0,8146727,2," 夢と現の狭間で",9,False,2," 心を満たすあまい夢",11,False,2," あふれた涙は夢を潤し",9,False,2," 焦がれた夢で友を想う",9,False,2," この心が望むがままに",8,False,0,,0,False,0,0,0,False
+34.1,8149890,2," 夢と現の狭間で",9,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+34.2,8149893,2," 心を満たすあまい夢",11,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+34.3,8149894,2," あふれた涙は夢を潤し",9,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+34.4,8149891,2," 焦がれた夢で友を想う",9,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+34.5,8149892,2," この心が望むがままに",8,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

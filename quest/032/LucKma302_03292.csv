@@ -66,8 +66,7 @@ int32,str,str
 55,"TEXT_LUCKMA302_03292_RHONRON_000_021","ササッ、まずは自慢の商品を、
 じっくりまじまじ見てくといいネ！"
 56,"TEXT_LUCKMA302_03292_SYTEM_000_022","商品の確認を開始します。
-陳列されている商品に対して、ズームをしてから、
-<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>左クリック<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>ボタン/<CommandIcon(8)/>ボタン</If>で確認しましょう！"
+陳列されている商品を、<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>左クリック<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>ボタン/<CommandIcon(8)/>ボタン</If>で確認しましょう！"
 57,"TEXT_LUCKMA302_03292_RHONRON_000_040","じっくり、しっかり、吟味できたネ？
 それじゃあ、どれを買ってくネ？"
 58,"TEXT_LUCKMA302_03292_Q1_000_000","どれを買う？"

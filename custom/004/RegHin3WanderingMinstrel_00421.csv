@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","やあ、最近は、なにか面白い体験をしたりはしていないかい？
 僕に詩歌として歌わせてもいいと思えるような冒険譚があれば、
 ぜひとも、教えてほしいな。"
-1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","「<If(Equal(IntegerParameter(1),20047))>豪神スサノオ<Else/><If(Equal(IntegerParameter(1),20049))>美神ラクシュミ<Else/><If(Equal(IntegerParameter(1),20050))>神龍<Else/><If(Equal(IntegerParameter(1),30057))>龍神バハムート<Else/><If(Equal(IntegerParameter(1),30067))>アルテマウェポン<Else/><If(Equal(IntegerParameter(1),20052))>白虎<Else/><If(Equal(IntegerParameter(1),20056))>夜神ツクヨミ<Else/><If(Equal(IntegerParameter(1),20058))>朱雀<Else/><If(Equal(IntegerParameter(1),20061))>青龍<Else/></If></If></If></If></If></If></If></If></If>」の話をする"
+1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","「<If(Equal(IntegerParameter(1),20047))>豪神スサノオ<Else/><If(Equal(IntegerParameter(1),20049))>美神ラクシュミ<Else/><If(Equal(IntegerParameter(1),20050))>神龍<Else/><If(Equal(IntegerParameter(1),30057))>龍神バハムート<Else/><If(Equal(IntegerParameter(1),30067))>アルテマウェポン<Else/><If(Equal(IntegerParameter(1),20052))>白虎<Else/><If(Equal(IntegerParameter(1),20056))>夜神ツクヨミ<Else/><If(Equal(IntegerParameter(1),20058))>朱雀<Else/><If(Equal(IntegerParameter(1),20061))>青龍<Else/><If(Equal(IntegerParameter(1),30086))>アレキサンダー<Else/></If></If></If></If></If></If></If></If></If></If>」の話をする"
 2,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CANCEL","やめる"
 3,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOSELECT_000","……今は、過去を振り返るよりも大事なことがあるのかな？
 ふふふ、未来の冒険へと駆ける君の瞳は、とても輝いているよ。
@@ -231,4 +231,14 @@ int32,str,str
 きっと今頃は、そんなことはありえないとわかっているはずさ。"
 97,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_123","また不思議な体験をしたら、話を聞かせてほしい。
 これからも僕は、君の語る真実を詠い続けていきたいんだ。"
-98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000","（★未使用／削除予定★）"
+98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_130",""
+99,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_131",""
+100,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_132",""
+101,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_133",""
+102,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_134",""
+103,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_135",""
+104,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_136",""
+105,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_137",""
+106,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_138",""
+107,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_139",""
+108,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000","（★未使用／削除予定★）"

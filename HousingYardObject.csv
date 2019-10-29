@@ -200,3 +200,13 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131280,195,17,0,0,0,,"シーストーンブレイザー",False,False,True,5,0,0,False
 131281,196,17,0,0,0,,"ポータブルプール",False,False,True,5,0,0,False
 131282,197,17,0,0,0,,"風鈴売りの屋台",False,False,True,5,0,0,False
+131284,199,17,0,0,0,,"防具商の露店",False,False,True,0,0,0,False
+131285,200,17,0,0,0,,"武器商の露店",False,False,True,0,0,0,False
+131286,201,17,0,0,0,,"宝飾商の露店",False,False,True,0,0,0,False
+131287,202,17,0,0,0,,"生花商の露店",False,False,True,0,0,0,False
+131288,203,17,0,0,0,,"パン職人の露店",False,False,True,0,0,0,False
+131289,204,17,0,0,0,,"果物商の露店",False,False,True,0,0,0,False
+131290,205,17,0,0,0,,"青果商の露店",False,False,True,0,0,0,False
+131291,206,17,0,0,0,,"書物商の露店",False,False,True,0,0,0,False
+131292,207,17,0,0,0,,"道具商の露店",False,False,True,0,0,0,False
+131293,208,17,0,0,0,,"精肉商の露店",False,False,True,0,0,0,False

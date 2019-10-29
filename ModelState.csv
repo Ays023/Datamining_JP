@@ -47,3 +47,6 @@ int32,byte,ActionTimeline
 43,2,"event_base/event_base_sleep"
 44,2,"ability/chk_rdc/abl012_loop"
 45,2,"emote_sp/sp09_loop"
+46,1,"event_base/event_base_weak_idle"
+47,0,""
+48,0,""

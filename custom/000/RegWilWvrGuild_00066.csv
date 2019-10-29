@@ -19,7 +19,7 @@ int32,str,str
 9,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_020","裁縫とは、一言で言っちゃうと「繊維の専門家」ね。
 モコ草から糸を紡ぎ、糸を織って布にして、
 布を縫ってお洋服を作るの。"
-10,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_021","裁縫師が手がける装備は、ローブとかコーティとか、
+10,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_021","裁縫師が手がける装備は、ローブとかコーティーとか、
 魔法使いや職人さん向きのものが多いわ。"
 11,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_022","腕のいい裁縫師になれば、機能一辺倒の装備だけじゃなく、
 見た目がおしゃれなものも作れるようになるわよ。"
@@ -79,7 +79,7 @@ int32,str,str
 35,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_111","裁縫とは、一言で言っちゃうと「繊維の専門家」ね。
 モコ草から糸を紡ぎ、糸を織って布にして、
 布を縫ってお洋服を作るの。"
-36,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_112","裁縫師が手がける装備は、ローブとかコーティとか、
+36,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_112","裁縫師が手がける装備は、ローブとかコーティーとか、
 魔法使いや職人さん向きのものが多いわ。"
 37,"TEXT_REGWILWVRGUILD_00066_REDOLENTROSE_113","腕のいい裁縫師になれば、機能一辺倒の装備だけじゃなく、
 見た目がおしゃれなものも作れるようになるわよ。"

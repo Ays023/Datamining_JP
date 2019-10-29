@@ -29,7 +29,7 @@ int32,str,str
 23,"TEXT_LUCKYA002_03596_SEQ_23",""
 24,"TEXT_LUCKYA002_03596_TODO_00","人民管理局の受付と話す"
 25,"TEXT_LUCKYA002_03596_TODO_01","アカデミアの職員と話す"
-26,"TEXT_LUCKYA002_03596_TODO_02","「創造機関　アナイダアカデミア」を攻略"
+26,"TEXT_LUCKYA002_03596_TODO_02","「創造機関 アナイダアカデミア」を攻略"
 27,"TEXT_LUCKYA002_03596_TODO_03","アカデミアの職員と話す"
 28,"TEXT_LUCKYA002_03596_TODO_04","廃船街の困り果てたオンド族に報告"
 29,"TEXT_LUCKYA002_03596_TODO_05",""
@@ -107,7 +107,7 @@ int32,str,str
 研究者の方の邪魔をしてはいけませんよ？<UIForeground>01</UIForeground>"
 67,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_045","<UIForeground>F20223</UIForeground>では、アカデミアまでご案内いたします。
 心配ですから、帰ってきたら報告をお願いしますね。<UIForeground>01</UIForeground>"
-68,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_050","<UIForeground>F20223</UIForeground>「創造機関　アナイダアカデミア」構内へ、
+68,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_050","<UIForeground>F20223</UIForeground>「創造機関 アナイダアカデミア」構内へ、
 向かわれなくていいのですか？<UIForeground>01</UIForeground>"
 69,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_060","<UIForeground>F20223</UIForeground>おかえりなさい。
 見学は有意義なものとなりましたか？

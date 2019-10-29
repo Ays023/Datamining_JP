@@ -78,7 +78,7 @@ int32,str,str
 母王様のため、どうかお願い、ね……！"
 56,"TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_020","潮溜まりの北に、「<Sheet(BNpcName,9010,0)/>」いるはず。
 倒して、「<Sheet(EventItem,2002748,0)/>」、取ってきてくれる？
-オンドの母王のため、どうかお願い、ね……！"
+母王様のため、どうかお願い、ね……！"
 57,"TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_030","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、どう？
 <Sheet(EventItem,2002748,0)/>、取れた？"
 58,"TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_031","ありがと！

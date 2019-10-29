@@ -21,7 +21,7 @@ int32,byte,Row
 2.8,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 3.1,1,"ビーストゲージ"
 3.2,3,
-3.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ディフェンダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
+3.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ディフェンダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはディフェンダーを使いましょう！"
 3.4,2,
 3.5,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
@@ -35,23 +35,23 @@ int32,byte,Row
 インナービーストは特定のアクションを使用することで蓄積されていきます。"
 4.4,2,
 4.5,3,
-4.6,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ディフェンダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
+4.6,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ディフェンダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはディフェンダーを使いましょう！"
 4.7,2,
 4.8,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 5.1,1,"ブラッドゲージ"
 5.2,3,
-5.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
+5.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはグリットスタンスを使いましょう！"
 5.4,2,
 5.5,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 6.1,1,"ブラッドゲージ"
 6.2,3,
-6.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
+6.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはグリットスタンスを使いましょう！"
 6.4,1,"ダークサイドシンボル"
 6.5,3,
-6.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
+6.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
 なりました！ダークサイドシンボルには暗黒の波動やレベル40で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>によって付与される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果時間が表示されます。
 暗黒の効果中は自身の与ダメージが上昇します。"
 6.7,2,
@@ -62,30 +62,30 @@ int32,byte,Row
 ブラックブラッドは特定のアクションを使用することで蓄積されていきます。"
 7.4,2,
 7.5,3,
-7.6,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
+7.6,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはグリットスタンスを使いましょう！"
 7.7,1,"ダークサイドシンボル"
 7.8,3,
-7.9,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
+7.9,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
 なりました！ダークサイドシンボルには暗黒の波動やレベル40で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>によって付与される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果時間が表示されます。
 暗黒の効果中は自身の与ダメージが上昇します。"
 7.10,2,
 7.11,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 8.1,1,"ダークサイドシンボル"
 8.2,3,
-8.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラックナイト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、
+8.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラックナイト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークアーツ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！ダークアーツは、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ブラックナイト”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>による
 バリア効果が消費されることで付与されます。
 ダークアーツが付与されていると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をＭＰの代わりにダークアーツを消費して発動することができます。"
 8.4,0,
 8.5,2,
 8.6,3,
-8.7,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
+8.7,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
 なりました！ダークサイドシンボルには暗黒の波動やレベル40で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>によって付与される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果時間が表示されます。
 暗黒の効果中は自身の与ダメージが上昇します。"
 8.8,1,"ブラッドゲージ"
 8.9,3,
-8.10,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
+8.10,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはグリットスタンスを使いましょう！"
 8.11,2,
 8.12,3,
@@ -98,18 +98,18 @@ int32,byte,Row
 9.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「影身具現」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、共に戦ってくれる<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「英雄の影身」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が具現化できるようになりました！ダークサイドシンボルでは「英雄の影身」の残り具現時間が表示されます。"
 9.4,2,
 9.5,3,
-9.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
+9.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサイドシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるように
 なりました！ダークサイドシンボルには暗黒の波動やレベル40で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>によって付与される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果時間が表示されます。
 暗黒の効果中は自身の与ダメージが上昇します。"
 9.7,2,
 9.8,3,
-9.9,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラックナイト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、
+9.9,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラックナイト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークアーツ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！ダークアーツは、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ブラックナイト”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>による
 バリア効果が消費されることで付与されます。
 ダークアーツが付与されていると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をＭＰの代わりにダークアーツを消費して発動することができます。"
 9.10,1,"ブラッドゲージ"
 9.11,3,
-9.12,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
+9.12,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「グリットスタンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことにより、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはグリットスタンスを使いましょう！"
 9.13,2,
 9.14,3,
@@ -144,7 +144,7 @@ int32,byte,Row
 12.5,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 13.1,1,"エーテルゲージ"
 13.2,3,
-13.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルパクト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、フェアリーのエーテルである<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“フェイエーテル”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！フェイエーテルは、エーテルフローを消費する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「生命活性法」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「深謀遠慮の策」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用することで蓄積され、エーテルパクトやレベル76で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フェイブレッシング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用することで消費されます。"
+13.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルパクト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、フェアリーのエーテルである<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“フェイエーテル”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！フェイエーテルは、自身が戦闘状態かつフェアリーを召喚しているときに、エーテルフローを消費する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「生命活性法」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「深謀遠慮の策」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などを戦闘中に使用することで蓄積され、エーテルパクトやレベル76で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フェイブレッシング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用することで消費されます。"
 13.4,1,"エーテルフローシンボル"
 13.5,3,
 13.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルフロー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用時に、その付与数を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルフローシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！"
@@ -156,7 +156,7 @@ int32,byte,Row
 エーテルゲージにはセラフィムの残り滞在時間が表示されます。"
 14.4,2,
 14.5,3,
-14.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルパクト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、フェアリーのエーテルである<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“フェイエーテル”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！フェイエーテルは、エーテルフローを消費する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「生命活性法」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「深謀遠慮の策」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用することで蓄積され、エーテルパクトやレベル76で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フェイブレッシング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用することで消費されます。"
+14.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルパクト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、フェアリーのエーテルである<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“フェイエーテル”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！フェイエーテルは、自身が戦闘状態かつフェアリーを召喚しているときに、エーテルフローを消費する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「生命活性法」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「深謀遠慮の策」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などを戦闘中に使用することで蓄積され、エーテルパクトやレベル76で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フェイブレッシング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用することで消費されます。"
 14.7,1,"エーテルフローシンボル"
 14.8,3,
 14.9,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルフロー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用時に、その付与数を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルフローシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！"
@@ -430,20 +430,20 @@ MP回復速度が急上昇します。"
 36.14,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 37.1,1,"エーテルフロー"
 37.2,3,
-37.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
+37.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
 37.4,2,
 37.5,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 38.1,1,"トランスゲージ"
 38.2,3,
-38.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
+38.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
 38.4,1,"エーテルフロー"
 38.5,3,
-38.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
+38.6,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
 38.7,2,
 38.8,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 39.1,1,"トランスゲージ"
 39.2,3,
-39.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
+39.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
 39.4,2,
 39.5,3,
 39.6,5,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、トランスゲージに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“トランス深度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を示すシンボルが追加されました。トランス深度はトランス・バハムートの効果終了後に深度が増します。"
@@ -452,12 +452,12 @@ MP回復速度が急上昇します。"
 サモン・バハムート中はトランスゲージに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「デミ・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の残り顕現時間が表示されます。"
 39.9,1,"エーテルフロー"
 39.10,3,
-39.11,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
+39.11,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
 39.12,2,
 39.13,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 40.1,1,"トランスゲージ"
 40.2,3,
-40.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
+40.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
 40.4,2,
 40.5,3,
 40.6,5,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、トランスゲージに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“トランス深度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を示すシンボルが追加されました。トランス深度はトランス・バハムートの効果終了後に深度が増します。"
@@ -465,23 +465,23 @@ MP回復速度が急上昇します。"
 40.8,5,"トランス深度が２段階目になると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サモン・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用可能になります。
 サモン・バハムート中はトランスゲージに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「デミ・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の残り顕現時間が表示されます。"
 40.9,3,
-40.10,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・フェニックス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に
+40.10,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・フェニックス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に
 トランス・フェニックスの効果時間残量が表示されるようになりました！"
 40.11,1,"エーテルフロー"
 40.12,3,
-40.13,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
+40.13,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
 40.14,2,
 40.15,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 41.1,1,"ステップシンボル"
 41.2,3,
-41.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
+41.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
 ダンスモード中にステップシンボルに表示される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ステップアクション”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を正しい順序で実行し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をすることで自身や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「クローズドポジション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>で選択したパーティメンバーの与ダメージを上昇させることができます。
 ダンスの効果発生中は残り時間が表示されます。"
 41.4,2,
 41.5,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 42.1,1,"ステップシンボル"
 42.2,3,
-42.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
+42.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
 ダンスモード中にステップシンボルに表示される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ステップアクション”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を正しい順序で実行し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をすることで自身や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「クローズドポジション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>で選択したパーティメンバーの与ダメージを上昇させることができます。
 ダンスの効果発生中は残り時間が表示されます。"
 42.4,1,"幻扇シンボル"
@@ -492,12 +492,12 @@ MP回復速度が急上昇します。"
 42.8,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 43.1,1,"ステップシンボル"
 43.2,3,
-43.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得しました。テクニカルステップでは
+43.3,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得しました。テクニカルステップでは
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に4種類のステップアクションが表示されます。
 スタンダードステップの場合と同様に、ステップアクションを正しい順序で実行して<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行することで、自身と周囲のパーティメンバーの与ダメージを上昇させることができます。"
 43.4,2,
 43.5,3,
-43.6,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
+43.6,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
 ダンスモード中にステップシンボルに表示される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ステップアクション”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を正しい順序で実行し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をすることで自身や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「クローズドポジション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>で選択したパーティメンバーの与ダメージを上昇させることができます。
 ダンスの効果発生中は残り時間が表示されます。"
 43.7,1,"幻扇シンボル"
@@ -519,12 +519,12 @@ MP回復速度が急上昇します。"
 幻扇は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「リバースカスケード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ライジングウィンドミル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などを使用すると付与され、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「扇の舞い【序】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>やレベル50で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「扇の舞い【破】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用することで消費されます。"
 44.6,1,"ステップシンボル"
 44.7,3,
-44.8,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得しました。テクニカルステップでは
+44.8,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得しました。テクニカルステップでは
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に4種類のステップアクションが表示されます。
 スタンダードステップの場合と同様に、ステップアクションを正しい順序で実行して<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行することで、自身と周囲のパーティメンバーの与ダメージを上昇させることができます。"
 44.9,2,
 44.10,3,
-44.11,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
+44.11,5,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ステップシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！スタンダードステップを実行すると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>ダンスモード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>になります。
 ダンスモード中にステップシンボルに表示される<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ステップアクション”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を正しい順序で実行し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をすることで自身や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「クローズドポジション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>で選択したパーティメンバーの与ダメージを上昇させることができます。
 ダンスの効果発生中は残り時間が表示されます。"
 44.12,2,
@@ -540,13 +540,13 @@ MP回復速度が急上昇します。"
 45.7,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 46.1,1,"ソイルシンボル"
 46.2,3,
-46.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ロイヤルガード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、その使用状態を示すシンボルが表示されるようになりました！
+46.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ロイヤルガード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはロイヤルガードを使いましょう！"
 46.4,2,
 46.5,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 47.1,1,"ソイルシンボル"
 47.2,3,
-47.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ロイヤルガード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、その使用状態を示すシンボルが表示されるようになりました！
+47.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ロイヤルガード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、その使用状態を示すシンボルが表示されるようになりました！
 敵視を集めたいときにはロイヤルガードを使いましょう！"
 47.4,2,
 47.5,5,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ソイルチャージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ソイル”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のスタック数を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ソイルシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！
@@ -555,7 +555,7 @@ MP回復速度が急上昇します。"
 47.7,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"
 48.1,1,"トランスゲージ"
 48.2,3,
-48.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
+48.3,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！トランスゲージには、トランス・バハムートの効果時間残量が表示されます。"
 48.4,2,
 48.5,3,
 48.6,5,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランス・バハムート効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、トランスゲージに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“トランス深度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を示すシンボルが追加されました。トランス深度はトランス・バハムートの効果終了後に深度が増します。"
@@ -567,6 +567,6 @@ MP回復速度が急上昇します。"
 トランス・フェニックス効果中は、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トランスゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>にデミ・フェニックスの残り顕現時間が表示されます。"
 48.11,1,"エーテルフロー"
 48.12,3,
-48.13,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground> を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
+48.13,6,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エナジードレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“エーテルフロー”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の付与数を示すシンボルが表示されるようになりました！"
 48.14,2,
 48.15,5,"ジョブHUDの解説はアクションリストからいつでも確認できます。"

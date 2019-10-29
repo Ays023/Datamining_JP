@@ -852,8 +852,8 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 848,"アイスクリスタル",36,False,"アースクリスタル",36,False,"硬金鉱",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 849,"アイスクリスタル",33,False,"アースクリスタル",33,False,"賢銅鉱",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 850,"アイスクリスタル",40,False,"アースクリスタル",40,False,"賢銅鉱",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-851,"アイスクリスタル",80,False,"アースクリスタル",80,False,"ストーンゴールドナゲット",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-852,"アイスクリスタル",95,False,"アースクリスタル",95,False,"ストーンゴールドナゲット",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+851,"アイスクリスタル",80,False,"アースクリスタル",80,False,"ディープゴールドナゲット",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+852,"アイスクリスタル",95,False,"アースクリスタル",95,False,"ディープゴールドナゲット",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 853,"アイスクリスタル",81,False,"アースクリスタル",81,False,"ディープゴールドインゴット",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 854,"アイスクリスタル",92,False,"アースクリスタル",92,False,"ディープゴールドインゴット",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 855,"アイスクリスタル",82,False,"アースクリスタル",82,False,"霊青材",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

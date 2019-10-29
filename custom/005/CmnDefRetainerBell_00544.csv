@@ -103,7 +103,7 @@ int32,str,str
 55,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_RETAINER_TIP_2","ベンチャースクリップは、軍票交換や蛮族デイリークエスト、
 ギルドリーヴの報酬などで、入手することができます。"
 56,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_RETAINER_TIP_3","「ベンチャースクリップ証書」を所持している場合、
-遺失物管理人、またはリテイナーに渡すことで、
+遺失物管理人に渡すことで、
 「ベンチャースクリップ」に交換できます。"
 57,"TEXT_CMNDEFRETAINERBELL_00544_TASK_CATEGORY_FORTUNE","ほりだしもの依頼　（必要ベンチャースクリップ：2枚）"
 58,"TEXT_CMNDEFRETAINERBELL_00544_FORTUNE_TASK_UNLOCK_1","<Highlight>StringParameter(1)</Highlight>のレベルが10になりました。

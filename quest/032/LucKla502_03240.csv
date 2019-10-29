@@ -123,7 +123,7 @@ int32,str,str
 76,"TEXT_LUCKLA502_03240_FRITHRIK_000_033","「<Sheet(ItemHQ,26750,0)/>」、ですね……。
 わかりました、釣ってみせます！"
 77,"TEXT_LUCKLA502_03240_FRITHRIK_000_034","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん、一緒にきてくれる？"
-78,"TEXT_LUCKLA502_03240_FRITHRIK_100_034","漁業科が管理するの釣果記録によると、
+78,"TEXT_LUCKLA502_03240_FRITHRIK_100_034","漁業科が管理する釣果記録によると、
 この魚は過去に、イル・メグの「水没した教会」付近で、
 「フルーツワーム」という餌を使って、釣れたようなんだ。"
 79,"TEXT_LUCKLA502_03240_FRITHRIK_000_035","君がいてくれるなら、きっと妖精たちも悪さをしないはず。

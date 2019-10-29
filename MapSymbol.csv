@@ -18,7 +18,7 @@ int32,Image,PlaceName,bit&01
 14,"ui/icon/060000/060414.tex","ダンジョン",True
 15,"ui/icon/060000/060456.tex","船着場",True
 16,"ui/icon/060000/060339.tex","フェリードック",True
-17,"ui/icon/060000/060352.tex","飛空艇乗り場",True
+17,"ui/icon/060000/060352.tex","発着場",True
 18,"ui/icon/060000/060448.tex","拠点/集落",True
 19,"ui/icon/060000/060436.tex","宿屋",True
 20,"ui/icon/060000/060314.tex","冒険者ギルド",True
@@ -82,3 +82,4 @@ int32,Image,PlaceName,bit&01
 78,"ui/icon/060000/060983.tex","青魔道士",True
 79,"ui/icon/060000/060988.tex","居室 (宿屋)",True
 80,"ui/icon/060000/060986.tex","ミーン工芸館取引",True
+81,"ui/icon/060000/060993.tex","",True

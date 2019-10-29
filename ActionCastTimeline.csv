@@ -76,4 +76,7 @@ int32,ActionTimeline,VFX
 72,"limitbreak/lbk_dancer_start",""
 73,"human_sp/human_sp_a_start",""
 74,"human_sp/human_sp_b_start",""
-75,"",""
+75,"battle/magic_ytc_start",""
+76,"idle_sp/idle_sp_3",""
+77,"mon_sp/[SKL_ID]/mon_sp001",""
+78,"mon_sp/[SKL_ID]/mon_sp002",""

@@ -12,3 +12,4 @@ int32,int32,byte,byte,byte,byte,int32,str,str,str,bit&01,bit&02,bit&04,str,str
 8,2,15,45,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",True,True,True,"離脱","連打して抜け出せ！"
 9,2,15,45,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,True,"風の牢獄","全力で脱出せよ！"
 10,2,5,23,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,False,"光の解放","内なる光の力を解き放て！"
+11,2,5,23,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,False,"光の解放","内なる光の力を解き放て！"

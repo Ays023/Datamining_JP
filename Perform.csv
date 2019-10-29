@@ -30,3 +30,13 @@ int32,str,bit&01,int64,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeli
 スネアドラムの音色で演奏する"
 14,"100cymbal",False,"696, 1, 1, 0","music/instrument03_start","music/instrument03_end","music/instrument03_idle","music/instrument03_play01_start","music/instrument03_play02_start","","シンバル",764,"楽器演奏
 シンバルの音色で演奏する"
+15,"057trumpet",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","トランペット",765,"楽器演奏
+トランペットの音色で演奏する"
+16,"058trombone",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","トロンボーン",766,"楽器演奏
+トロンボーンの音色で演奏する"
+17,"059tuba",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","チューバ",767,"楽器演奏
+チューバの音色で演奏する"
+18,"061frenchhorn",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","ホルン",768,"楽器演奏
+ホルンの音色で演奏する"
+19,"066altosax",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","サックス",769,"楽器演奏
+サックスの音色で演奏する"

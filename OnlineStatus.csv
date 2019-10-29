@@ -12,7 +12,7 @@ int32,bit&01,bit&02,byte,str,Image
 8,True,False,3,"仮登録（フリーカンパニー）","ui/icon/061000/061501.tex"
 9,True,False,4,"存在しない","ui/icon/061000/061502.tex"
 10,True,False,5,"オフライン","ui/icon/061000/061504.tex"
-11,True,False,6,"メンター","ui/icon/061000/061540.tex"
+11,True,False,6,"バトルメンター","ui/icon/061000/061542.tex"
 12,True,False,7,"取り込み中（Busy）","ui/icon/061000/061509.tex"
 13,True,False,8,"コンテンツ中（PvP）","ui/icon/061000/061510.tex"
 14,True,False,9,"カード対戦中","ui/icon/061000/061539.tex"

@@ -295,7 +295,7 @@ int32,str,str
 172,"TEXT_CMNDEFRETAINERDESK_00009_SCROLL_SHORTAGE_COIN","ベンチャースクリップが足りないため、
 「<Sheet(Item,IntegerParameter(1),0)/>」を入手できませんでした。"
 173,"TEXT_CMNDEFRETAINERDESK_00009_SCROLL_SHORTAGE_EXCHANGE_GUIDE","「ベンチャースクリップ証書」を所持している場合、
-遺失物管理人、またはリテイナーに渡すことで、
+遺失物管理人に渡すことで、
 「ベンチャースクリップ」に交換できます。"
 174,"TEXT_CMNDEFRETAINERDESK_00009_TRADE_TALK_01","ベンチャースクリップ40枚と引き替えに、
 「<Sheet(Item,IntegerParameter(1),0)/>」を入手しました。"
