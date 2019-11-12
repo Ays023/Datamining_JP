@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-#,AchievementCategory,Name,Description,Points,Title,Item,Icon,,Type,Key,Data[0],Data[1],Data[2],Data[3],Data[4],Data[5],Data[6],Data[7],Order,,AchievementHideCondition
+#,AchievementCategory,Name,Description,Points,Title,Item,Icon,,Type,Key,Data[0],Data[1],Data[2],Data[3],Data[4],Data[5],Data[6],Data[7],Order,Padding,AchievementHideCondition
 int32,AchievementCategory,str,str,byte,Title,Item,Image,byte,byte,Row,Row,Row,Row,Row,Row,Row,Row,Row,uint16,byte,AchievementHideCondition
 0,"","","",0," / ","",,0,0,,,,,,,,,,0,1,"AchievementHideCondition#0"
 1,"全般","勝利の栄光：ランク1","エネミーを100体討伐する",5," / ","","ui/icon/002000/002565.tex",3,1,,,,,,,,,,1,1,"AchievementHideCondition#0"
@@ -2465,7 +2465,7 @@ int32,AchievementCategory,str,str,byte,Title,Item,Image,byte,byte,Row,Row,Row,Ro
 2441,"討伐・討滅戦","冥王を狩りし者","極ハーデス討滅戦で、ハーデスを討伐する",10," / ","","ui/icon/000000/000317.tex",1,14,"",,,,,,,,,29,1,"AchievementHideCondition#0"
 2442,"コンテンツ","複製サレタ工場廃墟を踏破せし者","複製サレタ工場廃墟を踏破し、マップをすべて開示する",10," / ","","ui/icon/001000/001001.tex",1,8,"n4r1/04",,,,,,,,,1504,41,"AchievementHideCondition#0"
 2443,"レイド","複製サレタ工場廃墟を制覇せし者","複製サレタ工場廃墟を攻略する",5," / ","","ui/icon/003000/003501.tex",1,14,"",,,,,,,,,0,41,"AchievementHideCondition#0"
-2444,"","","",0," / ","",,0,0,,,,,,,,,,0,0,"AchievementHideCondition#0"
+2444,"レイド","絶アレキサンダーを破壊せし者","絶アレキサンダー討滅戦で、パーフェクト・アレキサンダーを討伐する",10,"the Perfect Legend / the Perfect Legend","","ui/icon/000000/000317.tex",1,14,"",,,,,,,,,0,1,"AchievementHideCondition#0"
 2445,"","","",0," / ","",,0,0,,,,,,,,,,0,0,"AchievementHideCondition#0"
 2446,"","","",0," / ","",,0,0,,,,,,,,,,0,0,"AchievementHideCondition#0"
 2447,"","","",0," / ","",,0,0,,,,,,,,,,0,0,"AchievementHideCondition#0"

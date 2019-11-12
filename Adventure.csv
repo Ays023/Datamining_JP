@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Level,,,Emote,MinTime,MaxTime,PlaceName,Icon{List},Icon{Discovered},Name,Impression,Description,Icon{Undiscovered},IsInitial
+#,Level,MinLevel,MaxLevel,Emote,MinTime,MaxTime,PlaceName,Icon{List},Icon{Discovered},Name,Impression,Description,Icon{Undiscovered},IsInitial
 int32,Level,int32,byte,Emote,uint16,uint16,PlaceName,Image,Image,str,str,str,Image,bit&01
 2162688,"Level#4876856",0,0,"見わたす",800,1159,"リムサ・ロミンサ","ui/icon/081000/081501.tex","ui/icon/081000/081001.tex","バラクーダ埠頭","――ある商人が見た景色。
 眼下を見やれば、そこには赤き帆の軍艦が三隻。海都「リムサ・ロミンサ」の底力を感じた。","リムサ・ロミンサが誇る旗艦艦隊「黒渦艦隊」の軍艦が投錨する軍用埠頭。一般市民の立ち入りは制限されているが、見晴らしのいい場所からなら、総旗艦「トライアンフ号」をはじめとする軍艦の姿を見ることができる","ui/icon/081000/081451.tex",True

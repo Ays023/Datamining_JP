@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,Item,,,,
+#,Item,UseField,UseTraining,,Status
 int32,Item,bit&01,bit&02,bit&04,byte
 0,"",False,False,False,0
 1,"カラッカの野菜",True,False,False,0

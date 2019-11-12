@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,Location,,
+#,Location,Fare,TimeRequired
 int32,ChocoboTaxiStand,byte,uint16
 0,,0,80
 1,"イベント君２行き",0,80

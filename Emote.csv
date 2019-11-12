@@ -204,7 +204,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 200,"","","","","","","","",False,False,False,"","EmoteMode#0",False,False,False,False,0,,,"","",0
 201,"","","","","","","","",False,False,False,"","EmoteMode#0",False,False,False,False,0,,,"","",0
 202,"乾杯する","emote_sp/sp19","","","emote_sp/u_sp19","emote_sp/u_sp19","","",True,False,True,"全般","EmoteMode#0",False,True,False,False,59,"/toast","ui/icon/064000/064386.tex","<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>は<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>に乾杯してみせた。","<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>は乾杯した。",76
-203,"","","","","","","","",False,False,False,"","EmoteMode#0",False,False,False,False,0,,,"","",0
+203,"斜め立ち","emote/loop_emot23_loop","emote/loop_emot23_start","","","","","",False,False,False,"スペシャル","EmoteMode#55",False,True,False,False,11502,"/lean","ui/icon/064000/064388.tex","","",77
 204,"","","","","","","","",False,False,False,"","EmoteMode#0",False,False,False,False,0,,,"","",0
 205,"","","","","","","","",False,False,False,"","EmoteMode#0",False,False,False,False,0,,,"","",0
 206,"","","","","","","","",False,False,False,"","EmoteMode#0",False,False,False,False,0,,,"","",0

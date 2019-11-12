@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,Name,,,JournalSection
+#,Name,SeparateType,DataType,JournalSection
 int32,str,byte,byte,JournalSection
 0,"無効カテゴリ",0,0,
 1,"メインクエスト：新生エオルゼア",1,1,"メインクエスト1（新生・蒼天・紅蓮）"

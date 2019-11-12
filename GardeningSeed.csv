@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,Item,,Icon,,,
+#,Item,ModelID,Icon,SE,,
 int32,Item,uint16,Image,bit&01,bit&02,byte
 0,"",0,,False,False,0
 1,"パプリカ",2,"ui/icon/066000/066501.tex",False,False,0

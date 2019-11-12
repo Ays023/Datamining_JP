@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-#,MapCondition,,,MapIndex,Hierarchy,MapMarkerRange,Id,SizeFactor,Offset{X},Offset{Y},PlaceName{Region},PlaceName,PlaceName{Sub},DiscoveryIndex,,TerritoryType,DiscoveryArrayByte,
+#,MapCondition,PriorityCategoryUI,PriorityUI,MapIndex,Hierarchy,MapMarkerRange,Id,SizeFactor,Offset{X},Offset{Y},PlaceName{Region},PlaceName,PlaceName{Sub},DiscoveryIndex,DiscoveryFlag,TerritoryType,DiscoveryArrayByte,IsEvent
 int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,PlaceName,PlaceName,int16,uint32,TerritoryType,bit&01,bit&02
 0,"MapCondition#0",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False
 1,"MapCondition#0",0,0,0,1,0,"default/00",100,0,0,"？？？？","エオルゼア","",-1,0,"",True,False
@@ -574,8 +574,8 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 570,"MapCondition#0",15,19,2,1,395,"n4r1/02",200,805,240,"ノルヴラント","複製サレタ工場廃墟","工場廃墟：中層",113,256,"n4r1",True,False
 571,"MapCondition#0",15,19,3,1,396,"n4r1/03",200,742,-584,"ノルヴラント","複製サレタ工場廃墟","工場廃墟：下層",113,7680,"n4r1",True,False
 572,"MapCondition#0",15,19,4,1,397,"n4r1/04",200,-900,-672,"ノルヴラント","複製サレタ工場廃墟","工場廃墟：深層",113,57344,"n4r1",True,False
-573,"MapCondition#0",0,0,0,1,0,"d2az/00",400,-100,-100,"？？？？","","",-1,0,"",True,False
-574,"MapCondition#0",0,0,0,1,393,"r1hx/00",200,0,0,"クルザス","蒼天街","",-1,0,"",True,False
+573,"MapCondition#0",0,0,0,1,0,"d2az/00",400,-100,-100,"？？？？","階差閉宇宙","",-1,0,"d2az",True,False
+574,"MapCondition#0",0,0,0,1,393,"r1hx/00",200,0,0,"クルザス","蒼天街","",-1,0,"r1hx",True,False
 575,"MapCondition#0",0,0,0,1,398,"n4e8/00",400,0,0,"ノルヴラント","機械遺跡の坑道","",-1,0,"n4e8",True,True
 576,"MapCondition#0",0,0,0,1,402,"n4e9/10",400,-12,50,"ノルヴラント","リェー・メグ","",-1,0,"n4e9_1",True,True
 577,"MapCondition#0",0,0,0,1,0,"default/00",100,0,0,"？？？？","帝都魔導城","",-1,0,"ec018",True,False
