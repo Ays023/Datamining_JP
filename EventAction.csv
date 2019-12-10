@@ -80,4 +80,4 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 76,"物資加工","ui/icon/061000/061103.tex",10,"","normal/hwd_fate_saw_wood_loop","normal/event_action_hwd_end"
 77,"資材組立","ui/icon/061000/061103.tex",10,"","normal/hwd_fate_hammer_hit_wall_loop","normal/event_action_hwd_end"
 78,"資材投入","ui/icon/061000/061103.tex",10,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
-79,"",,0,"","",""
+79,"契約","ui/icon/061000/061103.tex",6,"normal/event_action_start","normal/event_action_loop","normal/event_action_end"

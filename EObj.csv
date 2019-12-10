@@ -10289,6 +10289,7 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2010846,False,False,False,False,False,False,False,False,2,0,0,"bgcommon/world/lvd/shared/for_vfx/sgvf_w_lvd_b1734.sgb",False,False,True,0,False
 2010847,False,False,False,False,False,False,False,False,2,0,0,"bg/ffxiv/wil_w1/shared/for_vfx/sgvf_w1eb_b1733.sgb",False,False,True,0,False
 2010848,False,False,False,False,False,False,False,False,3,69275,7,"bgcommon/world/evt/shared/ver_510/sgpl_evt_510_ytc_archivebox_vfx0.sgb",True,False,True,0,False
+2010849,False,False,False,False,False,False,False,False,3,69271,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_b0043.sgb",True,False,True,0,False
 2010850,False,False,False,False,False,False,False,False,3,69208,7,"bgcommon/world/evt/shared/ver_510/sgpl_evt_510_poster03_vfx0.sgb",True,False,True,0,False
 2010851,False,False,False,False,False,False,False,False,3,69223,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_b0044.sgb",False,False,True,0,False
 2010852,False,False,False,False,False,False,False,False,3,854177,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_b0044.sgb",False,False,True,0,False
@@ -10355,6 +10356,19 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2010924,False,False,False,False,False,False,False,False,3,0,7,"bgcommon/world/evt/shared/for_pln/sgpl_a_evt_poster01.sgb",True,False,True,0,False
 2010925,False,False,False,False,False,False,False,False,2,0,0,"bg/ffxiv/roc_r1/shared/for_hox/zosh_r1hx_00_poi01.sgb",True,False,True,0,False
 2010926,False,False,False,False,False,False,False,False,2,0,0,"bg/ffxiv/roc_r1/shared/for_hox/zosh_r1hx_00_poi02.sgb",True,False,True,0,False
+2010927,False,False,False,False,False,False,False,False,1,983864,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010928,False,False,False,False,False,False,False,False,1,983865,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010929,False,False,False,False,False,False,False,False,1,983866,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010930,False,False,False,False,False,False,False,False,1,983867,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010931,False,False,False,False,False,False,False,False,1,983868,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010932,False,False,False,False,False,False,False,False,1,983869,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010933,False,False,False,False,False,False,False,False,1,983870,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010934,False,False,False,False,False,False,False,False,1,983871,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010935,False,False,False,False,False,False,False,False,1,983872,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010936,False,False,False,False,False,False,False,False,1,983873,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010937,False,False,False,False,False,False,False,False,1,983874,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010938,False,False,False,False,False,False,False,False,1,983875,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
+2010939,False,False,False,False,False,False,False,False,1,983876,7,"bgcommon/world/lvd/shared/for_pln/sgpl_w_transparent01.sgb",True,False,True,0,False
 2010940,False,False,False,False,False,False,False,False,3,69288,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira01.sgb",True,False,True,0,False
 2010941,False,False,False,False,False,False,False,False,3,69292,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira01.sgb",True,False,True,0,False
 2010942,False,False,False,False,False,False,False,False,3,69293,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira01.sgb",True,False,True,0,False

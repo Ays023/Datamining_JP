@@ -13763,7 +13763,8 @@ int32,str
 11392,"対象とその周囲の敵に睡眠を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 実行後にオートアタックを停止する。"
 11393,"効果時間中に実行する1回の魔法の威力を50%上昇させる。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「攻撃準備」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>とは同時に付与されない。"
 11394,"自身の周囲の敵に無属性範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 2体目以降の対象への威力は50％減少する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に麻痺を付与する　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
@@ -21155,6 +21156,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「風遁の術」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>35秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>風遁の術効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のウェポンスキルのリキャストタイムを15％短縮させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「三印自在」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17733,"対象に魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
@@ -21162,6 +21164,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「風遁の術」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>35秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>風遁の術効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のウェポンスキルのリキャストタイムを15％短縮させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「三印自在」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17734,"効果時間中に自身がウェポンスキルを実行すると、自身の分身が出現して追撃を行う。
@@ -22061,37 +22064,113 @@ int32,str
 18292,""
 18293,""
 18294,""
-18295,""
-18296,""
-18297,""
-18298,""
-18299,""
-18300,""
-18301,""
-18302,""
-18303,""
-18304,""
-18305,""
-18306,""
-18307,""
-18308,""
-18309,""
-18310,""
-18311,""
-18312,""
-18313,""
-18314,""
-18315,""
-18316,""
-18317,""
-18318,""
-18319,""
-18320,""
-18321,""
-18322,""
-18323,""
-18324,""
-18325,""
+18295,"対象に向かって風属性前方直線範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+2体目以降の対象への威力は50％減少する。"
+18296,"自身の前方に向かって水属性扇範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+2体目以降の対象への威力は50％減少する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果範囲内の敵を15mノックバックする。"
+18297,"自身の前方に向かって氷属性扇範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+2体目以降の対象への威力は50％減少する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「水毒」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与されている場合、それを解除する代わりに氷結させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
+18298,"対象とその周囲の敵に雷属性範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+2体目以降の対象への威力は50％減少する。"
+18299,"自身の前方に向かって無属性扇範囲物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+2体目以降の対象への威力は50％減少する。"
+18300,"対象に無属性物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に麻痺を付与する　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
+18301,"自身の周囲の敵に睡眠を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40秒
+実行後にオートアタックを停止する。"
+18302,"自身の周囲の敵に付与されている強化効果を1つ解除する。"
+18303,"対象のＨＰを回復する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
+自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ヒーラー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与されている場合、効果量が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ヒーラー時回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
+18304,"自身と周囲の味方に一定量のダメージを防ぐバリアを張る。
+このバリアは回復力100相当のダメージを軽減する
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ヒーラー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与されている場合、効果量が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ヒーラー時：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>回復力250相当のダメージを軽減する
+学者の鼓舞効果および占星術師のノクターナルフィールド効果とは同時に付与されない。"
+18305,"対象と周囲に無属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250
+2体目以降の対象への威力は50％減少する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象のＩＮＴとＭＮＤを10％減少させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のＭＰを最大ＭＰの10％分回復する。
+この魔法は固有のリキャストタイマーを持つ。"
+18306,"パーティメンバーひとりを対象とする。
+対象のパーティーメンバーに自身が受けるダメージを肩代わりさせる。
+ただし、一部の攻撃は肩代わりさせることができない。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12秒
+対象との距離が10mを離れると効果が発揮されない。
+この魔法は固有のリキャストタイマーを持つ。"
+18307,"自身の周囲の敵を挑発し、自身への敵視を最高位にする。"
+18308,"対象に風属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>210"
+18309,"効果時間中に実行する1回の魔法について、物理攻撃である場合は威力を80％上昇させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「力溜め」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>とは同時に付与されない。"
+18310,"対象に向かって無属性前方直線範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
+対象にバインドが付与されている場合、それを解除する代わりに威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>対象にバインドが付与されているときの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
+2体目以降の対象への威力は50％減少する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に20％スロウを付与する　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
+18311,"対象に向かって無属性前方直線範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
+対象にスロウが付与されている場合、それを解除する代わりに威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>対象にスロウが付与されているときの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
+2体目以降の対象への威力は50％減少する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にバインドを付与する　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
+18312,"自身の周囲に位置する敵のレベルが5の倍数だった場合、戦闘不能にする。　
+ただし命中率がやや低い。
+また、対象のレベルが自身よりも高い場合は無効化される。
+この魔法は固有のリキャストタイマーを持つ。"
+18313,"自身の周囲の敵に、対象の現在ＨＰの50％、30％、20％、10％のいずれかのダメージを与える。
+対象のレベルが自身よりも高い場合は無効化される。"
+18314,"対象に無属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象をスタンさせる　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1秒
+このスタンは他のスタンの無効時間の影響を受けない。"
+18315,"パーティメンバーひとりを対象とする。
+対象の被ダメージを5％軽減する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
+自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：タンク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与されている場合は効果量が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：タンク時効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の被ダメージを15％軽減する。"
+18316,"対象に無属性物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50
+自身のＨＰが20％以下の場合は威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ＨＰ20％以下時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
+18317,"対象を衰弱状態で蘇生する。
+この魔法は固有のリキャストタイマーを持つ。"
+18318,"自身と周囲のパーティメンバーのＨＰを回復する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>解除可能な弱体効果を1つ解除する。
+自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ヒーラー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与されている場合は効果量が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ヒーラー時回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300"
+18319,"対象に雷属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に40％ヘヴィを付与する　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+このヘヴィは他のヘヴィの無効時間の影響を受けない。"
+18320,"対象に無属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一定時間、自身のＨＰを20%上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与えたダメージに応じて、自身のＨＰを回復する。
+この魔法は固有のリキャストタイマーを持つ。"
+18321,"対象に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「星極性耐性低下」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「霊極性耐性低下」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「被物理ダメージ増加」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のいずれかを付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>星極性耐性低下効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火、風、雷属性攻撃による被ダメージを5％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>霊極性耐性低下効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>水、土、氷属性攻撃による被ダメージを5％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>被物理ダメージ増加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>物理攻撃による被ダメージを5％上昇させる。
+これらのステータスは同時に付与されない。"
+18322,"自身を除くプレイヤーひとりを対象とする。
+対象のエーテルをコピーし、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：タンク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ＤＰＳ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ヒーラー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のいずれかを付与する。
+付与するステータスは実行した時点での対象のロールにより変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：タンク効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の防御力を上昇させ、かつ一部の青魔法の効果が強化される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ＤＰＳ効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のクリティカル発動率とダイレクトヒット発動率を20％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ヒーラー効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の回復魔法の回復量を20％上昇させ、かつ一部の青魔法の効果が強化される。
+再使用で解除する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続"
+18323,"自身の前方に向かって土属性扇範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
+2体目以降の対象への威力は50％減少する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果時間中に実行する徹甲散弾の威力を50％上昇させる　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大スタック数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒
+この効果は徹甲散弾以外のアクションを実行すると即座に解除される。"
+18324,"自身の周囲の敵に無属性魔法攻撃　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+2体目以降の対象への威力は50％減少する。
+リキャストタイマーを一部の青魔法と共有する。"
+18325,"対象にジャンプで近づきつつ無属性範囲物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+2体目以降の対象への威力は50％減少する。
+バインド中は実行不可。
+リキャストタイマーを一部の青魔法と共有する。"
 18326,""
 18327,""
 18328,""
@@ -23289,9 +23368,27 @@ int32,str
 19235,""
 19236,""
 19237,""
-19238,""
-19239,""
-19240,""
+19238,"自身を除くプレイヤーひとりを対象とする。
+対象のエーテルをコピーし、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：タンク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ＤＰＳ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ヒーラー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のいずれかを付与する。
+付与するステータスは実行した時点での対象のロールにより変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：タンク効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の防御力を上昇させ、かつ一部の青魔法の効果が強化される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ＤＰＳ効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のクリティカル発動率とダイレクトヒット発動率を20％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ヒーラー効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の回復魔法の回復量を20％上昇させ、かつ一部の青魔法の効果が強化される。
+再使用で解除する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続"
+19239,"自身を除くプレイヤーひとりを対象とする。
+対象のエーテルをコピーし、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：タンク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ＤＰＳ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ヒーラー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のいずれかを付与する。
+付与するステータスは実行した時点での対象のロールにより変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：タンク効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の防御力を上昇させ、かつ一部の青魔法の効果が強化される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ＤＰＳ効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のクリティカル発動率とダイレクトヒット発動率を20％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ヒーラー効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の回復魔法の回復量を20％上昇させ、かつ一部の青魔法の効果が強化される。
+再使用で解除する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続"
+19240,"自身を除くプレイヤーひとりを対象とする。
+対象のエーテルをコピーし、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：タンク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ＤＰＳ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルコピー：ヒーラー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のいずれかを付与する。
+付与するステータスは実行した時点での対象のロールにより変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：タンク効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の防御力を上昇させ、かつ一部の青魔法の効果が強化される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ＤＰＳ効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のクリティカル発動率とダイレクトヒット発動率を20％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エーテルコピー：ヒーラー効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身の回復魔法の回復量を20％上昇させ、かつ一部の青魔法の効果が強化される。
+再使用で解除する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続"
 19241,""
 19242,""
 19243,""
@@ -23326,7 +23423,8 @@ int32,str
 19272,""
 19273,""
 19274,""
-19275,""
+19275,"自身の前方扇範囲に向かって、ちょっぴり臭い息を吐きだす。
+※演出用アクション。特に効果は発生しない。"
 19276,""
 19277,""
 19278,""

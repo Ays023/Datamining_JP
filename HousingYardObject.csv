@@ -195,6 +195,8 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131268,187,17,0,0,0,,"ラウンドブリック",False,False,True,0,0,0,False
 131269,184,17,0,0,0,,"園芸師の菜園",False,False,True,0,0,0,False
 131270,185,17,0,0,0,,"大鯰山車",False,False,True,5,0,0,False
+131271,186,17,0,0,0,,"ベジタブルガーデン",False,False,True,0,0,0,False
+131275,190,17,0,0,0,,"シーダーツリー",False,False,True,0,0,0,False
 131278,193,17,20,0,30,,"クリスタリウムダミー",False,False,True,0,0,0,False
 131279,194,17,0,0,0,,"灯火草",False,False,True,5,0,0,False
 131280,195,17,0,0,0,,"シーストーンブレイザー",False,False,True,5,0,0,False
@@ -210,3 +212,4 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131291,206,17,0,0,0,,"書物商の露店",False,False,True,0,0,0,False
 131292,207,17,0,0,0,,"道具商の露店",False,False,True,0,0,0,False
 131293,208,17,0,0,0,,"精肉商の露店",False,False,True,0,0,0,False
+131294,209,17,0,0,0,,"ウッドデッキ",False,False,True,0,0,0,False

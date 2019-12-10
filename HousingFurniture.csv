@@ -887,7 +887,9 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197537,858,14,0,0,0,0,"CmnDefHousingObject_00141","エールサーバー",False,"",0,0,0,True,False
 197538,859,14,0,0,0,0,,"アラガントームストーン:卓上",False,"",0,0,0,True,False
 197539,860,14,0,0,0,0,,"テーブルトップハットスタンド",False,"",0,0,0,True,False
+197540,861,14,0,0,0,0,,"メイクアップミラー",False,"",0,0,0,True,False
 197541,862,14,0,0,0,0,,"ネックレストルソー",False,"",0,0,0,True,False
+197542,863,14,0,0,0,0,,"イミテーション・プレゼントボックス",False,"",0,0,0,True,False
 197543,864,14,0,0,0,0,,"リキュールボトルセット",False,"",0,0,0,True,False
 197544,865,15,0,0,0,0,,"音楽会のポスター",False,"",5,0,0,True,False
 197545,866,14,7,55,0,0,"CmnDefHousingDish_00213","スターライト・ロールケーキ",True,"",8,4,11,True,False
@@ -895,6 +897,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197547,868,14,0,0,0,0,,"ジャイアントビーバーのぬいぐるみ",False,"",3,0,0,True,False
 197548,869,14,0,0,0,0,,"ポークシーのぬいぐるみ",False,"",5,0,0,True,False
 197550,871,14,7,56,0,0,"CmnDefHousingDish_00213","チョコレートファウンテン",True,"",8,4,11,True,False
+197553,874,12,0,0,0,0,,"ラケティカプランター",False,"",0,0,0,True,False
 197572,893,15,0,0,0,0,,"シャツラック",False,"",5,0,0,True,False
 197576,897,12,0,0,0,0,,"レイクランドチェア",False,"",0,0,0,True,False
 197577,898,13,0,0,0,0,,"レイクランドテーブル",False,"",0,0,0,True,False
@@ -909,3 +912,6 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197605,922,15,0,0,0,0,,"複製原画:紅蓮の群像",False,"",3,0,0,True,False
 197618,935,15,0,0,0,0,,"複製原画:暁の血盟",False,"",3,0,0,True,False
 197619,936,15,0,0,0,0,,"複製原画:漆黒の群像",False,"",3,0,0,True,False
+197639,748,14,7,45,0,0,"CmnDefHousingDish_00213","ヴァレンティオンロブスターEX",True,"",7,4,11,True,False
+197640,749,14,7,46,0,0,"CmnDefHousingDish_00213","ヴァレンティオンケーキセットEX",True,"",7,4,11,True,False
+197641,790,14,0,0,0,0,,"マメットのぬいぐるみEX",False,"",3,0,0,True,False

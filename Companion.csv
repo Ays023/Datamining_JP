@@ -359,7 +359,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 355,"ミスティックウェポン",0,"",0,0,1,0,0,"ModelChara#2756",100,10,0,0,0,"自律",0,8,401,True,False,True,False,True,0,False,True,"ui/icon/004000/004855.tex",1084,False,90,20,390,1,30,20,1,604,"モンスター"
 356,"ミーアキャット",0,"",0,0,1,0,0,"ModelChara#2755",100,10,0,0,0,"自律",1,8,402,True,False,True,False,True,0,False,True,"ui/icon/004000/004856.tex",3023,False,0,15,400,29,360,20,2,623,"アニマル"
 357,"ホワイト・ミニナイト",0,"",0,0,1,0,0,"ModelChara#2773",100,10,0,0,0,"追従",0,8,403,False,True,False,True,False,0,False,True,"ui/icon/004000/004857.tex",1085,False,0,10,420,10,0,20,2,620,"ドール"
-358,"",0,"",0,0,0,0,0,"ModelChara#0",0,0,0,0,0,"",0,0,0,False,False,False,False,False,0,False,False,,0,False,0,0,0,0,0,0,0,0,""
+358,"極合金ジャスティス",0,"",0,0,1,0,0,"ModelChara#2774",100,10,0,0,0,"追従",0,8,404,False,True,False,True,False,0,False,True,"ui/icon/004000/004858.tex",2005,False,0,30,500,41,0,20,2,620,"ドール"
 359,"ドマキン",0,"",0,0,1,0,0,"ModelChara#2775",100,10,0,0,0,"自律",5,8,405,True,False,True,False,True,0,False,True,"ui/icon/004000/004859.tex",4009,False,0,20,510,38,120,30,1,609,"アニマル"
 360,"ニュー・エスティニアン",0,"",0,0,1,0,0,"ModelChara#2801",100,30,0,0,0,"追従",0,8,336,False,True,False,True,False,0,False,True,"ui/icon/004000/004860.tex",9026,False,0,20,420,8,30,20,2,621,"ドール"
 361,"プチリャナンシー",0,"",0,0,1,0,0,"ModelChara#2800",100,10,0,0,0,"自律",0,8,406,True,False,True,False,True,0,False,True,"ui/icon/004000/004861.tex",1086,False,0,15,460,32,0,30,2,620,"モンスター"

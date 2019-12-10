@@ -166,11 +166,11 @@ int32,byte,Row,bit&01,uint16,WeeklyBingoRewardData,byte,Row,bool,uint16,WeeklyBi
 162,1,"ニュー・アリゼー",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#1","MGPゴールドカード",False,1
 163,1,"ニュー・サンクレッド",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#2","アラガントームストーン:幻想",False,50
 164,1,"マメット・エスティニアン",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#1","MGPゴールドカード",False,1
-165,1,"MGPゴールドカード",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#2","アラガントームストーン:幻想",False,50
-166,1,"マメット・クロ",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#1","MGPゴールドカード",False,1
-167,1,"マメット・ヒエン",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#2","アラガントームストーン:幻想",False,50
-168,1,"ニュー・アリゼー",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#1","MGPゴールドカード",False,1
-169,1,"ニュー・サンクレッド",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#2","アラガントームストーン:幻想",False,50
+165,1,"マメット・クロ",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#1","MGPゴールドカード",False,1
+166,1,"マメット・ヒエン",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#1","MGPゴールドカード",False,1
+167,1,"ニュー・アリゼー",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#2","アラガントームストーン:幻想",False,50
+168,1,"ニュー・サンクレッド",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#1","MGPゴールドカード",False,1
+169,1,"マメット・エスティニアン",False,1,"WeeklyBingoRewardData#0",1,"クロの賞状:銅賞",False,1,"WeeklyBingoRewardData#2","アラガントームストーン:幻想",False,50
 170,0,,False,0,"WeeklyBingoRewardData#0",0,,False,0,"WeeklyBingoRewardData#0","",False,0
 171,0,,False,0,"WeeklyBingoRewardData#0",0,,False,0,"WeeklyBingoRewardData#0","",False,0
 172,0,,False,0,"WeeklyBingoRewardData#0",0,,False,0,"WeeklyBingoRewardData#0","",False,0

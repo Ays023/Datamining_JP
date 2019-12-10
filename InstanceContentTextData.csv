@@ -6840,7 +6840,9 @@ X号ゴブリフライヤーの威力を見るがいい！"
 23628,""
 23629,""
 23630,""
-23700,""
+23700,"<Sheet(PlaceName,IntegerParameter(1),0)/>
+<Switch(IntegerParameter(2))><Case(1)>ランクB</Case><Case(2)>ランクA</Case><Case(3)>ランクS</Case></Switch>
+<Switch(IntegerParameter(3))><Case(1)>有効まで：<Value>IntegerParameter(4)</Value>:<TwoDigitValue>IntegerParameter(5)</TwoDigitValue></Case><Case(2)>有効状態</Case><Case(3)>黒渦団 契約状態</Case><Case(4)>双蛇党 契約状態</Case><Case(5)>不滅隊 契約状態</Case></Switch>"
 23701,""
 23702,""
 23703,""
