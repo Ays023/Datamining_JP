@@ -19,8 +19,8 @@ int32,byte,Action,bit&01,bit&02,int32
 1.14,1,"インターベンション",True,True,0
 1.15,1,"テストゥド",True,True,0
 1.16,1,"ロウブロウ",True,True,0
-1.17,1,"疾駆",True,True,0
-1.18,1,"前衛用ポーション",True,True,0
+1.17,1,"疾走",True,True,0
+1.18,1,"軍用ポーション",True,True,0
 1.19,1,"イージスブーン",True,True,0
 1.20,1,"ロイエ",False,False,0
 1.21,1,"グローリースラッシュ",False,False,0
@@ -42,8 +42,8 @@ int32,byte,Action,bit&01,bit&02,int32
 2.14,1,"原初の猛り",True,True,0
 2.15,1,"シェイクオフ",True,True,0
 2.16,1,"ロウブロウ",True,True,0
-2.17,1,"疾駆",True,True,0
-2.18,1,"前衛用ポーション",True,True,0
+2.17,1,"疾走",True,True,0
+2.18,1,"軍用ポーション",True,True,0
 2.19,1,"イージスブーン",True,True,0
 2.20,1,"インナーカオス",False,False,0
 2.21,1,"カオティックサイクロン",False,False,0
@@ -64,8 +64,8 @@ int32,byte,Action,bit&01,bit&02,int32
 3.14,1,"ブラックナイト",True,True,0
 3.15,1,"ダークミッショナリー",True,True,0
 3.16,1,"ロウブロウ",True,True,0
-3.17,1,"疾駆",True,True,0
-3.18,1,"前衛用ポーション",True,True,0
+3.17,1,"疾走",True,True,0
+3.18,1,"軍用ポーション",True,True,0
 3.19,1,"イージスブーン",True,True,0
 3.20,0,"",True,True,0
 4.0,2,"攻撃",True,True,0
@@ -85,8 +85,8 @@ int32,byte,Action,bit&01,bit&02,int32
 4.14,1,"金剛の極意",True,True,0
 4.15,1,"桃園結義",True,True,0
 4.16,1,"スマイト",True,True,0
-4.17,1,"疾駆",True,True,0
-4.18,1,"前衛用ポーション",True,True,0
+4.17,1,"疾走",True,True,0
+4.18,1,"軍用ポーション",True,True,0
 4.19,1,"ロウディストラクション",True,True,0
 5.0,2,"ファストブレード",True,True,0
 5.1,2,"ヘヴィスウィング",True,True,0
@@ -107,8 +107,8 @@ int32,byte,Action,bit&01,bit&02,int32
 5.16,1,"ライフサージ",True,True,0
 5.17,1,"ドラゴンサイト",True,True,0
 5.18,1,"スマイト",True,True,0
-5.19,1,"疾駆",True,True,0
-5.20,1,"前衛用ポーション",True,True,0
+5.19,1,"疾走",True,True,0
+5.20,1,"軍用ポーション",True,True,0
 5.21,1,"ロウディストラクション",True,True,0
 5.22,1,"ナーストレンド",False,False,0
 6.0,2,"サベッジブレード",True,True,0
@@ -128,8 +128,8 @@ int32,byte,Action,bit&01,bit&02,int32
 6.14,1,"縮地",True,True,0
 6.15,1,"隠身の術",True,True,0
 6.16,1,"スマイト",True,True,0
-6.17,1,"疾駆",True,True,0
-6.18,1,"前衛用ポーション",True,True,0
+6.17,1,"疾走",True,True,0
+6.18,1,"軍用ポーション",True,True,0
 6.19,1,"ロウディストラクション",True,True,0
 6.20,1,"氷晶乱流の術",False,False,0
 6.21,1,"劫火滅却の術",False,False,0
@@ -151,8 +151,8 @@ int32,byte,Action,bit&01,bit&02,int32
 7.14,1,"必殺剣・地天",True,True,0
 7.15,1,"照破",True,True,0
 7.16,1,"スマイト",True,True,0
-7.17,1,"疾駆",True,True,0
-7.18,1,"前衛用ポーション",True,True,0
+7.17,1,"疾走",True,True,0
+7.18,1,"軍用ポーション",True,True,0
 7.19,1,"ロウディストラクション",True,True,0
 7.20,1,"返し雪月花",False,False,0
 7.21,1,"返し五剣",False,False,0
@@ -170,7 +170,7 @@ int32,byte,Action,bit&01,bit&02,int32
 8.10,1,"地神のミンネ",True,True,0
 8.11,1,"ヘッドグレイズ",True,True,0
 8.12,1,"疾走",True,True,0
-8.13,1,"後衛用ポーション",True,True,0
+8.13,1,"軍用ポーション",True,True,0
 8.14,1,"ターミナルベロシティ",True,True,0
 8.15,0,"",True,True,0
 8.16,0,"",True,True,0
@@ -193,7 +193,7 @@ int32,byte,Action,bit&01,bit&02,int32
 9.13,1,"タクティシャン",True,True,0
 9.14,1,"ヘッドグレイズ",True,True,0
 9.15,1,"疾走",True,True,0
-9.16,1,"後衛用ポーション",True,True,0
+9.16,1,"軍用ポーション",True,True,0
 9.17,1,"ターミナルベロシティ",True,True,0
 9.18,1,"ヒートブラスト",False,False,0
 9.19,1,"オートボウガン",False,False,0
@@ -210,7 +210,7 @@ int32,byte,Action,bit&01,bit&02,int32
 10.10,1,"エーテリアルステップ",True,True,0
 10.11,1,"ファントムダート",True,True,0
 10.12,1,"疾走",True,True,0
-10.13,1,"後衛用ポーション",True,True,0
+10.13,1,"軍用ポーション",True,True,0
 10.14,1,"コメテオ",True,True,0
 10.15,1,"サンダガ",False,False,0
 10.16,1,"サンダジャ",False,False,0
@@ -230,7 +230,7 @@ int32,byte,Action,bit&01,bit&02,int32
 11.10,1,"トランス・バハムート",True,True,0
 11.11,1,"ファントムダート",True,True,0
 11.12,1,"疾走",True,True,0
-11.13,1,"後衛用ポーション",True,True,0
+11.13,1,"軍用ポーション",True,True,0
 11.14,1,"コメテオ",True,True,0
 11.15,1,"霊泉の炎",False,False,0
 11.16,1,"煉獄の炎",False,False,0
@@ -258,7 +258,7 @@ int32,byte,Action,bit&01,bit&02,int32
 12.13,1,"アンガジェマン",True,True,0
 12.14,1,"ファントムダート",True,True,0
 12.15,1,"疾走",True,True,0
-12.16,1,"後衛用ポーション",True,True,0
+12.16,1,"軍用ポーション",True,True,0
 12.17,1,"コメテオ",True,True,0
 12.18,1,"ヴァルエアロ",False,False,0
 12.19,1,"ヴァルサンダー",False,False,0
@@ -280,7 +280,7 @@ int32,byte,Action,bit&01,bit&02,int32
 13.10,1,"テンパランス",True,True,0
 13.11,1,"浄化",True,True,0
 13.12,1,"疾走",True,True,0
-13.13,1,"後衛用ポーション",True,True,0
+13.13,1,"軍用ポーション",True,True,0
 13.14,1,"エンピリアンレイン",True,True,0
 13.15,0,"",True,True,0
 13.16,0,"",True,True,0
@@ -300,7 +300,7 @@ int32,byte,Action,bit&01,bit&02,int32
 14.10,1,"サモン・セラフィム",True,True,0
 14.11,1,"浄化",True,True,0
 14.12,1,"疾走",True,True,0
-14.13,1,"後衛用ポーション",True,True,0
+14.13,1,"軍用ポーション",True,True,0
 14.14,1,"エンピリアンレイン",True,True,0
 14.15,1,"セラフィックヴェール",False,False,0
 14.16,0,"",True,True,0
@@ -320,7 +320,7 @@ int32,byte,Action,bit&01,bit&02,int32
 15.10,1,"ニュートラルセクト",True,True,0
 15.11,1,"浄化",True,True,0
 15.12,1,"疾走",True,True,0
-15.13,1,"後衛用ポーション",True,True,0
+15.13,1,"軍用ポーション",True,True,0
 15.14,1,"エンピリアンレイン",True,True,0
 15.15,1,"アスペクト・ベネフィク",False,False,0
 15.16,1,"アスペクト・ヘリオス",False,False,0
@@ -382,8 +382,8 @@ int32,byte,Action,bit&01,bit&02,int32
 21.17,1,"オーロラ",True,True,0
 21.18,1,"ハート・オブ・ライト",True,True,0
 21.19,1,"ロウブロウ",True,True,0
-21.20,1,"疾駆",True,True,0
-21.21,1,"前衛用ポーション",True,True,0
+21.20,1,"疾走",True,True,0
+21.21,1,"軍用ポーション",True,True,0
 21.22,1,"イージスブーン",True,True,0
 21.23,1,"ジャギュラーリップ",False,False,0
 21.24,1,"アブドメンテアー",False,False,0
@@ -406,7 +406,7 @@ int32,byte,Action,bit&01,bit&02,int32
 22.14,1,"アン・アヴァン",True,True,0
 22.15,1,"ヘッドグレイズ",True,True,0
 22.16,1,"疾走",True,True,0
-22.17,1,"後衛用ポーション",True,True,0
+22.17,1,"軍用ポーション",True,True,0
 22.18,1,"ターミナルベロシティ",True,True,0
 22.19,1,"リバースカスケード",False,False,0
 22.20,1,"ファウンテンフォール",False,False,0

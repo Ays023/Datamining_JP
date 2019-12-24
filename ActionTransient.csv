@@ -10721,7 +10721,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「忍気」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を10増加させる。"
 8812,"指定した地点に向かって素早く移動する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に一定量のダメージを防ぐバリアを張る。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>回復力2000相当　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>回復力1000相当　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 バインド中は実行不可。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 8813,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
@@ -21175,7 +21175,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>遠隔攻撃威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 分身の攻撃が命中すると自身の<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「忍気」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を10上昇させる。"
 17735,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の被ダメージを20％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の被ダメージを15％上昇させる。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「かくれる」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
 
@@ -21315,7 +21315,7 @@ int32,str
 再使用で解除する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続"
 17766,"ダンスモードになり、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に変化する。
-また、ステップアクションと<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードフィニッシュ」「アン・アヴァン」「ヘッドグレイズ」「疾走」「後衛用ポーション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、アディショナルアクション以外を実行することができなくなる。
+また、ステップアクションと<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンダードフィニッシュ」「アン・アヴァン」「ヘッドグレイズ」「疾走」「軍用ポーション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、アディショナルアクション以外を実行することができなくなる。
 このアクションを実行するとウェポンスキルにリキャストタイムが発生する。"
 17767,"ステップアクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「薔薇のアンボワテ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行する。
 ダンスシンボルに表示された順番通りにステップアクションの実行に成功すると、フィニッシュアクションの効果が上昇する。
@@ -21503,7 +21503,7 @@ int32,str
 17824,"ダンスモードになり、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルステップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルフィニッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に変化する。
-また、ステップアクションと<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルフィニッシュ」「アン・アヴァン」「ヘッドグレイズ」「疾走」「後衛用ポーション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、アディショナルアクション以外を実行することができなくなる。
+また、ステップアクションと<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テクニカルフィニッシュ」「アン・アヴァン」「ヘッドグレイズ」「疾走」「軍用ポーション」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、アディショナルアクション以外を実行することができなくなる。
 このアクションを実行するとウェポンスキルにリキャストタイムが発生する。"
 17825,"自身の周囲の敵に範囲物理攻撃。
 対象との距離が近づくほど威力が上昇する。
@@ -23071,7 +23071,7 @@ int32,str
 18985,""
 18986,""
 18987,"自身の周囲の敵に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を沈黙させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を沈黙させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1秒"
 18988,"自身の周囲の敵に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「剣気」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>25"
 18989,""

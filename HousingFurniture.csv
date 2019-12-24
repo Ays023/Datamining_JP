@@ -861,6 +861,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197506,833,15,0,0,83,0,,"ティターニアの壁掛け",False,"",0,0,0,True,False
 197507,834,14,0,0,0,0,,"ローンウルフ・トロフィーS13",False,"",5,0,0,True,False
 197508,835,14,0,0,0,0,,"パックウルフ・トロフィTS",False,"",5,0,0,True,False
+197509,836,14,0,0,0,0,,"ローンウルフ・トロフィーS14",False,"",5,0,0,True,False
 197510,837,14,0,0,0,0,,"メタルワークランタン",False,"",5,0,0,True,False
 197511,838,14,0,0,0,0,,"ウッドワークランタン",False,"",5,0,0,True,False
 197512,839,14,0,0,0,0,,"アルケミカルランタン",False,"",5,0,0,True,False
