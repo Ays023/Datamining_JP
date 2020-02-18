@@ -83,3 +83,5 @@ int32,Image,PlaceName,bit&01
 79,"ui/icon/060000/060988.tex","居室 (宿屋)",True
 80,"ui/icon/060000/060986.tex","ミーン工芸館取引",True
 81,"ui/icon/060000/060993.tex","復興事業掲示板",True
+82,"ui/icon/063000/063903.tex","",True
+83,"ui/icon/063000/063907.tex","",True

@@ -78,10 +78,10 @@ int32,GatheringCondition,uint16,uint16,GatheringPointBonusType,uint16,uint16
 74,"識質力 <Value>IntegerParameter(1)</Value>以上",1200,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
 75,"識質力 <Value>IntegerParameter(1)</Value>以上",1350,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
 76,"識質力 <Value>IntegerParameter(1)</Value>以上",1840,0,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％",30,0
-77,"",0,0,"",0,0
-78,"",0,0,"",0,0
-79,"",0,0,"",0,0
-80,"",0,0,"",0,0
+77,"識質力 <Value>IntegerParameter(1)</Value>未満",2140,0,"HQ獲得率 <Value>IntegerParameter(1)</Value>％",0,0
+78,"GPmax <Value>IntegerParameter(1)</Value>以上",740,770,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+79,"獲得力 <Value>IntegerParameter(1)</Value>以上",2244,2692,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+80,"識質力 <Value>IntegerParameter(1)</Value>以上",2140,3210,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,100
 81,"",0,0,"",0,0
 82,"",0,0,"",0,0
 83,"",0,0,"",0,0
@@ -164,14 +164,14 @@ int32,GatheringCondition,uint16,uint16,GatheringPointBonusType,uint16,uint16
 160,"識質力 <Value>IntegerParameter(1)</Value>以上",874,1588,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",5,7
 161,"識質力 <Value>IntegerParameter(1)</Value>以上",989,1688,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",5,9
 162,"識質力 <Value>IntegerParameter(1)</Value>以上",1535,2024,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",5,9
-163,"",0,0,"",0,0
-164,"",0,0,"",0,0
-165,"",0,0,"",0,0
-166,"",0,0,"",0,0
-167,"",0,0,"",0,0
-168,"",0,0,"",0,0
-169,"",0,0,"",0,0
-170,"",0,0,"",0,0
+163,"GPmax <Value>IntegerParameter(1)</Value>以上",836,0,"採集回数＋<Value>IntegerParameter(1)</Value>回",5,0
+164,"獲得力 <Value>IntegerParameter(1)</Value>以上",2421,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+165,"獲得力 <Value>IntegerParameter(1)</Value>以上",2421,0,"個数＋<Value>IntegerParameter(1)</Value>個",2,0
+166,"識質力 <Value>IntegerParameter(1)</Value>以上",2345,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+167,"識質力 <Value>IntegerParameter(1)</Value>以上",2345,0,"個数＋<Value>IntegerParameter(1)</Value>個",2,0
+168,"獲得力 <Value>IntegerParameter(1)</Value>以上",54,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+169,"識質力 <Value>IntegerParameter(1)</Value>以上",25,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
+170,"GPmax <Value>IntegerParameter(1)</Value>以上",400,0,"個数＋<Value>IntegerParameter(1)</Value>個",1,0
 171,"",0,0,"",0,0
 172,"",0,0,"",0,0
 173,"",0,0,"",0,0
@@ -410,18 +410,18 @@ int32,GatheringCondition,uint16,uint16,GatheringPointBonusType,uint16,uint16
 406,"獲得力 <Value>IntegerParameter(1)</Value>以上",495,544,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
 407,"GPmax <Value>IntegerParameter(1)</Value>以上",591,621,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
 408,"",0,0,"",0,0
-409,"",0,0,"",0,0
-410,"",0,0,"",0,0
-411,"",0,0,"",0,0
-412,"",0,0,"",0,0
-413,"",0,0,"",0,0
-414,"",0,0,"",0,0
-415,"",0,0,"",0,0
-416,"",0,0,"",0,0
-417,"",0,0,"",0,0
-418,"",0,0,"",0,0
-419,"",0,0,"",0,0
-420,"",0,0,"",0,0
+409,"識質力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",20,30
+410,"識質力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,50
+411,"獲得力 <Value>IntegerParameter(1)</Value>以上",1856,2041,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+412,"獲得力 <Value>IntegerParameter(1)</Value>以上",1856,2041,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",2,4
+413,"GPmax <Value>IntegerParameter(1)</Value>以上",696,765,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+414,"GPmax <Value>IntegerParameter(1)</Value>以上",696,765,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",2,4
+415,"識質力 <Value>IntegerParameter(1)</Value>以上",1898,2847,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",20,30
+416,"識質力 <Value>IntegerParameter(1)</Value>以上",1898,2847,"HQ獲得率＋<Value>IntegerParameter(1)</Value>％（上昇タイプ）",30,50
+417,"獲得力 <Value>IntegerParameter(1)</Value>以上",1929,2121,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,2
+418,"獲得力 <Value>IntegerParameter(1)</Value>以上",1929,2121,"個数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",2,4
+419,"GPmax <Value>IntegerParameter(1)</Value>以上",714,785,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",1,2
+420,"GPmax <Value>IntegerParameter(1)</Value>以上",714,785,"採集回数＋<Value>IntegerParameter(1)</Value>回（上昇タイプ）",2,4
 421,"",0,0,"",0,0
 422,"",0,0,"",0,0
 423,"",0,0,"",0,0

@@ -13,12 +13,12 @@ int32,str,str
 7,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_NO","いいえ"
 8,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_030","ふむ、<If(Equal(IntegerParameter(1),8649))>「<Sheet(Item,8649,0)/>」と、
 「<Sheet(Item,8658,0)/>」<Else/>「<Sheet(Item,IntegerParameter(1),0)/>」</If>が見当たらぬようだ。
-マテリア化する武器がなければ、再創造はできぬぞ？"
+マテリアにする武器がなければ、再創造はできぬぞ？"
 9,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_031","「ゾディアックウェポン」を作成するには、
 装備を外して「アーマリーチェスト」か「所持品」に収納し、
 ジャルザーンに話しかける必要があります。"
 10,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_040","ふむ、「古の武器・ネクサス」をひとつも持っていないようだ。
-マテリア化に使う武器がなければ、
+マテリアにする武器がなければ、
 「ゾディアックウェポン」の作成はできぬぞ？"
 11,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_050","おや……準備が整っていない様子だな。
 すべての素材を揃えたら、私の元に持ってくるのだ。"
@@ -48,10 +48,10 @@ int32,str,str
 22,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_106","マテリア　作るにゃ　リスクが高い～！
 もしも失敗　したのなら　武器ごとまるごと　消えちゃうぞ～！？
 わしは　保証が　できんぞな～！？"
-23,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_107","対象の「古の武器・ネクサス」をマテリア化します。
+23,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_107","対象の「古の武器・ネクサス」をマテリアにします。
 成功確率は、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.4％<UIGlow>01</UIGlow><UIForeground>01</UIForeground>です。
 失敗すると「古の武器・ネクサス」を失います。"
-24,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q1_000_000","対象の「古の武器・ネクサス」をマテリア化しますか？"
+24,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q1_000_000","対象の「古の武器・ネクサス」をマテリアにしますか？"
 25,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_001","はい"
 26,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_002","いいえ"
 27,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q2_000_000","成功確率は、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.4％<UIGlow>01</UIGlow><UIForeground>01</UIForeground>です。
@@ -71,7 +71,7 @@ int32,str,str
 「古の武器」のマテリアが必須だっつってンだろ！
 ミュタミクスじいさんよ、構わねぇ、ひと思いにやっちまえ！"
 36,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_113","言ったな　言ったな　やっちゃうぞ～！
-超絶　リスクの　マテリア化～！
+超絶　リスクの　難作業～！
 成功　失敗　運しだい～！"
 37,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_114","こいつは　おどろき　大成功～！
 やれば　なんとか　なるもんだ～！

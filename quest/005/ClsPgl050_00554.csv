@@ -79,34 +79,36 @@ int32,str,str
 一度退くのも良い判断じゃろう。"
 58,"TEXT_CLSPGL050_00554_HAMON_000_26","体勢を整えたら、拳を構えて再度挑戦するのじゃ！
 岩を打ち、敵を砕き、硬い拳を鍛えてくるのじゃい！"
-59,"TEXT_CLSPGL050_00554_HAMON_000_40","フォッフォッフォ、全て倒しよったか！
+59,"TEXT_CLSPGL050_00554_SYSTEM_000_27","「試練の岩」に「連撃」を使い、
+現れた「アーススプライト」を討伐しよう。"
+60,"TEXT_CLSPGL050_00554_HAMON_000_40","フォッフォッフォ、全て倒しよったか！
 簡単な試練を与えたつもりはなかったんじゃがのう。"
-60,"TEXT_CLSPGL050_00554_HAMON_000_41","やはりお主、見込みがあるようじゃ。
+61,"TEXT_CLSPGL050_00554_HAMON_000_41","やはりお主、見込みがあるようじゃ。
 お主の底抜けのスタミナを見ておると、
 昔のワシを思い出すようじゃよ。"
-61,"TEXT_CLSPGL050_00554_CHUCHUTO_000_42","師匠、よかったわね。
+62,"TEXT_CLSPGL050_00554_CHUCHUTO_000_42","師匠、よかったわね。
 新人さんの修行、順調みたいじゃない！"
-62,"TEXT_CLSPGL050_00554_HAMON_000_43","まぁ、拳聖と謳われたワシが、
+63,"TEXT_CLSPGL050_00554_HAMON_000_43","まぁ、拳聖と謳われたワシが、
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>を指導しておるのだ、当然じゃよ！"
-63,"TEXT_CLSPGL050_00554_CHUCHUTO_000_44","ウフフ、さすが師匠ね！"
-64,"TEXT_CLSPGL050_00554_HAMON_000_45","おお、そういえば<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>には、
+64,"TEXT_CLSPGL050_00554_CHUCHUTO_000_44","ウフフ、さすが師匠ね！"
+65,"TEXT_CLSPGL050_00554_HAMON_000_45","おお、そういえば<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>には、
 師範代のチュチュトを紹介しておらんかったな。"
-65,"TEXT_CLSPGL050_00554_CHUCHUTO_000_46","チュチュトです。
+66,"TEXT_CLSPGL050_00554_CHUCHUTO_000_46","チュチュトです。
 師範代といっても、まだまだ未熟なの。
 一緒に頑張ろうね！"
-66,"TEXT_CLSPGL050_00554_HAMON_000_47","チュチュトはワシがギルドマスターになった時、
+67,"TEXT_CLSPGL050_00554_HAMON_000_47","チュチュトはワシがギルドマスターになった時、
 一番初めに弟子になった子なんじゃ。
 ……当時弟子はもう一人いたんじゃが。"
-67,"TEXT_CLSPGL050_00554_CHUCHUTO_000_49","……師匠、もうその話はいいじゃない。"
-68,"TEXT_CLSPGL050_00554_CHUCHUTO_000_50","ところで師匠、私が<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>のために
+68,"TEXT_CLSPGL050_00554_CHUCHUTO_000_49","……師匠、もうその話はいいじゃない。"
+69,"TEXT_CLSPGL050_00554_CHUCHUTO_000_50","ところで師匠、私が<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>のために
 町中に置いておいた小銭、師匠が回収してたわよね？
 あれ私のなんだけ……"
-69,"TEXT_CLSPGL050_00554_HAMON_000_51","チ、チュチュト。そ、その話はいいじゃろう。
+70,"TEXT_CLSPGL050_00554_HAMON_000_51","チ、チュチュト。そ、その話はいいじゃろう。
 いいか、今は<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>の成長の話じゃからな。"
-70,"TEXT_CLSPGL050_00554_HAMON_000_52","ゴッホン！
+71,"TEXT_CLSPGL050_00554_HAMON_000_52","ゴッホン！
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>よ、さらなる鍛錬をつんだら、
 次の修行に臨むからのう！"
-71,"TEXT_CLSPGL050_00554_HAMON_000_53","ワシのような素晴らしい拳聖になるためにも、
+72,"TEXT_CLSPGL050_00554_HAMON_000_53","ワシのような素晴らしい拳聖になるためにも、
 日々の鍛錬を怠るでないぞ！
 フォッフォッフォッフォ！"
-72,"TEXT_CLSPGL050_00554_POP_MESSAGE","敵の気配を感じた！！"
+73,"TEXT_CLSPGL050_00554_POP_MESSAGE","敵の気配を感じた！！"

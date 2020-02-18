@@ -50,8 +50,8 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 46,"鼻歌","",True,False,False,False,3,False
 47,"確認","",True,False,False,False,3,False
 48,"企みを話す","",True,False,False,False,3,False
-49,"","",True,False,False,False,3,False
-50,"","",True,False,False,False,3,False
+49,"ヒールトー","",True,False,False,False,3,False
+50,"グゥーブー・ドゥ","",True,False,False,False,3,False
 51,"注意する","",True,False,False,False,3,False
 52,"事件屋のマンボ","",True,True,False,False,3,False
 53,"","",True,False,False,False,3,True

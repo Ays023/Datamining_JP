@@ -32,7 +32,7 @@ int32,str,byte,byte,bit&01,byte,uint16,byte,str
 62,"CAM_TILT_UP",255,255,False,1,28,6,"チルトカメラ上操作"
 63,"CAM_TILT_DOWN",255,255,False,1,29,6,"チルトカメラ下操作"
 64,"CAMERA_LOOKING",255,255,False,1,30,6,"カメラ目線をする"
-65,"GROUP_POSE",255,255,False,1,32,1,"グループポーズ"
+65,"GROUP_POSE",255,255,False,1,32,1,"グループポーズ（フォトモード）"
 66,"IDLING_CAMERA",255,255,False,1,31,1,"景観カメラ"
 103,"TARGET_NEXT",255,255,False,2,1,2,"一番近い敵から順にターゲット：順送り"
 104,"TARGET_PREV",255,255,False,2,2,2,"一番近い敵から順にターゲット：逆送り"

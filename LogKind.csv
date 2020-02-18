@@ -1,114 +1,114 @@
-﻿key,0,1,2,3,4
-#,,Format,Name,Example,LogKindCategoryText
-int32,byte,str,str,str,LogKindCategoryText
-0,0,"[LogKind未設定]<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>","None","",""
-1,0,"<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>","Debug","",""
-2,0,"<Color(-32897)><Highlight>StringParameter(2)</Highlight></Color>","緊急インフォメーション","",""
-3,0,"<Color(-5010177)><Highlight>StringParameter(2)</Highlight></Color>","通常インフォメーション","",""
-4,0,"","","",""
-5,0,"","","",""
-6,0,"","","",""
-7,0,"","","",""
-8,0,"","","",""
-9,0,"","","",""
-10,0,"<Color(PlayerParameter(13))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","Say","","チャット"
-11,0,"<Color(PlayerParameter(14))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","Shout","","チャット"
-12,0,"<Color(PlayerParameter(15))>>><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","Tell","","チャット"
-13,0,"<Color(PlayerParameter(15))><Highlight>StringParameter(1)</Highlight> >> <Highlight>StringParameter(2)</Highlight></Color>","Tell_Receive","",""
-14,0,"<Color(PlayerParameter(16))>(<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>","Party","","チャット"
-15,0,"<Color(PlayerParameter(17))>((<Highlight>StringParameter(1)</Highlight>)) <Highlight>StringParameter(2)</Highlight></Color>","アライアンス","","チャット"
-16,0,"<Color(PlayerParameter(18))>[1]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [1]","","チャット"
-17,0,"<Color(PlayerParameter(19))>[2]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [2]","","チャット"
-18,0,"<Color(PlayerParameter(20))>[3]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [3]","","チャット"
-19,0,"<Color(PlayerParameter(21))>[4]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [4]","","チャット"
-20,0,"<Color(PlayerParameter(22))>[5]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [5]","","チャット"
-21,0,"<Color(PlayerParameter(23))>[6]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [6]","","チャット"
-22,0,"<Color(PlayerParameter(24))>[7]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [7]","","チャット"
-23,0,"<Color(PlayerParameter(25))>[8]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","LinkShell [8]","","チャット"
-24,0,"<Color(PlayerParameter(26))>[FC]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","フリーカンパニー","","チャット"
-25,0,"","","",""
-26,0,"","","",""
-27,0,"<Color(PlayerParameter(29))>[BEGINNER]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","NewBieチャット","","チャット"
-28,0,"<Color(PlayerParameter(30))><Highlight>StringParameter(1)</Highlight><Highlight>StringParameter(2)</Highlight></Color>","オリジナルの感情表現","","チャット"
-29,50,"<Color(PlayerParameter(31))><Highlight>StringParameter(2)</Highlight></Color>","感情表現","","チャット"
-30,0,"<Color(PlayerParameter(32))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","Yell","","チャット"
-31,0,"<Color(PlayerParameter(16))>(<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>","","",""
-32,0,"<Color(PlayerParameter(16))>(<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>","Party","","チャット"
-33,0,"","","",""
-34,0,"","","",""
-35,0,"","","",""
-36,0,"<Color(PlayerParameter(27))>[PvP]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-37,0,"<Color(PlayerParameter(35))>[CWLS1]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-38,0,"","","",""
-39,0,"","","",""
-40,0,"","","",""
-41,50,"<Color(PlayerParameter(36))><Highlight>StringParameter(2)</Highlight></Color>","ダメージを与えた","","バトル"
-42,50,"<Color(PlayerParameter(37))><Highlight>StringParameter(2)</Highlight></Color>","攻撃を失敗した","","バトル"
-43,50,"<Color(PlayerParameter(38))><Highlight>StringParameter(2)</Highlight></Color>","アクションの開始/中止","","バトル"
-44,50,"<Color(PlayerParameter(39))><Highlight>StringParameter(2)</Highlight></Color>","アイテムの使用/中止","","バトル"
-45,50,"<Color(PlayerParameter(40))><Highlight>StringParameter(2)</Highlight></Color>","回復を与えた","","バトル"
-46,50,"<Color(PlayerParameter(41))><Highlight>StringParameter(2)</Highlight></Color>","バフステータスを与えた","","バトル"
-47,50,"<Color(PlayerParameter(42))><Highlight>StringParameter(2)</Highlight></Color>","デバフステータスを与えた","","バトル"
-48,50,"<Color(PlayerParameter(41))><Highlight>StringParameter(2)</Highlight></Color>","","",""
-49,50,"<Color(PlayerParameter(42))><Highlight>StringParameter(2)</Highlight></Color>","","",""
-50,0,"","","",""
-51,0,"","","",""
-52,0,"","","",""
-53,0,"","","",""
-54,0,"","","",""
-55,0,"","","",""
-56,0,"<Color(PlayerParameter(43))><Highlight>StringParameter(2)</Highlight></Color>","エコー","","アナウンス"
-57,0,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>","システムからのメッセージ","","アナウンス"
-58,50,"<Color(PlayerParameter(57))><Highlight>StringParameter(2)</Highlight></Color>","システムからのエラーメッセージ","","アナウンス"
-59,0,"<Color(PlayerParameter(58))><Highlight>StringParameter(2)</Highlight></Color>","戦闘に関するシステムメッセージ","","アナウンス"
-60,0,"<Color(PlayerParameter(59))><Highlight>StringParameter(2)</Highlight></Color>","採集に関するシステムメッセージ","","アナウンス"
-61,0,"<Color(PlayerParameter(60))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","NPC会話","","アナウンス"
-62,0,"<Color(PlayerParameter(61))><Highlight>StringParameter(2)</Highlight></Color>","戦利品の通知","","アナウンス"
-63,0,"","","",""
-64,50,"<Color(PlayerParameter(62))><Highlight>StringParameter(2)</Highlight></Color>","成長/修得","","アナウンス"
-65,0,"<Color(PlayerParameter(63))><Highlight>StringParameter(2)</Highlight></Color>","ロットイン情報","","アナウンス"
-66,50,"<Color(PlayerParameter(64))><Highlight>StringParameter(2)</Highlight></Color>","製作過程/結果","","アナウンス"
-67,50,"<Color(PlayerParameter(65))><Highlight>StringParameter(2)</Highlight></Color>","採集過程/結果","","アナウンス"
-68,0,"<Color(PlayerParameter(60))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","NPC会話：告知系","","アナウンス"
-69,0,"<Color(PlayerParameter(33))><Highlight>StringParameter(2)</Highlight></Color>","フリーカンパニーアナウンス","","アナウンス"
-70,0,"<Color(PlayerParameter(33))><Highlight>StringParameter(2)</Highlight></Color>","フリーカンパニーメンバーログイン通知","",""
-71,0,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>","マーケットの売上報告","",""
-72,0,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>","パーティ募集の新着情報","",""
-73,0,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>","マーカー設定情報","",""
-74,0,"<Color(PlayerParameter(63))><Highlight>StringParameter(2)</Highlight></Color>","ダイスの出目","",""
-75,0,"<Color(PlayerParameter(34))><Highlight>StringParameter(2)</Highlight></Color>","ビギナーチャンネルアナウンス","",""
-76,0,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>","","",""
-77,0,"<Color(PlayerParameter(28))><Highlight>StringParameter(2)</Highlight></Color>","","",""
-78,0,"<Color(PlayerParameter(28))><Highlight>StringParameter(2)</Highlight></Color>","","",""
-79,0,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>","","",""
-80,0,"<Color(PlayerParameter(15))>[GM]<Highlight>StringParameter(1)</Highlight> >> <Highlight>StringParameter(2)</Highlight></Color>","GMからのTell","",""
-81,0,"<Color(PlayerParameter(13))>[GM]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","GMからのSay","",""
-82,0,"<Color(PlayerParameter(14))>[GM]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","GMからのShout","",""
-83,0,"<Color(PlayerParameter(32))>[GM]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>","GMからのYell","",""
-84,0,"<Color(PlayerParameter(16))>([GM]<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>","GMからのParty","",""
-85,0,"<Color(PlayerParameter(26))>[FC]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのFreeCompanyチャット","",""
-86,0,"<Color(PlayerParameter(18))>[1]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS1チャット","",""
-87,0,"<Color(PlayerParameter(19))>[2]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS2チャット","",""
-88,0,"<Color(PlayerParameter(20))>[3]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS3チャット","",""
-89,0,"<Color(PlayerParameter(21))>[4]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS4チャット","",""
-90,0,"<Color(PlayerParameter(22))>[5]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS5チャット","",""
-91,0,"<Color(PlayerParameter(23))>[6]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS6チャット","",""
-92,0,"<Color(PlayerParameter(24))>[7]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS7チャット","",""
-93,0,"<Color(PlayerParameter(25))>[8]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","GMからのLS8チャット","",""
-94,0,"<Color(PlayerParameter(29))>[BEGINNER][GM]<<Highlight>StringParameter(1)</Highlight>> : <Highlight>StringParameter(2)</Highlight></Color>","","",""
-95,0,"","","",""
-96,0,"","","",""
-97,0,"","","",""
-98,0,"","","",""
-99,0,"","","",""
-100,0,"","","",""
-101,0,"<Color(PlayerParameter(84))>[CWLS2]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-102,0,"<Color(PlayerParameter(85))>[CWLS3]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-103,0,"<Color(PlayerParameter(86))>[CWLS4]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-104,0,"<Color(PlayerParameter(87))>[CWLS5]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-105,0,"<Color(PlayerParameter(88))>[CWLS6]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-106,0,"<Color(PlayerParameter(89))>[CWLS7]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-107,0,"<Color(PlayerParameter(90))>[CWLS8]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>","","",""
-108,0,"","","",""
-109,0,"","","",""
-110,0,"","","",""
+﻿key,0,1,2
+#,LogKindCategoryText,Format,
+int32,LogKindCategoryText,str,bit&01
+0,,"[LogKind未設定]<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>",False
+1,,"<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>",False
+2,,"<Color(-32897)><Highlight>StringParameter(2)</Highlight></Color>",False
+3,,"<Color(-5010177)><Highlight>StringParameter(2)</Highlight></Color>",False
+4,,"",False
+5,,"",False
+6,,"",False
+7,,"",False
+8,,"",False
+9,,"",False
+10,,"<Color(PlayerParameter(13))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",True
+11,,"<Color(PlayerParameter(14))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",True
+12,,"<Color(PlayerParameter(15))>>><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",False
+13,,"<Color(PlayerParameter(15))><Highlight>StringParameter(1)</Highlight> >> <Highlight>StringParameter(2)</Highlight></Color>",True
+14,,"<Color(PlayerParameter(16))>(<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>",True
+15,,"<Color(PlayerParameter(17))>((<Highlight>StringParameter(1)</Highlight>)) <Highlight>StringParameter(2)</Highlight></Color>",True
+16,,"<Color(PlayerParameter(18))>[1]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+17,,"<Color(PlayerParameter(19))>[2]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+18,,"<Color(PlayerParameter(20))>[3]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+19,,"<Color(PlayerParameter(21))>[4]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+20,,"<Color(PlayerParameter(22))>[5]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+21,,"<Color(PlayerParameter(23))>[6]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+22,,"<Color(PlayerParameter(24))>[7]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+23,,"<Color(PlayerParameter(25))>[8]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+24,,"<Color(PlayerParameter(26))>[FC]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+25,,"",False
+26,,"",False
+27,,"<Color(PlayerParameter(29))>[BEGINNER]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",True
+28,,"<Color(PlayerParameter(30))><Highlight>StringParameter(1)</Highlight><Highlight>StringParameter(2)</Highlight></Color>",False
+29,,"<Color(PlayerParameter(31))><Highlight>StringParameter(2)</Highlight></Color>",False
+30,,"<Color(PlayerParameter(32))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",True
+31,,"<Color(PlayerParameter(16))>(<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>",False
+32,,"<Color(PlayerParameter(16))>(<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>",False
+33,,"",False
+34,,"",False
+35,,"",False
+36,,"<Color(PlayerParameter(27))>[PvP]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+37,,"<Color(PlayerParameter(35))>[CWLS1]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+38,,"",False
+39,,"",False
+40,,"",False
+41,,"<Color(PlayerParameter(36))><Highlight>StringParameter(2)</Highlight></Color>",False
+42,,"<Color(PlayerParameter(37))><Highlight>StringParameter(2)</Highlight></Color>",False
+43,,"<Color(PlayerParameter(38))><Highlight>StringParameter(2)</Highlight></Color>",False
+44,,"<Color(PlayerParameter(39))><Highlight>StringParameter(2)</Highlight></Color>",False
+45,,"<Color(PlayerParameter(40))><Highlight>StringParameter(2)</Highlight></Color>",False
+46,,"<Color(PlayerParameter(41))><Highlight>StringParameter(2)</Highlight></Color>",False
+47,,"<Color(PlayerParameter(42))><Highlight>StringParameter(2)</Highlight></Color>",False
+48,,"<Color(PlayerParameter(41))><Highlight>StringParameter(2)</Highlight></Color>",False
+49,,"<Color(PlayerParameter(42))><Highlight>StringParameter(2)</Highlight></Color>",False
+50,,"",False
+51,,"",False
+52,,"",False
+53,,"",False
+54,,"",False
+55,,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>",False
+56,,"<Color(PlayerParameter(43))><Highlight>StringParameter(2)</Highlight></Color>",False
+57,,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>",False
+58,,"<Color(PlayerParameter(57))><Highlight>StringParameter(2)</Highlight></Color>",False
+59,,"<Color(PlayerParameter(58))><Highlight>StringParameter(2)</Highlight></Color>",False
+60,,"<Color(PlayerParameter(59))><Highlight>StringParameter(2)</Highlight></Color>",False
+61,,"<Color(PlayerParameter(60))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",False
+62,,"<Color(PlayerParameter(61))><Highlight>StringParameter(2)</Highlight></Color>",False
+63,,"",False
+64,,"<Color(PlayerParameter(62))><Highlight>StringParameter(2)</Highlight></Color>",False
+65,,"<Color(PlayerParameter(63))><Highlight>StringParameter(2)</Highlight></Color>",False
+66,,"<Color(PlayerParameter(64))><Highlight>StringParameter(2)</Highlight></Color>",False
+67,,"<Color(PlayerParameter(65))><Highlight>StringParameter(2)</Highlight></Color>",False
+68,,"<Color(PlayerParameter(60))><Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",False
+69,,"<Color(PlayerParameter(33))><Highlight>StringParameter(2)</Highlight></Color>",False
+70,,"<Color(PlayerParameter(33))><Highlight>StringParameter(2)</Highlight></Color>",False
+71,,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>",False
+72,,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>",False
+73,,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>",False
+74,,"<Color(PlayerParameter(63))><Highlight>StringParameter(2)</Highlight></Color>",False
+75,,"<Color(PlayerParameter(34))><Highlight>StringParameter(2)</Highlight></Color>",False
+76,,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>",False
+77,,"<Color(PlayerParameter(28))><Highlight>StringParameter(2)</Highlight></Color>",False
+78,,"<Color(PlayerParameter(28))><Highlight>StringParameter(2)</Highlight></Color>",False
+79,,"<Color(PlayerParameter(44))><Highlight>StringParameter(2)</Highlight></Color>",False
+80,,"<Color(PlayerParameter(15))>[GM]<Highlight>StringParameter(1)</Highlight> >> <Highlight>StringParameter(2)</Highlight></Color>",True
+81,,"<Color(PlayerParameter(13))>[GM]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",True
+82,,"<Color(PlayerParameter(14))>[GM]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",True
+83,,"<Color(PlayerParameter(32))>[GM]<Highlight>StringParameter(1)</Highlight> : <Highlight>StringParameter(2)</Highlight></Color>",True
+84,,"<Color(PlayerParameter(16))>([GM]<Highlight>StringParameter(1)</Highlight>) <Highlight>StringParameter(2)</Highlight></Color>",True
+85,,"<Color(PlayerParameter(26))>[FC]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+86,,"<Color(PlayerParameter(18))>[1]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+87,,"<Color(PlayerParameter(19))>[2]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+88,,"<Color(PlayerParameter(20))>[3]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+89,,"<Color(PlayerParameter(21))>[4]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+90,,"<Color(PlayerParameter(22))>[5]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+91,,"<Color(PlayerParameter(23))>[6]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+92,,"<Color(PlayerParameter(24))>[7]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+93,,"<Color(PlayerParameter(25))>[8]<[GM]<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+94,,"<Color(PlayerParameter(29))>[BEGINNER][GM]<<Highlight>StringParameter(1)</Highlight>> : <Highlight>StringParameter(2)</Highlight></Color>",True
+95,,"",False
+96,,"",False
+97,,"",False
+98,,"",False
+99,,"",False
+100,,"",False
+101,,"<Color(PlayerParameter(84))>[CWLS2]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+102,,"<Color(PlayerParameter(85))>[CWLS3]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+103,,"<Color(PlayerParameter(86))>[CWLS4]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+104,,"<Color(PlayerParameter(87))>[CWLS5]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+105,,"<Color(PlayerParameter(88))>[CWLS6]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+106,,"<Color(PlayerParameter(89))>[CWLS7]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+107,,"<Color(PlayerParameter(90))>[CWLS8]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+108,,"",False
+109,,"",False
+110,,"",False

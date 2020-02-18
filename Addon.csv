@@ -261,6 +261,7 @@ int32,str
 236,"<If(GreaterThan(IntegerParameter(1),9999))>9999+<Else/><Value>IntegerParameter(1)</Value></If><If(GreaterThan(IntegerParameter(3),0))>/ <If(GreaterThan(IntegerParameter(2),9999))>9999+<Else/><Value>IntegerParameter(2)</Value></If><Else/></If>"
 237,""
 238,"<Clickable(StringParameter(1))/>"
+242,"Lv??"
 243,"火"
 244,"水"
 245,"雷"
@@ -393,6 +394,7 @@ int32,str
 365,"買い戻し品は10件まで保存されます。"
 366,"10件以上売却すると、古いものから消えます。"
 367,"別のエリアに移動すると、すべて削除されます。"
+368,"選択した会話モードに返信する"
 369,"UNKNOWN"
 370,"ログウィンドウを隠す"
 371,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Highlight>StringParameter(1)</Highlight>"
@@ -401,6 +403,7 @@ int32,str
 374,"キャンセル"
 376,"<UIForeground>F20205</UIForeground><UIForeground>01</UIForeground>"
 377,"<UIForeground>F20206</UIForeground><UIForeground>01</UIForeground>"
+378,"<Value>IntegerParameter(1)</Value>%"
 379,"ジョブの心得：<Sheet(ClassJob,IntegerParameter(1),0)/> "
 380,"REPURCHASE"
 381,"売却依頼アイテムの買い戻し"
@@ -523,7 +526,7 @@ int32,str
 499,"錬精度"
 500,"修理レベル"
 501,"装着可能な装備"
-502,"マテリア化可能"
+502,"マテリア精製可能"
 503,"売却不可 <If(IntegerParameter(1))><Else/>　マーケット取引不可</If>"
 504,"<If(IntegerParameter(3))><UIForeground>F2023D</UIForeground><UIGlow>F2023E</UIGlow><Emphasis><Else/></If>(<If(IntegerParameter(1))>+<Value>IntegerParameter(2)</Value><Else/><Value>IntegerParameter(2)</Value></If>)<If(IntegerParameter(3))></Emphasis><UIForeground>01</UIForeground><UIGlow>01</UIGlow><Else/></If>"
 505,"<If(IntegerParameter(3))><UIForeground>F2023D</UIForeground><UIGlow>F2023E</UIGlow><Emphasis><If(IntegerParameter(1))>+<Value>IntegerParameter(2)</Value><Else/><Value>IntegerParameter(2)</Value></If></Emphasis><UIForeground>01</UIForeground><UIGlow>01</UIGlow><Else/><If(IntegerParameter(1))>+<Value>IntegerParameter(2)</Value><Else/><Value>IntegerParameter(2)</Value></If></If>"
@@ -539,7 +542,7 @@ int32,str
 515,"<Sheet(Item,IntegerParameter(1),0)/>
 <Format(IntegerParameter(2),FF022C)/>Gil"
 516,"売却"
-517,"マテリア化不可能"
+517,"マテリア精製不可能"
 518,"修理資材"
 519,"[<Highlight>StringParameter(1)</Highlight>]　★未使用：EventItemCategoryTextへ移植"
 520,"BAG"
@@ -1191,6 +1194,7 @@ HUDレイアウト設定がすべて初期化されます。
 1141,""
 1142,"???"
 1143,"<Value>IntegerParameter(1)</Value>.<Value>IntegerParameter(2)</Value>% <If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight> "
+1144,"JOIN F.A.T.E."
 1145,"LEVEL SYNC"
 1146,"<Highlight>StringParameter(3)</Highlight>： <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 1147,"<Highlight>StringParameter(3)</Highlight>： <Value>IntegerParameter(1)</Value>"
@@ -1201,6 +1205,7 @@ HUDレイアウト設定がすべて初期化されます。
 1152,"Charge Time"
 1153,"INTERRUPTED!!"
 1154,"保留"
+1155,"パーティリスト設定"
 1160,"ALLIANCE D"
 1161,"ALLIANCE E"
 1162,"ALLIANCE F"
@@ -1213,6 +1218,7 @@ HUDレイアウト設定がすべて初期化されます。
 1171,"ヒストリーから削除する"
 1172,"ID順"
 1173,"文字列順"
+1174,"エモートを指定順に並び替えます。"
 1185,"北を示す方向を固定/解除します。"
 1186,"ロックするとアイコンは固定されて、
 移動や解除ができなくなります。"
@@ -1377,7 +1383,7 @@ HUDレイアウト設定がすべて初期化されます。
 1358,"COLOR PICKER"
 1359,"カラー選択"
 1360,"<Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch>"
-1361,"マテリア化:<If(GreaterThan(IntegerParameter(1),0))>○<Else/>×</If>　武具投影:<If(GreaterThan(IntegerParameter(2),0))>○<Else/>×</If>　<If(GreaterThan(IntegerParameter(3),0))>分解適正スキル:<Value>IntegerParameter(4)</Value>.00<Else/>分解:×</If>"
+1361,"マテリア精製:<If(GreaterThan(IntegerParameter(1),0))>○<Else/>×</If>　武具投影:<If(GreaterThan(IntegerParameter(2),0))>○<Else/>×</If>　<If(GreaterThan(IntegerParameter(3),0))>分解適正スキル:<Value>IntegerParameter(4)</Value>.00<Else/>分解:×</If>"
 1362,"？"
 1363,"???%"
 1365,"FREE COMPANY"
@@ -1436,8 +1442,8 @@ HUDレイアウト設定がすべて初期化されます。
 1419,"HQ製作不可"
 1420,"製作可能条件：作業精度<Value>IntegerParameter(1)</Value>以上"
 1421,"製作可能条件：加工精度<Value>IntegerParameter(1)</Value>以上"
-1422,"製作可能条件：<Sheet(Item,IntegerParameter(1),0)/>装備中"
-1423,"製作可能条件：<UIForeground>F20225</UIForeground><UIGlow>F20226</UIGlow><Sheet(Status,IntegerParameter(1),0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>付与中"
+1422,"必須装備：<Sheet(Item,IntegerParameter(1),0)/>"
+1423,"必須バフ：<UIForeground>F20225</UIForeground><UIGlow>F20226</UIGlow><Sheet(Status,IntegerParameter(1),0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 1424,"収集品製作可"
 1425,"HQ製作不可 / 収集品製作可"
 1426,"簡易製作可能条件：作業精度<Value>IntegerParameter(1)</Value>以上"
@@ -2328,6 +2334,7 @@ HUDレイアウト設定がすべて初期化されます。
 よろしいですか？"
 2304,"ディープダンジョン"
 2305,"禁断の地 エウレカ"
+2306,"採集活動"
 2310,"<Highlight>StringParameter(1)</Highlight>　　[契約切れ]"
 2311,"  <Value>IntegerParameter(1)</Value>～<Value>IntegerParameter(2)</Value>"
 2312,"依頼するベンチャーのレベル帯を選んでください"
@@ -3047,12 +3054,12 @@ CLASS :"
 3068,"REPLAY HELP"
 3069,"リプレイヘルプ"
 3070,"<Value>IntegerParameter(1)</Value>/2"
-3071,"・<Sheet(ContentFinderCondition,295,34)/>"
+3071,"・<Sheet(ContentFinderCondition,295,35)/>"
 3072,"<UIForeground>F20202</UIForeground>コンテンツリプレイ対象コンテンツ<UIForeground>01</UIForeground>"
-3073,"・<Sheet(ContentFinderCondition,IntegerParameter(1),34)/>"
+3073,"・<Sheet(ContentFinderCondition,IntegerParameter(1),35)/>"
 3074,"現在は対象コンテンツがありません。"
 3075,"・未開放コンテンツ"
-3079,"[<Value>IntegerParameter(1)</Value>] <ZeroPaddedValue(2)>IntegerParameter(2)</ZeroPaddedValue>:<ZeroPaddedValue(2)>IntegerParameter(3)</ZeroPaddedValue>:<ZeroPaddedValue(2)>IntegerParameter(4)</ZeroPaddedValue> <If(GreaterThan(IntegerParameter(5),0))><Switch(IntegerParameter(5))><Case(1)>リスタート</Case><Case(2)>バトルイベント</Case></Switch><Else/>戦闘開始カウント</If>"
+3079,"[<Value>IntegerParameter(1)</Value>] <ZeroPaddedValue(2)>IntegerParameter(2)</ZeroPaddedValue>:<ZeroPaddedValue(2)>IntegerParameter(3)</ZeroPaddedValue>:<ZeroPaddedValue(2)>IntegerParameter(4)</ZeroPaddedValue> <If(GreaterThan(IntegerParameter(5),0))><Switch(IntegerParameter(5))><Case(1)>スタート／リスタート</Case><Case(2)>バトルイベント</Case></Switch><Else/>戦闘開始カウント</If>"
 3080,"Chapter Select"
 3081,"再生
 【<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>】キー／ <CommandIcon(11)/>ボタン"
@@ -3082,6 +3089,9 @@ CLASS :"
 3101,"再生速度：4倍速
 【<If(Equal(PlayerParameter(78),3))>num9<Else/>Num9</If>】キー／ <CommandIcon(13)/>ボタン"
 3102,"Caution"
+3104,"リプレイレディチェックを開始します。
+全員が「はい」を押した時点から記録を開始し、設定された時間で戦闘開始カウントが実行されます。
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※2回目以降は記録に対する確認は含まれず、レディチェックと戦闘開始カウントが実行されます。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 3105,"リプレイレディチェックを開始します。
 メンバー全員が「はい」を押した時点から記録を開始し、
 設定された時間で戦闘開始カウントが実行されます。
@@ -3475,7 +3485,7 @@ CLASS :"
 3564,"マクロへ挿入する"
 3565,"テキストコマンドをコピーする"
 3566,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>マクロ管理へ <CommandIcon(24)/>詳細のスクロール"
-3567,"<Highlight>StringParameter(1)</Highlight>のダイス！(0～999) ⇒ <Value>IntegerParameter(2)</Value>"
+3567,"<Gui(54)/>ダイス！ <Gui(73)/><Value>IntegerParameter(1)</Value><Gui(55)/>"
 3571,"相手に渡すアイテムを選択"
 3572,"相手に渡すアイテムを選択"
 3573,"リテイナーに渡すアイテムを選択"
@@ -3687,6 +3697,7 @@ CLASS :"
 3850,"BAIT & TACKLE"
 3851,"釣り餌"
 3855,"<Highlight>StringParameter(1)</Highlight><If(GreaterThan(IntegerParameter(2),1))>×<Value>IntegerParameter(2)</Value><Else/></If>"
+3856,"<Switch(IntegerParameter(1))><Case(1)>★</Case><Case(2)>★★</Case><Case(3)>★★★</Case><Case(4)>★★★★</Case><Case(5)>★★★★★</Case></Switch>"
 3860,"収集価値"
 3861,"精選に必要なレベルを満たしていません。"
 3862,"<Sheet(ClassJob,IntegerParameter(1),0)/> Lv<Value>IntegerParameter(2)</Value>"
@@ -4137,7 +4148,7 @@ CLASS :"
 4398,"PvPチーム"
 4399,"PvPチームアナウンス"
 4400,"MATERIA CREATION"
-4401,"マテリア化"
+4401,"マテリア精製"
 4402,"EQUIPMENT SELECT"
 4403,"所持品"
 4404,"アーマリーチェスト"
@@ -4145,14 +4156,14 @@ CLASS :"
 4406,"ITEM LEVEL"
 4407,"錬精度"
 4408,"<Value>IntegerParameter(1)</Value>%"
-4409,"マテリア化可能な装備品がありません"
-4410,"錬精度100%未満の装備品はマテリア化できません。"
-4413,"EX/RARE属性アイテムをマテリア化"
-4414,"マテリア装着アイテムをマテリア化"
-4415,"このアイテムをマテリア化しますか？マテリア化すると、この装備品は消えて、新たに生成されたマテリアを入手します。"
+4409,"マテリア精製可能な装備品がありません"
+4410,"錬精度100%未満の装備品はマテリア精製できません。"
+4413,"EX/RARE属性アイテムからマテリア精製"
+4414,"マテリア装着アイテムからマテリア精製"
+4415,"このアイテムのマテリア精製をしますか？マテリア精製をすると、新たなマテリアを入手し、アイテムの錬精度が1%に戻ります。"
 4416,"はい"
 4417,"いいえ"
-4418,"<Sheet(Item,IntegerParameter(1),0)/>は現在装備中です。本当にマテリア化してもよろしいですか？"
+4418,"<Sheet(Item,IntegerParameter(1),0)/>は現在装備中です。本当にマテリア精製してもよろしいですか？"
 4420,"MATERIA MELDING"
 4421,"マテリア装着"
 4422,"Equipment"
@@ -4169,7 +4180,7 @@ CLASS :"
 4433,"マテリア装着可能な装備品を所持してません"
 4434,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>マテリア装着に失敗しました。
 同一の素材を使用してマテリア装着を実行しますか？<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-4435,"マテリア化"
+4435,"マテリア精製"
 4436,"マテリア装着"
 4437,"マテリア装着依頼"
 4438,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>依頼したマテリア装着に失敗しました。
@@ -4191,7 +4202,7 @@ CLASS :"
 4452,"必要な触媒を所持していないため、装着できません。"
 4453,"成功率が0%のためマテリア装着を実行できません。"
 4454,"このマテリアの装着に必要なレベルを満たしていません。
-装着可能レベル : <Sheet(ClassJob,IntegerParameter(2),0)/> Lv<Value>IntegerParameter(1)</Value>～"
+装着可能レベル : クラフター Lv<Value>IntegerParameter(1)</Value>～"
 4455,"マテリア穴の数以上のマテリアを装着できません。"
 4456,"必要な触媒を所持していないため、上位の触媒が消費されます。"
 4457,"マテリア装着"
@@ -4730,7 +4741,7 @@ Rank <Value>IntegerParameter(1)</Value>"
 4983,"キャンセル"
 4984,"Company Slogan"
 4985,"なし"
-4986,"<Sheet(Stain,IntegerParameter(1),2)/>"
+4986,"<Sheet(Stain,IntegerParameter(1),3)/>"
 4987,"Current Color"
 4988,"Favorite Feed"
 4989,"<Sheet(Item,IntegerParameter(1),0)/>"
@@ -5338,6 +5349,8 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 5570,"<If(GreaterThan(IntegerParameter(1),0))>+<Else/></If><Value>IntegerParameter(1)</Value>"
 5571,"<Value>IntegerParameter(1)</Value>"
 5572,"/"
+5573,"マテリアの装着上限に達している装備品も表示する"
+5574,"スタック数：<If(GreaterThan(IntegerParameter(1),999))>999+<Else/><Value>IntegerParameter(1)</Value></If>"
 5580,"シーズナル装備（その2）"
 5581,"シーズナル装備（その3）"
 5582,"シーズナル装備（その4）"
@@ -5563,6 +5576,9 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 5822,"自身で付与したバフを優先表示する"
 5823,"他者が付与したバフをグループ3に表示する"
 5824,"透過度設定"
+5860,"スタック数"
+5861,"スタック数：<Value>IntegerParameter(1)</Value>"
+5862,"続けて分解"
 5880,"<If(Equal(PlayerParameter(80),0))>右ドラッグ：カメラ操作
 <If(Equal(IntegerParameter(2),0))><Else/>ホイール/前進・後退：ズーム操作
 </If>左クリック：<Sheet(Snipe,IntegerParameter(1),104)/><Else/><CommandIcon(23)/>スティック：カメラ操作
@@ -5613,16 +5629,18 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 5925,"シーンスキップ
 キーボード：【<If(Equal(PlayerParameter(78),3))>tab<Else/>Tab</If>】キー
 <If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>：<CommandIcon(6)/>方向キー左右"
-5926,"構図調整のリセット
+5926,"カメラリセット
 キーボード：【Z】キー
 <If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>：<Gui(16)/>ボタン
-※構図の調整操作
+
+カメラの操作
 キーボード：【Q,W,E,A,S,D】キー
 <If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>：<CommandIcon(20)/>スティック"
-5927,"構図調整のリセット
+5927,"カメラリセット
 キーボード：【Z】キー
 <If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>：<Gui(16)/>ボタン
-※構図の調整操作
+
+カメラの操作
 キーボード：【W,A,S,D】キー
 <If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>：<CommandIcon(20)/>スティック"
 5928,"構図調整のリセット
@@ -5661,7 +5679,11 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 5952,"スイッチング機能を有効にする"
 5953,"スイッチング機能"
 5954,"全般設定"
-5955,"エフェクト表現"
+5955,"フレーム表現設定"
+5956,"ガイドの表示切り替え"
+5957,"◆：カメラ設定の影響を受けないフレーム
+★：カメラ設定の影響を受けるフレーム
+"
 5958,"エモートの再生"
 5959,"※自分／冒険者小隊員のみ適用可能"
 5960,"カラーフィルター"
@@ -5765,6 +5787,33 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 6062,"方向キー"
 6063,"左スティック"
 6064,"右スティック"
+6070,"SAVE"
+6071,"カメラの保存"
+6072,"現在のカメラ設定を保存します"
+6073,"カメラ設定を保存"
+6074,"ライトの保存"
+6075,"現在のライト設定を保存します"
+6076,"ライト設定を保存"
+6077,"設定の保存タイプ"
+6078,"カメラ"
+6079,"ライト"
+6080,"キャラクター追従"
+6081,"位置固定"
+6082,"保存対象：
+・カメラの位置／ズーム値／画角／ロール角"
+6083,"保存対象：
+・ライト1-3の位置／タイプ／色情報
+・キャラクターのライティング設定
+・明るさのマニュアル設定"
+6084,"キャラクター追従：
+「キャラクターの向き」を基準に設定を保存します。
+復元時は、現在の向きに対して設定を復元します。"
+6085,"位置固定：
+「配置した位置」を基準に設定を保存します。
+復元時は、キャラクターがどこを向いていても位置情報は変更されません。"
+6086,"カメラ／ライトの設定を保存する際、
+「キャラクターの向き」を基準に保存するか、
+「配置した位置」を基準に保存するかを選択できます。"
 6088,"クライアント共通設定 復元データ<Value>IntegerParameter(1)</Value>"
 6089,"作成日時
 <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>:<TwoDigitValue>TopLevelParameter(216)</TwoDigitValue>"
@@ -5840,6 +5889,19 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 
 なお、「ご意見ご要望の報告」に対して、
 個別の回答は差し上げておりません。ご了承ください。"
+6140,"LOAD"
+6141,"カメラの復元"
+6142,"保存したカメラの設定を復元します"
+6143,"カメラ設定を復元"
+6144,"ライトの復元"
+6145,"保存したライトの設定を復元します"
+6146,"ライト設定を復元"
+6147,"復元対象：
+・カメラの位置／ズーム値／画角／ロール角"
+6148,"復元対象：
+・ライト1-3の位置／タイプ／色情報
+・キャラクターのライティング設定
+・明るさのマニュアル設定"
 6150,"ゲームマスターに問い合わせをしています。
 応答に時間がかかる場合があるため、しばらく待っても反応がない場合には、一度ログアウトして時間をおいてから再度ログインしてください。"
 6151,"ボタン押しでスクロール再開"
@@ -6255,7 +6317,7 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 よろしいですか？"
 6523,"経験値が上限に達しているため、訓練を行っても経験値は得られません。
 よろしいですか？"
-6524,"<Sheet(Item,IntegerParameter(1),0)/>を使用して、<Sheet(Stain,36,2)/>に戻します。
+6524,"<Sheet(Item,IntegerParameter(1),0)/>を使用して、<Sheet(Stain,36,3)/>に戻します。
 よろしいですか？"
 6525,"MY CHOCOBO"
 6526,"マイチョコボ"
@@ -6870,6 +6932,34 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 7027,"未選択"
 7028,"配置物を選択する"
 7029,"----"
+7030,"FISH PRINT SETTING"
+7031,"魚拓設定"
+7032,"<If(GreaterThan(IntegerParameter(2),0))>収集価値<Value>IntegerParameter(2)</Value>の
+<Else/></If><Sheet(Item,IntegerParameter(1),0)/>を
+使用します。よろしいですか？<If(GreaterThan(IntegerParameter(2),0))>
+※収集価値の低いものから優先的に使用します。<Else/></If>
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※HQ/収集品アイテムはNQアイテムになります。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+"
+7033,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>現在、設定されているアイテムと同じです。
+
+<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThan(IntegerParameter(2),0))>収集価値<Value>IntegerParameter(2)</Value>の
+<Else/></If><Sheet(Item,IntegerParameter(1),0)/>を
+それでも使用しますか？<If(GreaterThan(IntegerParameter(2),0))>
+※収集価値の低いものから優先的に使用します。<Else/></If>
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※HQ/収集品アイテムはNQアイテムになります。
+※以下のアイテムが消滅します。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7034,"<If(GreaterThan(IntegerParameter(2),0))>収集価値<Value>IntegerParameter(2)</Value>の
+<Else/></If><Sheet(Item,IntegerParameter(1),0)/>を
+使用します。よろしいですか？<If(GreaterThan(IntegerParameter(2),0))>
+※収集価値の低いものから優先的に使用します。<Else/></If>
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※HQ/収集品アイテムはNQアイテムになります。
+※以下のアイテムが消滅します。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7035,"選択可能なアイテム"
+7036,"現在のアイテム"
+7037,"使用可能なアイテムがありません。"
 7050,"PLAYLIST"
 7051,"オーケストリオン プレイリスト"
 7053,"曲順再生"
@@ -6947,8 +7037,20 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 7116,"再生中の楽曲はありません。"
 7117,"入手済みの楽曲はありません。"
 7118,"<If(Equal(IntegerParameter(1),65535))>―<Else/><ZeroPaddedValue(3)>IntegerParameter(1)</ZeroPaddedValue></If>"
+7130,"スロット更新"
 7131,"FIELD MARKER"
 7132,"フィールドマーカー"
+7133,"SAVE LIST"
+7134,"<Value>IntegerParameter(1)</Value>. <Highlight>StringParameter(2)</Highlight>"
+7135,"<Value>IntegerParameter(1)</Value>. <Highlight>StringParameter(2)</Highlight>
+ <If(Equal(IntegerParameter(3),0))><Time(IntegerParameter(4))/><Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue><Else/><Time(IntegerParameter(4))/><If(LessThan(TopLevelParameter(218), 12))><Value>TopLevelParameter(218)</Value><Else/><Value>TopLevelParameter(218)</Value></If>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue></If> [<Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value>]"
+7136,"設置されているマーカー情報を保存します。"
+7137,"フィールドマーカーは非戦闘中のみ操作できます。
+※PvPコンテンツのみ戦闘中にも利用可能。
+マーカー情報の保存・復元機能は
+一部のバトルコンテンツのみ利用できます。"
+7138,"スロットを上書きして保存する"
+7139,"スロットを削除する"
 7141,"スタート"
 7142,"リトライ"
 7143,"閉じる"
@@ -7216,6 +7318,8 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 7735,"フロントライン：黒渦団"
 7736,"フロントライン：双蛇党"
 7737,"フロントライン：不滅隊"
+7738,"全般設定"
+7739,"ネームプレートの表示サイズ"
 7740,"表示"
 7741,"共有"
 7742,"XHB基本"
@@ -7352,7 +7456,7 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 7874,"スタック数"
 7875,"せいとん処理の設定"
 7876,"先頭から詰めてせいとんする"
-7877,"タブ別に振り分けてせいとんする"
+7877,"ブロック別に振り分けてせいとんする"
 7878,"スティックでの左右操作を反転する"
 7879,"スティックでの上下操作を反転する"
 7880,"自分が与えたデバフ情報のみ表示する"
@@ -7489,6 +7593,9 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 8048,"無効"
 8049,"昇順"
 8050,"降順"
+8051,"最大"
+8052,"大きめ"
+8053,"標準"
 8055,"最大"
 8056,"大きめ"
 8057,"標準"
@@ -7786,7 +7893,7 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 8337,"リーヴ"
 8338,"<Sheet(ObjStr,IntegerParameter(1),0)/>を<Value>IntegerParameter(2)</Value>体討伐する"
 8339,"「<Sheet(PlaceName,IntegerParameter(2),0)/>」の<Sheet(ObjStr,IntegerParameter(1),0)/>を討伐する"
-8340,"F.A.T.E.「<Sheet(Fate,IntegerParameter(1),26)/>」を達成する"
+8340,"F.A.T.E.「<Sheet(Fate,IntegerParameter(1),29)/>」を達成する"
 8341,"ギルドリーヴ「<Sheet(Leve,IntegerParameter(1),0)/>」をコンプリートする"
 8342,"<Sheet(PlaceName,IntegerParameter(1),0)/><If(IntegerParameter(2))> <Sheet(PlaceName,IntegerParameter(2),0)/><Else/></If>"
 8343,"ATMA ACQUISITION"
@@ -7814,7 +7921,7 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 8361,"Grade"
 8362,"グレード：<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value><Else/>?</If>"
 8363,"アビリティ：<If(GreaterThan(IntegerParameter(1),0))><Sheet(ChocoboRaceAbility,IntegerParameter(1),0)/><Else/><If(Equal(IntegerParameter(1),0))>なし<Else/>?</If></If>"
-8364,"カラー：<If(GreaterThan(IntegerParameter(1),0))><Sheet(Stain,IntegerParameter(1),2)/><Else/>?</If>"
+8364,"カラー：<If(GreaterThan(IntegerParameter(1),0))><Sheet(Stain,IntegerParameter(1),3)/><Else/>?</If>"
 8365,"交配可能回数：<If(LessThan(IntegerParameter(1),0))>?<Else/><Value>IntegerParameter(1)</Value></If>"
 8366,"Pedigree"
 8367,"<UIForeground>F20211</UIForeground>♂<UIForeground>01</UIForeground><If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20212</UIForeground><Switch(IntegerParameter(1))><Case(1)>★★★</Case><Case(2)>★★</Case><Case(3)>★</Case><Case(4)></Case></Switch><UIForeground>01</UIForeground><UIForeground>F20211</UIForeground><Switch(IntegerParameter(1))><Case(1)>★</Case><Case(2)>★★</Case><Case(3)>★★★</Case><Case(4)>★★★★</Case></Switch><UIForeground>01</UIForeground><Else/><UIForeground>F20211</UIForeground>????<UIForeground>01</UIForeground></If>　<UIForeground>F20213</UIForeground>♀<UIForeground>01</UIForeground><If(GreaterThan(IntegerParameter(2),0))><UIForeground>F20214</UIForeground><Switch(IntegerParameter(2))><Case(1)>★★★</Case><Case(2)>★★</Case><Case(3)>★</Case><Case(4)></Case></Switch><UIForeground>01</UIForeground><UIForeground>F20213</UIForeground><Switch(IntegerParameter(2))><Case(1)>★</Case><Case(2)>★★</Case><Case(3)>★★★</Case><Case(4)>★★★★</Case></Switch><UIForeground>01</UIForeground><Else/><UIForeground>F20213</UIForeground>????<UIForeground>01</UIForeground></If>"
@@ -8097,6 +8204,17 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 8480,"すべて"
 8481,"ゴールドソーサー内の限定イベント「G.A.T.E.」に
 「一閃！ 斬魔・デ・三昧」が追加されました。
+ふるってご参加ください！
+
+なお、この追加にともない、
+「G.A.T.E.」の開催スケジュールが変更されています。
+
+より詳細な情報は、
+「エントランススクウェア」のメインカウンターにいる、
+「お客様案内窓口」にてご確認ください。"
+8482,"ゴールドソーサー内の限定イベント「G.A.T.E.」の
+「挑戦！ ジャンピングアスレチック」に、
+新しいステージが追加されました。
 ふるってご参加ください！
 
 なお、この追加にともない、
@@ -8416,7 +8534,7 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 8909,"達成済み"
 8910,"未達成"
 8912,"活動評価"
-8913,"<Color(-1)><Unknown14>FEFF8E6A0C</Unknown14><Highlight>StringParameter(2)</Highlight><Unknown14>EC</Unknown14></Color><If(Equal(IntegerParameter(1),60721))><Gui(89)/><Else/></If><If(Equal(IntegerParameter(1),60722))><Gui(90)/><Else/></If><If(Equal(IntegerParameter(1),60723))><Gui(91)/><Else/></If><If(Equal(IntegerParameter(1),60724))><Gui(92)/><Else/></If><If(Equal(IntegerParameter(1),60725))><Gui(93)/><Else/></If><If(Equal(IntegerParameter(1),60726))><Gui(94)/><Else/></If><If(Equal(IntegerParameter(1),60852))><Gui(102)/><Else/></If>"
+8913,"<Color(-1)><Unknown14>FEFF8E6A0C</Unknown14><Highlight>StringParameter(2)</Highlight><Unknown14>EC</Unknown14></Color><If(Equal(IntegerParameter(1),60721))><Gui(89)/><Else/></If><If(Equal(IntegerParameter(1),60722))><Gui(90)/><Else/></If><If(Equal(IntegerParameter(1),60723))><Gui(91)/><Else/></If><If(Equal(IntegerParameter(1),60724))><Gui(92)/><Else/></If><If(Equal(IntegerParameter(1),60725))><Gui(93)/><Else/></If><If(Equal(IntegerParameter(1),60726))><Gui(94)/><Else/></If><If(Equal(IntegerParameter(1),60852))><Gui(102)/><Else/></If><If(Equal(IntegerParameter(1),60858))><Gui(111)/><Else/></If>"
 8914,"探索任務詳細"
 8915,"閉じる"
 8916,"<Highlight>StringParameter(1)</Highlight>
@@ -9377,6 +9495,7 @@ PvPコンテンツにはPvP専用のバトルシステムが用意されてお�
 よろしいですか？"
 10113,"宝箱"
 10114,"<CommandIcon(10)/>サブコマンド"
+10119,"SETTINGS"
 10120,"強制開始まで"
 10121,"制限時間以内に木人を倒せ！"
 10122,"Stone, Sky, Sea"
@@ -10127,7 +10246,7 @@ DPS内のジョブは、[近接][遠隔物理][遠隔魔法][指定なし]
 10807,"対戦可能回数"
 10808,"大会エントリー"
 10809,"大会対戦受付期間"
-10810,"<Sheet(ContentFinderCondition,IntegerParameter(1),34)/>"
+10810,"<Sheet(ContentFinderCondition,IntegerParameter(1),35)/>"
 10811,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※マッチング条件の「コンプリート済み」は該当コンテンツを過去に一度でもコンプリートしたことがある場合のみ選択可能。 
 ※練習フェーズの指定は実際にフェーズをスキップするものではありません。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10812,"複数コンテンツ選択不可"
@@ -10288,7 +10407,7 @@ DPS内のジョブは、[近接][遠隔物理][遠隔魔法][指定なし]
 10936,"人数制限解除"
 10937,"下限アイテムレベルでの参加"
 10938,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ここで設定したコンテンツファインダー設定はパーティ募集表示用です。
-実際の設定はコンテンツファインダーウィンドウで行ってください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+実際の設定はコンテンツファインダーで行ってください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10939,"「コンプリート済み」を指定すると該当コンテンツをコンプリート済みのキャラクターのみが、「未コンプリート」を指定すると該当コンテンツをコンプリートしていないキャラクターのみが募集に参加可能になります。"
 10940,"CONTACT LIST "
 10941,"コンタクトリスト"
@@ -10431,7 +10550,7 @@ DPS内のジョブは、[近接][遠隔物理][遠隔魔法][指定なし]
 11062,"GREED限定"
 11063,"マスタールート"
 11064,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ここで設定したロットルールはパーティ募集表示用です。
-実際の設定はコンテンツファインダーもしくは飛空艇探索ウィンドウで行ってください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+実際の設定はコンテンツファインダーで行ってください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 11065,"募集言語設定"
 11066,"内容をリセットする"
 11067,"募集内容をリセットします。
@@ -11881,7 +12000,7 @@ PvPチームの結成に同意しますか？"
 12490,"LEVEL <Value>IntegerParameter(1)</Value>"
 12491,"STAGE RESULT"
 12492,"STAGE"
-12493,"<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>. <Sheet(ContentFinderCondition,IntegerParameter(2),34)/>"
+12493,"<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>. <Sheet(ContentFinderCondition,IntegerParameter(2),35)/>"
 12494,"CLEAR TIME"
 12495,"<Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
 12496,"BONUS"
@@ -12052,13 +12171,19 @@ PvPチームの結成に同意しますか？"
 12638,"<Switch(IntegerParameter(1))><Case(1)>モブ手配書</Case><Case(2)>リスキーモブ手配書</Case></Switch>（<Highlight>StringParameter(2)</Highlight>）"
 12670,"レベル"
 12671,"スペシャル"
-12672,"発生時間（エオルゼア時間）"
-12673,"<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>～<TwoDigitValue>IntegerParameter(3)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(4)</TwoDigitValue>"
+12672,"<Switch(IntegerParameter(1))><Case(1)>未知の採集場所</Case><Case(2)>伝説の採集場所</Case><Case(3)>刻限の採集場所</Case></Switch>
+・発生時間（エオルゼア時間）"
+12673,"　<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>～<TwoDigitValue>IntegerParameter(3)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(4)</TwoDigitValue>"
 12674,"最も近い時間をアラームに追加する"
 12675,"伝承録を入手していません。"
 12676,"選択したアイテムを簡易採集する"
 12677,"<Value>IntegerParameter(1)</Value>+?"
 12678,"QUICK GATHERING"
+12679,"採集を中止しますか？
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※この採集場所は消えてしまいます。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12680,"本当に中止する"
+12681,"幻の採集場所
+・発生条件：天候"
 12691,"超える力無効での参加"
 12692,"コンテンツに設定された「超える力」が得られなくなります。
 
@@ -12151,7 +12276,8 @@ PvPチームの結成に同意しますか？"
 12736,"閉じる"
 12737,"この色で表示されます。"
 12738,"ログの表示先がありませんが、この設定でよろしいですか？"
-12750,"RESTORATION OF ISHGARD"
+12739,"チャンネルログ設定"
+12750,"ISHGARDIAN RESTORATION"
 12751,"イシュガルド復興"
 12752,"アイテム名"
 12753,"必要収集価値"
@@ -12163,8 +12289,9 @@ PvPチームの結成に同意しますか？"
 12759,"REWARD"
 12760,"必要収集価値"
 12761,"<Value>IntegerParameter(1)</Value>～<If(Equal(IntegerParameter(2),0))><Else/><Value>IntegerParameter(2)</Value></If>"
-12762,"<Sheet(Item,IntegerParameter(1),0)/>の所持数が上限に達するため、すべての<Sheet(Item,IntegerParameter(1),0)/>は受け取れません。
-よろしいですか？"
+12762,"<If(GreaterThan(IntegerParameter(2),0))>クポフォーチュン引換券の所持数が上限に達しているため、このアイテムを納品してもスタンプを押せません。
+<Else/></If><If(GreaterThan(IntegerParameter(1),0))><Sheet(Item,IntegerParameter(1),0)/>の所持数が上限に達するため、すべての<Sheet(Item,IntegerParameter(1),0)/>は受け取れません。
+<Else/></If>よろしいですか？"
 12763,"Total"
 12790,"COLLECTION"
 12791,"だいじなもの"
@@ -12529,6 +12656,11 @@ PvPチームの結成に同意しますか？"
 ※青魔道士ログとして攻略するには、制限解除をせずに規定人数すべてを青魔道士で構成したパーティで参加してください。"
 13134,"パーティ募集を検索"
 13135,"パーティ募集あり"
+13138,"GROUP POSE"
+13139,"グループポーズとは、自分やパーティ・フレンドを
+自由に撮影できるフォトモードです。
+直前のエモート・アクションの動作を繰り返します。
+お気に入りのポーズで記念撮影をしてみましょう！"
 13140,"キャラクターの表示設定"
 13141,"操作対象キャラクター"
 13142,"操作対象外キャラクター"
@@ -12547,6 +12679,7 @@ PvPチームの結成に同意しますか？"
 13155,"敵（一部のNPCを含む）"
 13156,"キャラクターのライティング"
 13157,"明るさのマニュアル調整を有効にする"
+13158,""
 13159,"カスタム"
 13160,"すべて表示"
 13161,"すべて非表示"
@@ -12558,6 +12691,36 @@ PvPチームの結成に同意しますか？"
 13167,"バディ／ペット／ミニオンのみ表示"
 13168,"NPCのみ表示"
 13169,"敵のみ表示"
+13170,"設定メニューの表示／非表示"
+13171,"カメラ：チルト操作"
+13172,"カメラ：パン操作"
+13173,"カメラ：ロール操作"
+13174,"カメラリセット"
+13175,"モーションストップ：全体"
+13176,"モーションストップ：選択対象"
+13177,"カメラ方向への視線送り"
+13178,"注視キャラクターの切り替え"
+13179,"ライト1の配置"
+13180,"<CommandIcon(10)/>"
+13181,"<CommandIcon(21)/>"
+13182,"<CommandIcon(22)/>"
+13183,"-"
+13184,"<Gui(16)/>"
+13185,"<CommandIcon(14)/>"
+13186,"<CommandIcon(15)/>"
+13187,"<CommandIcon(11)/>"
+13188,"<CommandIcon(6)/>"
+13189,"<CommandIcon(13)/>"
+13190,"標準割り当て：オートラン／サブコマンド"
+13191,"標準割り当て：前進／後退"
+13192,"標準割り当て：左右ターン"
+13193,"標準割り当て：左右ストライフ移動"
+13194,"標準割り当て：武器の納刀／抜刀"
+13195,"標準割り当て：ホットバー1：スロット1"
+13196,"標準割り当て：ホットバー1：スロット2"
+13197,"標準割り当て：ジャンプ"
+13198,"標準割り当て：一番近い敵から順にターゲット：順送り"
+13199,"標準割り当て：ターゲットフィルター"
 13200,"SKYBUILDERS‘ BOARD"
 13201,"復興事業掲示板"
 13203,"第<Value>IntegerParameter(1)</Value>報"
@@ -12590,6 +12753,28 @@ PvPチームの結成に同意しますか？"
 13314,"グループ絞込"
 13315,"表示設定"
 13316,"所属しているフェローシップを検索結果に含めない"
+13317,"フェローシップ通知"
+13318,"ログイン時に新着がある場合は通知する"
+13319,"Main"
+13320,"Sub"
+13321,"募集者のホームワールド設定"
+13322,"強調表示設定を開きます。"
+13323,"設定言語"
+13324,"HIGHLIGHT FELLOWSHIP"
+13325,"項目強調表示設定"
+13326,"以下の項目で設定した内容が含まれた募集を強調表示します。
+半角もしくは全角スペースのみの文字列は強調表示の対象になりません。"
+13327,"フェローシップ名、コメント設定"
+13328,"募集者名"
+13329,"所属人数設定"
+13330,"Min"
+13331,"Max"
+13332,"条件をリセット"
+13333,"設定した条件をリセットします。
+よろしいですか？"
+13334,"適用"
+13335,"キャンセル"
+13336,"所属している人数を指定する"
 13350,"つよくてニューゲーム"
 13351,"NEW GAME+ MODE"
 13352,"NEW GAME+"
@@ -12636,6 +12821,71 @@ PvPチームの結成に同意しますか？"
 品質の上昇量が通常から半減している状態。"
 13409,"MATERIAL"
 13410,"CRYSTAL"
+13414,"効率予測を表示"
+13415,"EFFICIENCY CALCULATIONS"
+13416,"効率予測"
+13417,"お気に入り"
+13418,"作業アクション"
+13419,"加工アクション"
+13420,"まだ修得していないアクションです。"
+13421,"現在の状態では使用できません。"
+13422,"CPが不足しているため使用できません。"
+13423,"作業アクション効率：<Value>IntegerParameter(1)</Value> → 工数：<Value>IntegerParameter(2)</Value>進む"
+13424,"加工アクション効率：<Value>IntegerParameter(1)</Value> → 品質：<Value>IntegerParameter(2)</Value>上昇"
+13425,"お気に入りに登録する"
+13426,"お気に入りを解除する"
+13427,"ひとつ上の項目と入れ替える"
+13428,"ひとつ下の項目と入れ替える"
+13429,"不足素材のみ表示する"
+13430,"不足している素材はありません。"
+13481,"<Sheet(Item,IntegerParameter(1),0)/>の所持数が上限に達するため、すべての<Sheet(Item,IntegerParameter(1),0)/>は受け取れません。
+よろしいですか？"
+13484,"ランキング集計期間外"
+13485,""
+13486,""
+13600,"まだ魚を釣っていません。"
+13601,"pts."
+13602,"SAILING SCHEDULE"
+13603,"エンデバー号運行表"
+13604,""
+13605,"受付開始時刻[LT]"
+13606,"行き先"
+13607,"時間帯"
+13608,"<Time(IntegerParameter(1))/><Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Time(IntegerParameter(1))/><If(Equal(IntegerParameter(2),0))><Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> <Else/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>p.m.<Else/>a.m.</If> </If>"
+13609,"出航時間をアラームに追加する"
+13610,"<Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
+13611,"PROSPECTIVE CATCH"
+13612,"釣果一覧"
+13613,"釣れた魚"
+13614,"？？？"
+13615,"釣り場１"
+13616,"釣り場２"
+13617,"釣り場３"
+13618,"釣った魚類のみ表示"
+13619,"NQ"
+13620,"HQ"
+13621,"釣果がありません。"
+13623,"RESULTS"
+13624,"個人釣果"
+13625,"全体釣果"
+13626,"個人釣果"
+13627,"全体釣果"
+13628,"NQ"
+13629,"HQ"
+13630,"釣果点"
+13631,"BONUS"
+13632,"+<Value>IntegerParameter(1)</Value>%"
+13633,"プレイヤー"
+13634,"ワールド"
+13635,"釣果数"
+13636,"合計釣果点"
+13637,"退出"
+13638,"コンテンツ退出まで <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
+13639,"釣果はありません"
+13640,"ボーナスを獲得できませんでした"
+13641,"釣れた魚"
+13642,"SCORE"
+13643,"TOTAL SCORE"
 101000,"<CommandIcon(10)/>サブコマンド"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/>選択"
@@ -13054,7 +13304,7 @@ PvPチームの結成に同意しますか？"
 102442,"DAILY QUEST"
 102443,"デイリークエスト"
 102444,"本日の残り受注権：<Value>IntegerParameter(1)</Value>"
-102445,"『<Sheet(Fate,IntegerParameter(1),26)/>』を開始しますか？"
+102445,"『<Sheet(Fate,IntegerParameter(1),29)/>』を開始しますか？"
 102446,"話を聞く"
 102450,"PvP PROFILE"
 102451,"PvPプロフィール"
@@ -13191,10 +13441,13 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102608,"アイテムレベルシンクが適用されるコンテンツです。アイテムレベルシンク中は、すべての装備品の性能がアイテムレベルシンク以下になるように調整されます。"
 102609,"現在、自由なロール構成で参加できるコンテンツです。"
 102610,"保留"
-102611,"1日に3回以上「辞退」ボタン押下、もしくは時間切れによる参加申請辞退を行うと、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>一定時間コンテンツファインダーおよびレイドファインダーでの参加申請ができなくなります。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※規定人数または人数制限解除パーティでの参加辞退は
-　ペナルティのカウント対象にはなりません。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-よろしいですか？"
+102611,"マッチング後に辞退ボタンの押下、もしくは時間切れに
+よる辞退を行うと、ペナルティがカウントされます。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1日にペナルティが3回以上カウントされた場合、
+一定時間コンテンツへの参加申請ができなくなります。
+
+<UIGlow>01</UIGlow><UIForeground>01</UIForeground>よろしいですか？"
 102612,"バディを呼び出すとコンテンツファインダーの参加申請が取り消されます。
 よろしいですか？"
 102613,"コンテンツ参加確認"

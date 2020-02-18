@@ -62,7 +62,10 @@ int32,str,str
 31,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE","ドマ町人地の「都市内エーテライト」をすべて開放しました！
 ボーナスとして「無二江流域（ヤンサ方面）」への転送も、
 可能になりました！"
-32,"TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM","クリスタリウムの「都市内エーテライト」をすべて開放しました！
+32,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP","ドマ町人地の「都市内エーテライト」をすべて開放しました！
+ボーナスとして「無二江流域（ヤンサ方面）」と、
+「ガンゴッシュ」への転送も、可能になりました！"
+33,"TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM","クリスタリウムの「都市内エーテライト」をすべて開放しました！
 ボーナスとして「レイクランド」への転送も可能になりました！"
-33,"TEXT_AETHERYTE_FULL_OPEN_EURMORE","ユールモアの「都市内エーテライト」をすべて開放しました！
+34,"TEXT_AETHERYTE_FULL_OPEN_EURMORE","ユールモアの「都市内エーテライト」をすべて開放しました！
 ボーナスとして「コルシア島」への転送も可能になりました！"

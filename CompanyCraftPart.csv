@@ -102,6 +102,9 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 730,11,"外壁","CompanyCraftProcess#1490","CompanyCraftProcess#1491","CompanyCraftProcess#1492",0
 731,11,"外壁","CompanyCraftProcess#1493","CompanyCraftProcess#1494","CompanyCraftProcess#1495",0
 732,11,"外壁","CompanyCraftProcess#1496","CompanyCraftProcess#1497","CompanyCraftProcess#1498",0
+733,12,"外壁","CompanyCraftProcess#1512","CompanyCraftProcess#1513","CompanyCraftProcess#1514",0
+734,12,"外壁","CompanyCraftProcess#1515","CompanyCraftProcess#1516","CompanyCraftProcess#1517",0
+735,12,"外壁","CompanyCraftProcess#1518","CompanyCraftProcess#1519","CompanyCraftProcess#1520",0
 800,1,"屋根","CompanyCraftProcess#1050","CompanyCraftProcess#1051","CompanyCraftProcess#1052",0
 801,1,"屋根","CompanyCraftProcess#1053","CompanyCraftProcess#1054","CompanyCraftProcess#1055",0
 802,1,"屋根","CompanyCraftProcess#1056","CompanyCraftProcess#1057","CompanyCraftProcess#1058",0
@@ -135,6 +138,9 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 830,11,"屋根","CompanyCraftProcess#1499","CompanyCraftProcess#1500","CompanyCraftProcess#1501",0
 831,11,"屋根","CompanyCraftProcess#1502","CompanyCraftProcess#1503","CompanyCraftProcess#1504",0
 832,11,"屋根","CompanyCraftProcess#1505","CompanyCraftProcess#1506","CompanyCraftProcess#1507",0
+833,12,"屋根","CompanyCraftProcess#1521","CompanyCraftProcess#1522","CompanyCraftProcess#1523",0
+834,12,"屋根","CompanyCraftProcess#1524","CompanyCraftProcess#1525","CompanyCraftProcess#1526",0
+835,12,"屋根","CompanyCraftProcess#1527","CompanyCraftProcess#1528","CompanyCraftProcess#1529",0
 900,1,"扉","CompanyCraftProcess#1100","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 901,2,"扉","CompanyCraftProcess#1101","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 902,3,"扉","CompanyCraftProcess#1102","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -146,6 +152,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 908,9,"扉","CompanyCraftProcess#1108","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 909,10,"扉","CompanyCraftProcess#1109","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 910,11,"扉","CompanyCraftProcess#1508","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+911,12,"扉","CompanyCraftProcess#1530","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1000,1,"窓","CompanyCraftProcess#1150","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1001,2,"窓","CompanyCraftProcess#1151","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1002,3,"窓","CompanyCraftProcess#1152","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -157,6 +164,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 1008,9,"窓","CompanyCraftProcess#1158","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1009,10,"窓","CompanyCraftProcess#1159","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1010,11,"窓","CompanyCraftProcess#1509","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+1011,12,"窓","CompanyCraftProcess#1531","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1100,1,"塀","CompanyCraftProcess#1203","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1101,2,"塀","CompanyCraftProcess#1202","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1102,3,"塀","CompanyCraftProcess#1201","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -168,6 +176,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 1108,9,"塀","CompanyCraftProcess#1208","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1109,10,"塀","CompanyCraftProcess#1209","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1110,11,"塀","CompanyCraftProcess#1510","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+1111,12,"塀","CompanyCraftProcess#1532","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1200,1,"看板","CompanyCraftProcess#1253","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1201,2,"看板","CompanyCraftProcess#1252","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1202,3,"看板","CompanyCraftProcess#1250","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -179,6 +188,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 1208,9,"看板","CompanyCraftProcess#1258","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1209,10,"看板","CompanyCraftProcess#1259","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1210,11,"看板","CompanyCraftProcess#1511","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+1211,12,"看板","CompanyCraftProcess#1533","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1300,1,"屋根装飾","CompanyCraftProcess#1303","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1301,2,"屋根装飾","CompanyCraftProcess#1302","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1302,3,"屋根装飾","CompanyCraftProcess#1300","CompanyCraftProcess#0","CompanyCraftProcess#0",0

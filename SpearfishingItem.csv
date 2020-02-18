@@ -224,3 +224,9 @@ int32,str,Item,GatheringItemLevelConvertTable,FishingRecordType,TerritoryType,bi
 30002,"","大方士","GatheringItemLevelConvertTable#260","","e3f2",False
 30003,"","古ぼけた地図G11","GatheringItemLevelConvertTable#425","","s1f1",False
 30004,"","古ぼけた地図G12","GatheringItemLevelConvertTable#425","","s1f1",False
+30005,"","発掘隊向けのピラニア","GatheringItemLevelConvertTable#290","","n4f5",False
+30006,"","発掘隊向けのピラルク","GatheringItemLevelConvertTable#290","","n4f5",False
+30007,"","発掘隊向けの淡水海綿","GatheringItemLevelConvertTable#290","","n4f5",False
+30008,"","発掘隊向けの二枚貝","GatheringItemLevelConvertTable#290","","n4f5",False
+30009,"","発掘隊向けのナイツバス","GatheringItemLevelConvertTable#290","","n4f5",False
+30010,"","発掘隊向けの大巻貝","GatheringItemLevelConvertTable#290","","n4f5",False

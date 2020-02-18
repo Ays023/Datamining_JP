@@ -44,7 +44,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,PlaceName,PlaceName,TerritoryT
 40,"",0,"",0,0,1,0,0,"","ザル大門（中央ザナラーン南方面）","w1f2",,,,,False,"Aetheryte",3,True,,"",0,0,0
 41,"",0,"",0,0,1,0,0,"","冒険者ギルド前（鍛冶師・甲冑師ギルド/黒渦団）","s1t1",,,,,False,"Aetheryte",1,False,,"",0,0,0
 42,"",0,"",0,0,1,0,0,"","調理師ギルド前（レストラン「ビスマルク」）","s1t1",,,,,False,"Aetheryte",1,False,,"",0,0,0
-43,"",0,"",0,0,1,0,0,"","巴術士ギルド前","s1t2",,,,,False,"Aetheryte",1,False,,"",0,0,0
+43,"",0,"",0,0,1,0,0,"","巴術士ギルド前（フェリードック）","s1t2",,,,,False,"Aetheryte",1,False,,"",0,0,0
 44,"",0,"",0,0,1,0,0,"","漁師ギルド前（双剣士ギルド）","s1t2",,,,,False,"Aetheryte",1,False,,"",0,0,0
 45,"",0,"",0,0,1,0,0,"","ゼファー陸門（中央ラノシア方面）","s1f1",,,,,False,"Aetheryte",1,True,,"",0,0,0
 46,"",0,"",0,0,1,0,0,"","テンペスト陸門（低地ラノシア方面）","s1f2",,,,,False,"Aetheryte",1,True,,"",0,0,0
@@ -163,4 +163,5 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,PlaceName,PlaceName,TerritoryT
 159,"",0,"",0,0,1,0,0,"","栄光の門","n4t2",,,,,False,"AetheryteEulmore",11,False,,"",0,0,0
 160,"",0,"",0,0,1,0,0,"","栄光の道（コルシア島方面）","n4f2",,,,,False,"AetheryteEulmore",11,True,,"",0,0,0
 161,"",0,"",0,0,1,0,0,"旅立ちの宿","","n4f3",,,,,True,"Aetheryte",0,False,,"n4f3/00",713,10772,79
-162,"",0,"",0,0,1,0,0,"","",,,,,,False,"Aetheryte",0,False,,"",0,0,0
+162,"",0,"",0,0,1,0,0,"","船着場","e3ec",,,,,False,"Aetheryte",9,False,,"",0,0,0
+163,"",0,"",0,0,0,0,0,"","",,,,,,False,"",0,False,,"",0,0,0

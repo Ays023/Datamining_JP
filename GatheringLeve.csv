@@ -2,10 +2,10 @@
 #,Route[0],Route[1],Route[2],Route[3],RequiredItem[0],RequiredItemQty[0],RequiredItem[1],RequiredItemQty[1],RequiredItem[2],RequiredItemQty[2],RequiredItem[3],RequiredItemQty[3],ItemNumber,Rule,Varient,Objective[0],Objective[1],BNpcEntry,UseSecondaryTool
 int32,GatheringLeveRoute,GatheringLeveRoute,GatheringLeveRoute,GatheringLeveRoute,EventItem,byte,EventItem,byte,EventItem,byte,EventItem,byte,byte,GatheringLeveRule,byte,uint16,uint16,GatheringLeveBNpcEntry,bit&01
 131072,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
-131073,"GatheringLeveRoute#1","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,2,"GatheringLeveSearch",0,10,0,"GatheringLeveBNpcEntry#0",True
-131074,"GatheringLeveRoute#1","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","調査地域のメープル原木",1,"トレントのどんぐり",2,,0,,0,0,"GatheringLeveProcurance",0,11,0,"GatheringLeveBNpcEntry#0",False
-131075,"GatheringLeveRoute#1","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","アッシュの若木",1,"東岸のミスルトゥ",2,,0,,0,2,"GatheringLeveSearchProcurance",0,12,0,"GatheringLeveBNpcEntry#0",False
-131076,"GatheringLeveRoute#1","GatheringLeveRoute#2","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,2,"GatheringLeveExecution",0,13,0,"GatheringLeveBNpcEntry#1",False
+131073,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
+131074,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
+131075,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
+131076,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
 131077,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
 131078,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
 131079,"GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,0,"",0,0,0,"GatheringLeveBNpcEntry#0",False
@@ -25,7 +25,7 @@ int32,GatheringLeveRoute,GatheringLeveRoute,GatheringLeveRoute,GatheringLeveRout
 131093,"GatheringLeveRoute#50","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","特濃メープル樹液",35,,0,,0,,0,0,"GatheringLeveProcurance",0,11,0,"GatheringLeveBNpcEntry#0",False
 131094,"GatheringLeveRoute#51","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","印が刻まれた樹皮",35,,0,,0,,0,0,"GatheringLeveProcurance",0,11,0,"GatheringLeveBNpcEntry#0",False
 131095,"GatheringLeveRoute#52","GatheringLeveRoute#53","GatheringLeveRoute#54","GatheringLeveRoute#55",,0,,0,,0,,0,4,"GatheringLeveExecution",0,13,0,"GatheringLeveBNpcEntry#0",True
-131096,"GatheringLeveRoute#56","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0",,0,,0,,0,,0,8,"GatheringLeveSearch",0,10,0,"GatheringLeveBNpcEntry#0",False
+131096,"GatheringLeveRoute#56","GatheringLeveRoute#57","GatheringLeveRoute#58","GatheringLeveRoute#59",,0,,0,,0,,0,8,"GatheringLeveSearch",0,10,0,"GatheringLeveBNpcEntry#0",False
 131097,"GatheringLeveRoute#60","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","上質のガラゴミント",40,,0,,0,,0,0,"GatheringLeveProcurance",0,11,0,"GatheringLeveBNpcEntry#0",True
 131098,"GatheringLeveRoute#61","GatheringLeveRoute#0","GatheringLeveRoute#0","GatheringLeveRoute#0","ゲルモラ時代の古銭",40,,0,,0,,0,0,"GatheringLeveProcurance",0,11,0,"GatheringLeveBNpcEntry#0",False
 131099,"GatheringLeveRoute#62","GatheringLeveRoute#63","GatheringLeveRoute#64","GatheringLeveRoute#65","たき火用の薪",32,,0,,0,,0,8,"GatheringLeveSearchProcurance",0,12,0,"GatheringLeveBNpcEntry#0",False

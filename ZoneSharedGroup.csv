@@ -136,6 +136,12 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 28.0,7965311,2,"イキス・マヤエの森",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 28.1,7624736,2,"蛇の水場",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 28.2,7460201,2,"よろずなる神の御殿",255,False,2,"仕掛けと呪いと毒と",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+28.3,8262841,1,"正史紡ぎし民ぞ来たり",0,False,1,"体現せしめんは夜の叡智たり",0,False,1,"諸神の加護ぞあると祈りたり",0,False,1,"己が篝火の灯し手なりたり",0,False,2,"時移ろいて慈悲ぞ栄えたり",255,False,2,"共なる調和を祝いたり",4,False,0,0,0,False
+28.4,8262789,1,"第一の石碑：キタリ族征服説",0,False,1,"第一の石碑：キタリ族守護説",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+28.5,8262790,1,"第二の石碑：キタリ族狩猟説",0,False,1,"第二の石碑：ヴィース族歓迎説",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+28.6,8262791,1,"第三の石碑：ナマズ獣人滅亡説",0,False,1,"第三の石碑：ナマズ獣人救済説",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+28.7,8262788,2,"時移ろいて慈悲ぞ栄えたり",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+28.8,8264083,1,"正史紡ぎし民ぞ来たり",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 29.0,7965327,2,"明かりの灯りし地",8,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 29.1,7811622,2,"明かりの灯りし地",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 29.2,7852579,2,"漆黒のヴィランズ",7,False,2,"漆黒のヴィランズ",8,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
