@@ -1,6 +1,6 @@
 ﻿key,0
 #,Currency
-int32,Currency
+int32,Item
 0,""
-1,
-2,
+1,"バイカラージェム"
+2,"蒼天街振興券"
