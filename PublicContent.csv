@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,Type,TimeLimit,MapIcon,Name,TextData{Start},TextData{End},,,,ContentFinderCondition,AdditionalData,,,Unknown[5-4][0],Unknown[5-4][1],Unknown[5-4][2]
+#,Type,TimeLimit,MapIcon,Name,TextData{Start},TextData{End},,,,ContentFinderCondition,AdditionalData,,,,,
 int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,uint16,uint32,uint32,ContentFinderCondition,Row,byte,uint16,int32,uint16,uint16
 0,0,0,,"","","",0,0,0,"",,0,0,0,18,0
 1,1,0,,"エターナルセレモニー","セレモニー開始前

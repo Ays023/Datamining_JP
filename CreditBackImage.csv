@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,Unknown[5-4],BackImage,
+#,,,,BackImage,
 int32,uint16,uint16,bit&01,Image,byte
 0.0,0,16,False,,0
 0.1,21,50,False,"ui/icon/071000/071721.tex",5
